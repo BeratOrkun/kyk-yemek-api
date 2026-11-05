@@ -1,0 +1,407 @@
+[
+  {
+    "name": "Adana",
+    "slug": "adana",
+    "has_today_menu": true
+  },
+  {
+    "name": "Adıyaman",
+    "slug": "adiyaman",
+    "has_today_menu": false
+  },
+  {
+    "name": "Afyonkarahisar",
+    "slug": "afyonkarahisar",
+    "has_today_menu": false
+  },
+  {
+    "name": "Ağrı",
+    "slug": "agri",
+    "has_today_menu": false
+  },
+  {
+    "name": "Aksaray",
+    "slug": "aksaray",
+    "has_today_menu": false
+  },
+  {
+    "name": "Amasya",
+    "slug": "amasya",
+    "has_today_menu": false
+  },
+  {
+    "name": "Ankara",
+    "slug": "ankara",
+    "has_today_menu": true
+  },
+  {
+    "name": "Antalya",
+    "slug": "antalya",
+    "has_today_menu": true
+  },
+  {
+    "name": "Ardahan",
+    "slug": "ardahan",
+    "has_today_menu": false
+  },
+  {
+    "name": "Artvin",
+    "slug": "artvin",
+    "has_today_menu": false
+  },
+  {
+    "name": "Aydın",
+    "slug": "aydin",
+    "has_today_menu": false
+  },
+  {
+    "name": "Balıkesir",
+    "slug": "balikesir",
+    "has_today_menu": true
+  },
+  {
+    "name": "Bartın",
+    "slug": "bartin",
+    "has_today_menu": false
+  },
+  {
+    "name": "Batman",
+    "slug": "batman",
+    "has_today_menu": false
+  },
+  {
+    "name": "Bayburt",
+    "slug": "bayburt",
+    "has_today_menu": false
+  },
+  {
+    "name": "Bilecik",
+    "slug": "bilecik",
+    "has_today_menu": false
+  },
+  {
+    "name": "Bingöl",
+    "slug": "bingol",
+    "has_today_menu": false
+  },
+  {
+    "name": "Bitlis",
+    "slug": "bitlis",
+    "has_today_menu": false
+  },
+  {
+    "name": "Bolu",
+    "slug": "bolu",
+    "has_today_menu": false
+  },
+  {
+    "name": "Burdur",
+    "slug": "burdur",
+    "has_today_menu": true
+  },
+  {
+    "name": "Bursa",
+    "slug": "bursa",
+    "has_today_menu": true
+  },
+  {
+    "name": "Çanakkale",
+    "slug": "canakkale",
+    "has_today_menu": true
+  },
+  {
+    "name": "Çankırı",
+    "slug": "cankiri",
+    "has_today_menu": false
+  },
+  {
+    "name": "Çorum",
+    "slug": "corum",
+    "has_today_menu": false
+  },
+  {
+    "name": "Denizli",
+    "slug": "denizli",
+    "has_today_menu": true
+  },
+  {
+    "name": "Diyarbakır",
+    "slug": "diyarbakir",
+    "has_today_menu": true
+  },
+  {
+    "name": "Düzce",
+    "slug": "duzce",
+    "has_today_menu": false
+  },
+  {
+    "name": "Edirne",
+    "slug": "edirne",
+    "has_today_menu": false
+  },
+  {
+    "name": "Elazığ",
+    "slug": "elazig",
+    "has_today_menu": false
+  },
+  {
+    "name": "Erzincan",
+    "slug": "erzincan",
+    "has_today_menu": true
+  },
+  {
+    "name": "Erzurum",
+    "slug": "erzurum",
+    "has_today_menu": true
+  },
+  {
+    "name": "Eskişehir",
+    "slug": "eskisehir",
+    "has_today_menu": true
+  },
+  {
+    "name": "Gaziantep",
+    "slug": "gaziantep",
+    "has_today_menu": true
+  },
+  {
+    "name": "Giresun",
+    "slug": "giresun",
+    "has_today_menu": false
+  },
+  {
+    "name": "Gümüşhane",
+    "slug": "gumushane",
+    "has_today_menu": false
+  },
+  {
+    "name": "Hakkâri",
+    "slug": "hakkari",
+    "has_today_menu": false
+  },
+  {
+    "name": "Hatay",
+    "slug": "hatay",
+    "has_today_menu": false
+  },
+  {
+    "name": "Iğdır",
+    "slug": "igdir",
+    "has_today_menu": false
+  },
+  {
+    "name": "Isparta",
+    "slug": "isparta",
+    "has_today_menu": true
+  },
+  {
+    "name": "İstanbul",
+    "slug": "istanbul",
+    "has_today_menu": true
+  },
+  {
+    "name": "İzmir",
+    "slug": "izmir",
+    "has_today_menu": true
+  },
+  {
+    "name": "Kahramanmaraş",
+    "slug": "kahramanmaras",
+    "has_today_menu": true
+  },
+  {
+    "name": "Karabük",
+    "slug": "karabuk",
+    "has_today_menu": true
+  },
+  {
+    "name": "Karaman",
+    "slug": "karaman",
+    "has_today_menu": false
+  },
+  {
+    "name": "Kars",
+    "slug": "kars",
+    "has_today_menu": false
+  },
+  {
+    "name": "Kastamonu",
+    "slug": "kastamonu",
+    "has_today_menu": false
+  },
+  {
+    "name": "Kayseri",
+    "slug": "kayseri",
+    "has_today_menu": true
+  },
+  {
+    "name": "Kırıkkale",
+    "slug": "kirikkale",
+    "has_today_menu": false
+  },
+  {
+    "name": "Kırklareli",
+    "slug": "kirklareli",
+    "has_today_menu": true
+  },
+  {
+    "name": "Kırşehir",
+    "slug": "kirsehir",
+    "has_today_menu": false
+  },
+  {
+    "name": "Kilis",
+    "slug": "kilis",
+    "has_today_menu": false
+  },
+  {
+    "name": "Kocaeli",
+    "slug": "kocaeli",
+    "has_today_menu": true
+  },
+  {
+    "name": "Konya",
+    "slug": "konya",
+    "has_today_menu": true
+  },
+  {
+    "name": "Kütahya",
+    "slug": "kutahya",
+    "has_today_menu": false
+  },
+  {
+    "name": "Malatya",
+    "slug": "malatya",
+    "has_today_menu": false
+  },
+  {
+    "name": "Manisa",
+    "slug": "manisa",
+    "has_today_menu": false
+  },
+  {
+    "name": "Mardin",
+    "slug": "mardin",
+    "has_today_menu": false
+  },
+  {
+    "name": "Mersin",
+    "slug": "mersin",
+    "has_today_menu": false
+  },
+  {
+    "name": "Muğla",
+    "slug": "mugla",
+    "has_today_menu": true
+  },
+  {
+    "name": "Muş",
+    "slug": "mus",
+    "has_today_menu": false
+  },
+  {
+    "name": "Nevşehir",
+    "slug": "nevsehir",
+    "has_today_menu": false
+  },
+  {
+    "name": "Niğde",
+    "slug": "nigde",
+    "has_today_menu": true
+  },
+  {
+    "name": "Ordu",
+    "slug": "ordu",
+    "has_today_menu": false
+  },
+  {
+    "name": "Osmaniye",
+    "slug": "osmaniye",
+    "has_today_menu": false
+  },
+  {
+    "name": "Rize",
+    "slug": "rize",
+    "has_today_menu": false
+  },
+  {
+    "name": "Sakarya",
+    "slug": "sakarya",
+    "has_today_menu": true
+  },
+  {
+    "name": "Samsun",
+    "slug": "samsun",
+    "has_today_menu": true
+  },
+  {
+    "name": "Şanlıurfa",
+    "slug": "sanliurfa",
+    "has_today_menu": false
+  },
+  {
+    "name": "Siirt",
+    "slug": "siirt",
+    "has_today_menu": true
+  },
+  {
+    "name": "Sinop",
+    "slug": "sinop",
+    "has_today_menu": false
+  },
+  {
+    "name": "Sivas",
+    "slug": "sivas",
+    "has_today_menu": true
+  },
+  {
+    "name": "Şırnak",
+    "slug": "sirnak",
+    "has_today_menu": false
+  },
+  {
+    "name": "Tekirdağ",
+    "slug": "tekirdag",
+    "has_today_menu": false
+  },
+  {
+    "name": "Tokat",
+    "slug": "tokat",
+    "has_today_menu": true
+  },
+  {
+    "name": "Trabzon",
+    "slug": "trabzon",
+    "has_today_menu": true
+  },
+  {
+    "name": "Tunceli",
+    "slug": "tunceli",
+    "has_today_menu": false
+  },
+  {
+    "name": "Uşak",
+    "slug": "usak",
+    "has_today_menu": true
+  },
+  {
+    "name": "Van",
+    "slug": "van",
+    "has_today_menu": false
+  },
+  {
+    "name": "Yalova",
+    "slug": "yalova",
+    "has_today_menu": false
+  },
+  {
+    "name": "Yozgat",
+    "slug": "yozgat",
+    "has_today_menu": false
+  },
+  {
+    "name": "Zonguldak",
+    "slug": "zonguldak",
+    "has_today_menu": false
+  }
+]
