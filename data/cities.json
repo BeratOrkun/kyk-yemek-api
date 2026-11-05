@@ -7,27 +7,27 @@
   {
     "name": "Adıyaman",
     "slug": "adiyaman",
-    "has_today_menu": false
+    "has_today_menu": true
   },
   {
     "name": "Afyonkarahisar",
     "slug": "afyonkarahisar",
-    "has_today_menu": false
+    "has_today_menu": true
   },
   {
     "name": "Ağrı",
     "slug": "agri",
-    "has_today_menu": false
+    "has_today_menu": true
   },
   {
     "name": "Aksaray",
     "slug": "aksaray",
-    "has_today_menu": false
+    "has_today_menu": true
   },
   {
     "name": "Amasya",
     "slug": "amasya",
-    "has_today_menu": false
+    "has_today_menu": true
   },
   {
     "name": "Ankara",
@@ -42,17 +42,17 @@
   {
     "name": "Ardahan",
     "slug": "ardahan",
-    "has_today_menu": false
+    "has_today_menu": true
   },
   {
     "name": "Artvin",
     "slug": "artvin",
-    "has_today_menu": false
+    "has_today_menu": true
   },
   {
     "name": "Aydın",
     "slug": "aydin",
-    "has_today_menu": false
+    "has_today_menu": true
   },
   {
     "name": "Balıkesir",
@@ -62,37 +62,37 @@
   {
     "name": "Bartın",
     "slug": "bartin",
-    "has_today_menu": false
+    "has_today_menu": true
   },
   {
     "name": "Batman",
     "slug": "batman",
-    "has_today_menu": false
+    "has_today_menu": true
   },
   {
     "name": "Bayburt",
     "slug": "bayburt",
-    "has_today_menu": false
+    "has_today_menu": true
   },
   {
     "name": "Bilecik",
     "slug": "bilecik",
-    "has_today_menu": false
+    "has_today_menu": true
   },
   {
     "name": "Bingöl",
     "slug": "bingol",
-    "has_today_menu": false
+    "has_today_menu": true
   },
   {
     "name": "Bitlis",
     "slug": "bitlis",
-    "has_today_menu": false
+    "has_today_menu": true
   },
   {
     "name": "Bolu",
     "slug": "bolu",
-    "has_today_menu": false
+    "has_today_menu": true
   },
   {
     "name": "Burdur",
@@ -112,12 +112,12 @@
   {
     "name": "Çankırı",
     "slug": "cankiri",
-    "has_today_menu": false
+    "has_today_menu": true
   },
   {
     "name": "Çorum",
     "slug": "corum",
-    "has_today_menu": false
+    "has_today_menu": true
   },
   {
     "name": "Denizli",
@@ -132,17 +132,17 @@
   {
     "name": "Düzce",
     "slug": "duzce",
-    "has_today_menu": false
+    "has_today_menu": true
   },
   {
     "name": "Edirne",
     "slug": "edirne",
-    "has_today_menu": false
+    "has_today_menu": true
   },
   {
     "name": "Elazığ",
     "slug": "elazig",
-    "has_today_menu": false
+    "has_today_menu": true
   },
   {
     "name": "Erzincan",
@@ -167,27 +167,27 @@
   {
     "name": "Giresun",
     "slug": "giresun",
-    "has_today_menu": false
+    "has_today_menu": true
   },
   {
     "name": "Gümüşhane",
     "slug": "gumushane",
-    "has_today_menu": false
+    "has_today_menu": true
   },
   {
     "name": "Hakkâri",
     "slug": "hakkari",
-    "has_today_menu": false
+    "has_today_menu": true
   },
   {
     "name": "Hatay",
     "slug": "hatay",
-    "has_today_menu": false
+    "has_today_menu": true
   },
   {
     "name": "Iğdır",
     "slug": "igdir",
-    "has_today_menu": false
+    "has_today_menu": true
   },
   {
     "name": "Isparta",
@@ -217,17 +217,17 @@
   {
     "name": "Karaman",
     "slug": "karaman",
-    "has_today_menu": false
+    "has_today_menu": true
   },
   {
     "name": "Kars",
     "slug": "kars",
-    "has_today_menu": false
+    "has_today_menu": true
   },
   {
     "name": "Kastamonu",
     "slug": "kastamonu",
-    "has_today_menu": false
+    "has_today_menu": true
   },
   {
     "name": "Kayseri",
@@ -237,7 +237,7 @@
   {
     "name": "Kırıkkale",
     "slug": "kirikkale",
-    "has_today_menu": false
+    "has_today_menu": true
   },
   {
     "name": "Kırklareli",
@@ -247,12 +247,12 @@
   {
     "name": "Kırşehir",
     "slug": "kirsehir",
-    "has_today_menu": false
+    "has_today_menu": true
   },
   {
     "name": "Kilis",
     "slug": "kilis",
-    "has_today_menu": false
+    "has_today_menu": true
   },
   {
     "name": "Kocaeli",
@@ -267,27 +267,27 @@
   {
     "name": "Kütahya",
     "slug": "kutahya",
-    "has_today_menu": false
+    "has_today_menu": true
   },
   {
     "name": "Malatya",
     "slug": "malatya",
-    "has_today_menu": false
+    "has_today_menu": true
   },
   {
     "name": "Manisa",
     "slug": "manisa",
-    "has_today_menu": false
+    "has_today_menu": true
   },
   {
     "name": "Mardin",
     "slug": "mardin",
-    "has_today_menu": false
+    "has_today_menu": true
   },
   {
     "name": "Mersin",
     "slug": "mersin",
-    "has_today_menu": false
+    "has_today_menu": true
   },
   {
     "name": "Muğla",
@@ -297,12 +297,12 @@
   {
     "name": "Muş",
     "slug": "mus",
-    "has_today_menu": false
+    "has_today_menu": true
   },
   {
     "name": "Nevşehir",
     "slug": "nevsehir",
-    "has_today_menu": false
+    "has_today_menu": true
   },
   {
     "name": "Niğde",
@@ -312,17 +312,17 @@
   {
     "name": "Ordu",
     "slug": "ordu",
-    "has_today_menu": false
+    "has_today_menu": true
   },
   {
     "name": "Osmaniye",
     "slug": "osmaniye",
-    "has_today_menu": false
+    "has_today_menu": true
   },
   {
     "name": "Rize",
     "slug": "rize",
-    "has_today_menu": false
+    "has_today_menu": true
   },
   {
     "name": "Sakarya",
@@ -337,7 +337,7 @@
   {
     "name": "Şanlıurfa",
     "slug": "sanliurfa",
-    "has_today_menu": false
+    "has_today_menu": true
   },
   {
     "name": "Siirt",
@@ -347,7 +347,7 @@
   {
     "name": "Sinop",
     "slug": "sinop",
-    "has_today_menu": false
+    "has_today_menu": true
   },
   {
     "name": "Sivas",
@@ -357,12 +357,12 @@
   {
     "name": "Şırnak",
     "slug": "sirnak",
-    "has_today_menu": false
+    "has_today_menu": true
   },
   {
     "name": "Tekirdağ",
     "slug": "tekirdag",
-    "has_today_menu": false
+    "has_today_menu": true
   },
   {
     "name": "Tokat",
@@ -377,7 +377,7 @@
   {
     "name": "Tunceli",
     "slug": "tunceli",
-    "has_today_menu": false
+    "has_today_menu": true
   },
   {
     "name": "Uşak",
@@ -387,21 +387,21 @@
   {
     "name": "Van",
     "slug": "van",
-    "has_today_menu": false
+    "has_today_menu": true
   },
   {
     "name": "Yalova",
     "slug": "yalova",
-    "has_today_menu": false
+    "has_today_menu": true
   },
   {
     "name": "Yozgat",
     "slug": "yozgat",
-    "has_today_menu": false
+    "has_today_menu": true
   },
   {
     "name": "Zonguldak",
     "slug": "zonguldak",
-    "has_today_menu": false
+    "has_today_menu": true
   }
 ]

@@ -7,7 +7,7 @@ from typing import Any
 
 from .config import settings
 
-SOURCE_PRIORITY = {"manual": 100, "kepce": 60, "kykyemek": 50, "kykyurtmenu": 40}
+SOURCE_PRIORITY = {"manual": 100, "kykyemek": 80, "kykyurtmenu": 60, "syrblo": 40}
 
 
 def _connect() -> sqlite3.Connection:

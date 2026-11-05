@@ -14,7 +14,6 @@ from .cities import CITY_NAMES, canonical_city
 from .config import settings
 from .database import init_db, get_menu, get_month, get_source_status, upsert_menu
 from .service import maybe_sync_city, sync_city
-from .scrapers import kepce
 
 TZ = ZoneInfo("Europe/Istanbul")
 _stop_event = threading.Event()
@@ -125,27 +124,12 @@ def menu(
             "attribution": {"name": "Yönetici girişi", "url": None, "text": "Bu menü yönetici tarafından girilmiştir."},
             "sync": None,
         }
-    kepce_error = None
 
-    # Önce izin verilen JSON API'yi sorgula. Bu veri kalıcı olarak kopyalanmaz;
-    # sadece 10 dakikalık süreç içi önbellek kullanılır ve atıf döndürülür.
-    try:
-        live_rows = kepce.fetch_city_date(city_name, city_slug, requested_date)
-        live_record = next((row for row in live_rows if row["meal"] == meal), None)
-        if live_record:
-            return {
-                "ok": True,
-                "data": live_record,
-                "attribution": {"name": "Kepçe", "url": "https://kepce.org", "text": "Menü verisi Kepçe API üzerinden alınmıştır."},
-                "sync": None,
-            }
-    except Exception as exc:
-        kepce_error = str(exc)[:500]
-
-    # Kepçe'de kayıt yoksa / API geçici olarak erişilemiyorsa HTML kaynaklarına dön.
     record = get_menu(city_slug, meal, requested_date.isoformat())
-    sync_result = maybe_sync_city(city_name, requested_date)
-    record = get_menu(city_slug, meal, requested_date.isoformat()) or record
+    sync_result = None
+    if record is None:
+        sync_result = maybe_sync_city(city_name, requested_date)
+        record = get_menu(city_slug, meal, requested_date.isoformat())
 
     if record is None:
         raise HTTPException(
@@ -155,7 +139,6 @@ def menu(
                 "city": city_name,
                 "date": requested_date.isoformat(),
                 "meal": meal,
-                "kepce_error": kepce_error,
                 "sync": sync_result,
             },
         )
@@ -207,31 +190,6 @@ def month(
         "month": selected_month,
         "count": len(records),
         "data": records,
-    }
-
-
-@app.get("/api/v1/kepce")
-def kepce_raw(
-    city: str = Query(..., description="Şehir slug veya adı; örn. Ankara"),
-    menu_date: str = Query(default="today", alias="date", description="today veya YYYY-MM-DD"),
-):
-    try:
-        city_name, city_slug = canonical_city(city)
-        if menu_date != "today":
-            date.fromisoformat(menu_date)
-        payload, source_url = kepce.fetch_raw(city_slug, menu_date)
-    except ValueError as exc:
-        raise HTTPException(status_code=400, detail=str(exc)) from exc
-    except Exception as exc:
-        raise HTTPException(status_code=502, detail=f"Kepçe API'ye ulaşılamadı: {str(exc)[:400]}") from exc
-    return {
-        "ok": True,
-        "city": city_name,
-        "date": menu_date,
-        "source": "kepce",
-        "attribution": {"name": "Kepçe", "url": "https://kepce.org", "text": "Menü verisi Kepçe API üzerinden alınmıştır."},
-        "upstream_url": source_url,
-        "data": payload,
     }
 
 

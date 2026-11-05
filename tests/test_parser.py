@@ -31,29 +31,3 @@ def test_kykyurtmenu_parser():
     assert len(rows) == 1
     assert rows[0]["date"] == "2026-11-05"
     assert "Haşlanmış Yumurta" in rows[0]["items"]
-
-
-def test_kepce_normalizer():
-    from app.scrapers.kepce import normalize_payload
-    payload = [{
-        "city_name": "Ankara",
-        "city_slug": "ankara",
-        "serve_date": "2026-11-05",
-        "meal_type": "dinner",
-        "status": "approved",
-        "items": [{
-            "name": "Mercimek Çorbası",
-            "amount": "200 ml",
-            "calories": 140,
-            "price": 18.0,
-            "category": "ÇORBA",
-            "is_alternative": False,
-            "master_data": {"is_vegan": True},
-        }],
-        "calculated_calories": 140,
-    }]
-    rows = normalize_payload(payload, "Ankara", "2026-11-05", "https://kepce.org/api/v1/menus")
-    assert len(rows) == 1
-    assert rows[0]["items"] == ["Mercimek Çorbası"]
-    assert rows[0]["item_details"][0]["price"] == 18.0
-    assert rows[0]["calories"] == 140
