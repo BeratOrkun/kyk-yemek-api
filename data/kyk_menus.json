@@ -518,41 +518,6 @@
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Kahramanmaraş?city=Kahramanmara%C5%9F&mealType=true&hidePast=false&monthShift=0"
         }
       },
-      "karabuk": {
-        "city": "Karabük",
-        "city_slug": "karabuk",
-        "date": "2026-11-01",
-        "breakfast": {
-          "items": [
-            "Peynirli Omlet",
-            "Menemen",
-            "Sade Poğaça",
-            "Labne Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Mercimek Çorbası",
-            "Köri Soslu Tavuk",
-            "Sultan Kebabı",
-            "Fasulye Yemeği",
-            "Spagetti",
-            "Çiğ Köfte",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
       "kirklareli": {
         "city": "Kırklareli",
         "city_slug": "kirklareli",
@@ -1396,43 +1361,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Kahramanmaraş?city=Kahramanmara%C5%9F&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "karabuk": {
-        "city": "Karabük",
-        "city_slug": "karabuk",
-        "date": "2026-11-02",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Patates Kızartması",
-            "Zeytinli",
-            "Peynirli Açma",
-            "Beyaz Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 965,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Ezogelin Çorba",
-            "Tavuklu Şehriye Çorba",
-            "Nohut Yemeği",
-            "Tepsi Kumpir",
-            "Tereyağlı Pirinç Pilavı",
-            "Baklava-Kadayıf(Cevizli",
-            "Fındıklı)",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "kirklareli": {
@@ -2293,44 +2221,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Kahramanmaraş?city=Kahramanmara%C5%9F&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "karabuk": {
-        "city": "Karabük",
-        "city_slug": "karabuk",
-        "date": "2026-11-03",
-        "breakfast": {
-          "items": [
-            "Kaşarlı Omlet",
-            "Patatesli",
-            "Peynirli",
-            "Ispanaklı Börek",
-            "Dere Otlu Poğaça",
-            "Kaşar Peyniri",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Mercimek Çorbası",
-            "Tarhana Çorba",
-            "Çıtır Tavuk",
-            "Sivas Köfte",
-            "Patlıcan Yemeği",
-            "Bulgur Pilavı",
-            "Çoban Salata",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "kirklareli": {
@@ -3212,43 +3102,6 @@
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Kahramanmaraş?city=Kahramanmara%C5%9F&mealType=true&hidePast=false&monthShift=0"
         }
       },
-      "karabuk": {
-        "city": "Karabük",
-        "city_slug": "karabuk",
-        "date": "2026-11-04",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Sosis Kızartması",
-            "Peynirli",
-            "Ispanaklı Börek",
-            "Beyaz Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 884,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Ezogelin Çorba",
-            "Düğün Çorba",
-            "İzmir Köfte",
-            "Tavuk Sote",
-            "Bamya Yemeği",
-            "Fırın Makarna",
-            "Supangle",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
       "kirklareli": {
         "city": "Kırklareli",
         "city_slug": "kirklareli",
@@ -4112,42 +3965,6 @@
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Kahramanmaraş?city=Kahramanmara%C5%9F&mealType=true&hidePast=false&monthShift=0"
         }
       },
-      "karabuk": {
-        "city": "Karabük",
-        "city_slug": "karabuk",
-        "date": "2026-11-05",
-        "breakfast": {
-          "items": [
-            "Sucuklu Omlet",
-            "Karışık Kızartma",
-            "Simit",
-            "Krem Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Mercimek Çorbası",
-            "Şehriye Çorbası",
-            "Kemiksiz Tavuk Pirzola",
-            "Et Sote",
-            "Kabak Yemeği",
-            "Tereyağlı Pirinç Pilavı",
-            "Bahçe Salata",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
       "kirklareli": {
         "city": "Kırklareli",
         "city_slug": "kirklareli",
@@ -4998,42 +4815,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Kahramanmaraş?city=Kahramanmara%C5%9F&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "karabuk": {
-        "city": "Karabük",
-        "city_slug": "karabuk",
-        "date": "2026-11-06",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Haşlanmış Patates+Domates+Salatalık",
-            "Karışık Pizza",
-            "Yöresel Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Ezogelin Çorba",
-            "Mısır Çorba",
-            "Et Tantuni",
-            "Şinitzel",
-            "Ispanak Yemeği",
-            "Bulgur Pilavı",
-            "Cacık",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "kirklareli": {
@@ -6182,6 +5963,36 @@
       "igdir": {
         "city": "Iğdır",
         "city_slug": "igdir",
+        "date": "2026-11-06",
+        "breakfast": {
+          "items": [
+            "Haşlanmış Yumurta / Omlet",
+            "Beyaz Peynir / Kaşar Peynir",
+            "Siyah ve Yeşil Zeytin",
+            "Taze Ekmek & Simit",
+            "Sıcak Çay / Süt"
+          ],
+          "calories": 750,
+          "source": "standart_kyk",
+          "source_url": null
+        },
+        "dinner": {
+          "items": [
+            "Tarhana Çorba / Tutmaç Çorba",
+            "Et Fajita / Kekikli Beşamelli Tavuk / Kabak Mücver",
+            "Bezelyeli Pirinç Pilavı",
+            "Cacık",
+            "500 ml Su",
+            "Çeyrek Ekmek"
+          ],
+          "calories": 920,
+          "source": "syrblo_yedek",
+          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+        }
+      },
+      "karabuk": {
+        "city": "Karabük",
+        "city_slug": "karabuk",
         "date": "2026-11-06",
         "breakfast": {
           "items": [
@@ -7595,42 +7406,6 @@
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Kahramanmaraş?city=Kahramanmara%C5%9F&mealType=true&hidePast=false&monthShift=0"
         }
       },
-      "karabuk": {
-        "city": "Karabük",
-        "city_slug": "karabuk",
-        "date": "2026-11-07",
-        "breakfast": {
-          "items": [
-            "Menemen",
-            "Kek",
-            "Milföy Börek",
-            "Beyaz Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Mercimek Çorbası",
-            "Toyga Çorba",
-            "Kremalı Mantarlı Tavuk",
-            "Orman Kebabı",
-            "Karnabahar Graten",
-            "Sade-Salçalı Makarna",
-            "Browni",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
       "kirklareli": {
         "city": "Kırklareli",
         "city_slug": "kirklareli",
@@ -8486,42 +8261,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Kahramanmaraş?city=Kahramanmara%C5%9F&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "karabuk": {
-        "city": "Karabük",
-        "city_slug": "karabuk",
-        "date": "2026-11-08",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Patates Kavurması",
-            "Pankek+Sürülebilir Çikolata",
-            "Kaşar Peyniri",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Ezogelin Çorba",
-            "Yayla Çorbası",
-            "Hamburger",
-            "Tavuk Fajita",
-            "Taze Fasulye Yemeği",
-            "Tereyağlı Şehriyeli Pirinç Pilavı",
-            "Ayran",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "kirklareli": {
@@ -9398,42 +9137,6 @@
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Kahramanmaraş?city=Kahramanmara%C5%9F&mealType=true&hidePast=false&monthShift=0"
         }
       },
-      "karabuk": {
-        "city": "Karabük",
-        "city_slug": "karabuk",
-        "date": "2026-11-09",
-        "breakfast": {
-          "items": [
-            "Sade Omlet",
-            "Patates Kızartması",
-            "Sade Poğaça",
-            "Beyaz Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Mercimek Çorbası",
-            "Domates Çorba",
-            "Püreli Kebap",
-            "Tavuk Şiş",
-            "Pırasa Yemeği",
-            "Bulgur Pilavı",
-            "Karışık Salata",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
       "kirklareli": {
         "city": "Kırklareli",
         "city_slug": "kirklareli",
@@ -10299,43 +10002,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Kahramanmaraş?city=Kahramanmara%C5%9F&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "karabuk": {
-        "city": "Karabük",
-        "city_slug": "karabuk",
-        "date": "2026-11-10",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Salçalı Sosis",
-            "Peynirli",
-            "Ispanaklı Börek",
-            "Yöresel Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Ezogelin Çorba",
-            "Mısır Çorba",
-            "Tavuk Tantuni",
-            "Izgara Köfte",
-            "Mücver",
-            "Tereyağlı Pirinç Pilavı",
-            "Haydari",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "kirklareli": {
@@ -11227,45 +10893,6 @@
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Kahramanmaraş?city=Kahramanmara%C5%9F&mealType=true&hidePast=false&monthShift=0"
         }
       },
-      "karabuk": {
-        "city": "Karabük",
-        "city_slug": "karabuk",
-        "date": "2026-11-11",
-        "breakfast": {
-          "items": [
-            "Peynirli Omlet",
-            "Krep",
-            "Zeytinli",
-            "Peynirli Açma",
-            "Kaşar Peyniri",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Mercimek Çorbası",
-            "Düğün Çorba (Etli)",
-            "Düğün Çorba",
-            "(Etli)",
-            "Kuru Fasulye",
-            "Karışık Dolma",
-            "Sade-Salçalı Makarna",
-            "Yoğurt",
-            "Revani",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
       "kirklareli": {
         "city": "Kırklareli",
         "city_slug": "kirklareli",
@@ -12120,42 +11747,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Kahramanmaraş?city=Kahramanmara%C5%9F&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "karabuk": {
-        "city": "Karabük",
-        "city_slug": "karabuk",
-        "date": "2026-11-12",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Patates Kızartması",
-            "Pişi+Domates+Salatalık",
-            "Beyaz Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Ezogelin Çorba",
-            "Sebze Çorbası",
-            "Tavuk Külbastı",
-            "Tas Kebap",
-            "Patlıcan Yemeği",
-            "Bulgur Pilavı",
-            "Çoban Salata",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "kirklareli": {
@@ -13021,43 +12612,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Kahramanmaraş?city=Kahramanmara%C5%9F&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "karabuk": {
-        "city": "Karabük",
-        "city_slug": "karabuk",
-        "date": "2026-11-13",
-        "breakfast": {
-          "items": [
-            "Menemen",
-            "Patates Salatası",
-            "Simit",
-            "Labne Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 734,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Mercimek Çorbası",
-            "Tarhana Çorba",
-            "Adana Kebap",
-            "Beşamel Soslu tavuk",
-            "Bezelye Yemeği",
-            "Spagetti",
-            "Ayran",
-            "Meyve Suyu",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "kirklareli": {
@@ -13927,42 +13481,6 @@
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Kahramanmaraş?city=Kahramanmara%C5%9F&mealType=true&hidePast=false&monthShift=0"
         }
       },
-      "karabuk": {
-        "city": "Karabük",
-        "city_slug": "karabuk",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Pişi",
-            "Milföy Böreği",
-            "Kaşar Peyniri",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Ezogelin Çorba",
-            "Yayla Çorbası",
-            "Tavuk Çökertme",
-            "Çoban Kavurma",
-            "Fellah Köfte",
-            "Tereyağlı Şehriyeli Pirinç Pilavı",
-            "Trileçe",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
       "kirklareli": {
         "city": "Kırklareli",
         "city_slug": "kirklareli",
@@ -14822,42 +14340,6 @@
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Kahramanmaraş?city=Kahramanmara%C5%9F&mealType=true&hidePast=false&monthShift=0"
         }
       },
-      "karabuk": {
-        "city": "Karabük",
-        "city_slug": "karabuk",
-        "date": "2026-11-15",
-        "breakfast": {
-          "items": [
-            "Sucuklu Omlet",
-            "Patates Kroket",
-            "Dere Otlu Poğaça",
-            "Beyaz Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 751,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Mercimek Çorbası",
-            "Şehriye Çorbası",
-            "Elbasan Tava",
-            "Çıtır Tavuk",
-            "Karışık Kızartma",
-            "Bulgur Pilavı",
-            "Tarator",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
       "kirklareli": {
         "city": "Kırklareli",
         "city_slug": "kirklareli",
@@ -15708,42 +15190,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Kahramanmaraş?city=Kahramanmara%C5%9F&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "karabuk": {
-        "city": "Karabük",
-        "city_slug": "karabuk",
-        "date": "2026-11-16",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Patates Kızartması",
-            "Sade Poğaça",
-            "Kaşar Peyniri",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Ezogelin Çorba",
-            "Toyga Çorba",
-            "Hamburger",
-            "Çiftlik Kebabı",
-            "Ispanak Yemeği",
-            "Sade-Salçalı Makarna",
-            "Ayran",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "kirklareli": {
@@ -16598,42 +16044,6 @@
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Kahramanmaraş?city=Kahramanmara%C5%9F&mealType=true&hidePast=false&monthShift=0"
         }
       },
-      "karabuk": {
-        "city": "Karabük",
-        "city_slug": "karabuk",
-        "date": "2026-11-17",
-        "breakfast": {
-          "items": [
-            "Peynirli Omlet",
-            "Menemen",
-            "Simit",
-            "Beyaz Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 769,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Mercimek Çorbası",
-            "Domates Çorba",
-            "Rosto Köfte",
-            "Kemiksiz Tavuk Pirzola",
-            "Kabak Yemeği",
-            "Tereyağlı Pirinç Pilavı",
-            "Sütlaç",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
       "kirklareli": {
         "city": "Kırklareli",
         "city_slug": "kirklareli",
@@ -17483,42 +16893,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Kahramanmaraş?city=Kahramanmara%C5%9F&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "karabuk": {
-        "city": "Karabük",
-        "city_slug": "karabuk",
-        "date": "2026-11-18",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Patates Kavurması",
-            "Karışık Pizza",
-            "Krem Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 600,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Ezogelin Çorba",
-            "Mısır Çorba",
-            "Kremalı Mantarlı Tavuk",
-            "Balık Çeşidi",
-            "Karnabahar Graten",
-            "Spagetti",
-            "Karışık Salata",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "kirklareli": {
@@ -18382,42 +17756,6 @@
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Kahramanmaraş?city=Kahramanmara%C5%9F&mealType=true&hidePast=false&monthShift=0"
         }
       },
-      "karabuk": {
-        "city": "Karabük",
-        "city_slug": "karabuk",
-        "date": "2026-11-19",
-        "breakfast": {
-          "items": [
-            "Sade Omlet",
-            "Sosis Kızartması+Domates+Salatalık",
-            "Pankek+Reçel",
-            "Beyaz Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Mercimek Çorbası",
-            "Tarhana Çorba",
-            "Sivas Köfte",
-            "Tavuk Şiş",
-            "Mevsim Türlü",
-            "Bulgur Pilavı",
-            "Ayran",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
       "kirklareli": {
         "city": "Kırklareli",
         "city_slug": "kirklareli",
@@ -19268,42 +18606,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Kahramanmaraş?city=Kahramanmara%C5%9F&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "karabuk": {
-        "city": "Karabük",
-        "city_slug": "karabuk",
-        "date": "2026-11-20",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Karışık Kızartma",
-            "Zeytinli",
-            "Peynirli Açma",
-            "Kaşar Peyniri",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Ezogelin Çorba",
-            "Tavuklu Şehriye Çorba",
-            "Nohut Yemeği",
-            "Tepsi Kumpir",
-            "Fırın Makarna",
-            "Baklava-Kadayıf",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "kirklareli": {
@@ -20157,42 +19459,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Kahramanmaraş?city=Kahramanmara%C5%9F&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "karabuk": {
-        "city": "Karabük",
-        "city_slug": "karabuk",
-        "date": "2026-11-21",
-        "breakfast": {
-          "items": [
-            "Kaşarlı Omlet",
-            "Patates Salatası",
-            "Milföy Börek",
-            "Beyaz Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Mercimek Çorbası",
-            "Domates Çorba",
-            "Tavuk Fajita",
-            "Kağıt Kebap",
-            "Taze Fasulye Yemeği",
-            "Tereyağlı Pirinç Pilavı",
-            "Haydari",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "kirklareli": {
@@ -21060,43 +20326,6 @@
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Kahramanmaraş?city=Kahramanmara%C5%9F&mealType=true&hidePast=false&monthShift=0"
         }
       },
-      "karabuk": {
-        "city": "Karabük",
-        "city_slug": "karabuk",
-        "date": "2026-11-22",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Pankek",
-            "Peynirli",
-            "Ispanaklı Börek",
-            "Yöresel Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Ezogelin Çorba",
-            "Sebze Çorbası",
-            "Ali Nazik Kebabı",
-            "Çıtır Tavuk",
-            "Bezelye Yemeği",
-            "Bulgur Pilavı",
-            "Kıvırcık Salata",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
       "kirklareli": {
         "city": "Kırklareli",
         "city_slug": "kirklareli",
@@ -21953,42 +21182,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Kahramanmaraş?city=Kahramanmara%C5%9F&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "karabuk": {
-        "city": "Karabük",
-        "city_slug": "karabuk",
-        "date": "2026-11-23",
-        "breakfast": {
-          "items": [
-            "Peynirli Omlet",
-            "Patates Kızartması",
-            "Dere Otlu Poğaça",
-            "Beyaz Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1010,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Mercimek Çorbası",
-            "Şehriye Çorbası",
-            "Tavuk Tantuni",
-            "Et Tantuni",
-            "Mücver",
-            "Tereyağlı Pirinç Pilavı",
-            "Bisküvili Pasta",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "kirklareli": {
@@ -22861,46 +22054,6 @@
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Kahramanmaraş?city=Kahramanmara%C5%9F&mealType=true&hidePast=false&monthShift=0"
         }
       },
-      "karabuk": {
-        "city": "Karabük",
-        "city_slug": "karabuk",
-        "date": "2026-11-24",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Salçalı Sosis",
-            "Simit",
-            "Kaşar Peyniri",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 775,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Ezogelin Çorba",
-            "Toyga Çorba",
-            "Hamburger",
-            "Şinitzel",
-            "Karışık Dolma",
-            "Patates Kızartması +Ketçap+Mayonez",
-            "Makarna",
-            "Patates Kızartması",
-            "+Ketçap+Mayonez",
-            "Ayran",
-            "Meyve Suyu",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
       "kirklareli": {
         "city": "Kırklareli",
         "city_slug": "kirklareli",
@@ -23764,42 +22917,6 @@
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Kahramanmaraş?city=Kahramanmara%C5%9F&mealType=true&hidePast=false&monthShift=0"
         }
       },
-      "karabuk": {
-        "city": "Karabük",
-        "city_slug": "karabuk",
-        "date": "2026-11-25",
-        "breakfast": {
-          "items": [
-            "Sucuklu Omlet",
-            "Pizza",
-            "Mozaik Kek",
-            "Beyaz Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Mercimek Çorbası",
-            "Domates Çorba",
-            "Çökertme Kebabı",
-            "Tavuk Külbastı",
-            "Sebze Kızartma",
-            "Bulgur Pilavı",
-            "Acılı Ezme",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
       "kirklareli": {
         "city": "Kırklareli",
         "city_slug": "kirklareli",
@@ -24660,43 +23777,6 @@
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Kahramanmaraş?city=Kahramanmara%C5%9F&mealType=true&hidePast=false&monthShift=0"
         }
       },
-      "karabuk": {
-        "city": "Karabük",
-        "city_slug": "karabuk",
-        "date": "2026-11-26",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Patates Kavurması",
-            "Zeytinli",
-            "Peynirli Açma",
-            "Yöresel Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 781,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Ezogelin Çorba",
-            "Mısır Çorba",
-            "Beşamel Soslu tavuk",
-            "İnegöl Köfte",
-            "Fellah Köfte",
-            "Spagetti",
-            "Karışık Salata",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
       "kirklareli": {
         "city": "Kırklareli",
         "city_slug": "kirklareli",
@@ -25554,42 +24634,6 @@
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Kahramanmaraş?city=Kahramanmara%C5%9F&mealType=true&hidePast=false&monthShift=0"
         }
       },
-      "karabuk": {
-        "city": "Karabük",
-        "city_slug": "karabuk",
-        "date": "2026-11-27",
-        "breakfast": {
-          "items": [
-            "Sade Omlet",
-            "Patates Kroket",
-            "Pankek+Bal",
-            "Beyaz Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Mercimek Çorbası",
-            "Kremalı Tavuk Çorbası",
-            "Kuru Fasulye",
-            "Tepsi Kumpir",
-            "Tereyağlı Şehriyeli Pirinç Pilavı",
-            "Tarator",
-            "Tavuk Göğsü",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
       "kirklareli": {
         "city": "Kırklareli",
         "city_slug": "kirklareli",
@@ -26445,43 +25489,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Kahramanmaraş?city=Kahramanmara%C5%9F&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "karabuk": {
-        "city": "Karabük",
-        "city_slug": "karabuk",
-        "date": "2026-11-28",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta+Domates+Salatalık",
-            "Pankek",
-            "Peynirli",
-            "Ispanaklı Börek",
-            "Labne Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Ezogelin Çorba",
-            "Düğün Çorba",
-            "Et Sote",
-            "Köri Soslu Tavuk",
-            "Karışık Sebze Graten",
-            "Bulgur Pilavı",
-            "Yoğurt",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "kirklareli": {
@@ -27347,41 +26354,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Kahramanmaraş?city=Kahramanmara%C5%9F&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "karabuk": {
-        "city": "Karabük",
-        "city_slug": "karabuk",
-        "date": "2026-11-29",
-        "breakfast": {
-          "items": [
-            "Menemen",
-            "Patates Kızartması",
-            "Milföy Börek",
-            "Beyaz Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Mercimek Çorbası",
-            "Domates Çorba",
-            "Tavuk Fajita",
-            "Izgara Köfte",
-            "Sade-Salçalı Makarna",
-            "Rus Salatası",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "kirklareli": {
@@ -28256,42 +27228,6 @@
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Kahramanmaraş?city=Kahramanmara%C5%9F&mealType=true&hidePast=false&monthShift=0"
         }
       },
-      "karabuk": {
-        "city": "Karabük",
-        "city_slug": "karabuk",
-        "date": "2026-11-30",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Patates Salatası",
-            "Sade Poğaça",
-            "Kaşar Peyniri",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Ezogelin Çorba",
-            "Yayla Çorbası",
-            "Püreli Kebap",
-            "Tavuk",
-            "Taze Fasulye Yemeği",
-            "Tereyağlı Şehriyeli Pirinç Pilavı",
-            "Tulumba Tatlısı",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
       "kirklareli": {
         "city": "Kırklareli",
         "city_slug": "kirklareli",
@@ -28615,5 +27551,5 @@
       }
     }
   },
-  "last_updated": "2026-11-06T13:18:13.283800+03:00"
+  "last_updated": "2026-11-06T23:40:59.827912+03:00"
 }

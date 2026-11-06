@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T13:18:13.283800+03:00",
+  "last_updated": "2026-11-06T23:40:59.827912+03:00",
   "date": "2026-11-06",
   "total_cities_with_menu": 81,
   "sources": [
@@ -524,42 +524,6 @@
         "calories": 1500,
         "source": "kykyemek",
         "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Kahramanmaraş?city=Kahramanmara%C5%9F&mealType=true&hidePast=false&monthShift=0"
-      }
-    },
-    "karabuk": {
-      "city": "Karabük",
-      "city_slug": "karabuk",
-      "date": "2026-11-06",
-      "breakfast": {
-        "items": [
-          "Haşlanmış Yumurta",
-          "Haşlanmış Patates+Domates+Salatalık",
-          "Karışık Pizza",
-          "Yöresel Peynir",
-          "Siyah",
-          "Yeşil Zeytin",
-          "500 ml Su",
-          "Çeyrek Ekmek"
-        ],
-        "calories": 850,
-        "source": "kykyemek",
-        "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=false&hidePast=false&monthShift=0"
-      },
-      "dinner": {
-        "items": [
-          "Ezogelin Çorba",
-          "Mısır Çorba",
-          "Et Tantuni",
-          "Şinitzel",
-          "Ispanak Yemeği",
-          "Bulgur Pilavı",
-          "Cacık",
-          "500 ml Su",
-          "Çeyrek Ekmek"
-        ],
-        "calories": 1500,
-        "source": "kykyemek",
-        "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=true&hidePast=false&monthShift=0"
       }
     },
     "kirklareli": {
@@ -1708,6 +1672,36 @@
     "igdir": {
       "city": "Iğdır",
       "city_slug": "igdir",
+      "date": "2026-11-06",
+      "breakfast": {
+        "items": [
+          "Haşlanmış Yumurta / Omlet",
+          "Beyaz Peynir / Kaşar Peynir",
+          "Siyah ve Yeşil Zeytin",
+          "Taze Ekmek & Simit",
+          "Sıcak Çay / Süt"
+        ],
+        "calories": 750,
+        "source": "standart_kyk",
+        "source_url": null
+      },
+      "dinner": {
+        "items": [
+          "Tarhana Çorba / Tutmaç Çorba",
+          "Et Fajita / Kekikli Beşamelli Tavuk / Kabak Mücver",
+          "Bezelyeli Pirinç Pilavı",
+          "Cacık",
+          "500 ml Su",
+          "Çeyrek Ekmek"
+        ],
+        "calories": 920,
+        "source": "syrblo_yedek",
+        "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+      }
+    },
+    "karabuk": {
+      "city": "Karabük",
+      "city_slug": "karabuk",
       "date": "2026-11-06",
       "breakfast": {
         "items": [
