@@ -6992,9 +6992,8 @@
           "items": [
             "Yayla Çorbası",
             "Ezogelin Çorba",
-            "İzmir Köfte",
+            "Karnıyarık",
             "Patatesli Gül Böreği",
-            "Tavuk Şinitzel",
             "Sade Bulgur Pilavı",
             "Mandalina",
             "500 ml Su",
@@ -9609,7 +9608,6 @@
             "Şehriye Çorbası",
             "Çoban Kavurma",
             "Etsiz Güveç",
-            "Fırında Tavuk Kanat",
             "Arpa Şehriyeli Pirinç Pilavı",
             "Karışık Salata",
             "500 ml Su",
@@ -11443,7 +11441,7 @@
             "Düğün Çorba",
             "Çeşmi Nigar Çorba",
             "Etsiz Kuru Fasulye",
-            "Mantı",
+            "Ispanak Yemeği",
             "Tel Şehriyeli Pirinç Pilavı",
             "Havuç Tarator",
             "Şekerpare",
@@ -14139,8 +14137,8 @@
           "items": [
             "Erişteli Yeşil Mercimek Çorbası",
             "Yayla Çorbası",
-            "Fırında Tavuk Baget",
-            "Sulu Patates Yemeği",
+            "Etli Güveç",
+            "Etsiz Bamya",
             "Sade Bulgur Pilavı",
             "Damla Sakızlı Muhallebi",
             "500 ml Su",
@@ -15037,9 +15035,6 @@
             "Arpa Şehriye Çorbası",
             "Antep Tava",
             "İmam Bayıldı",
-            "Tavuk Tantuni +Lavaş+Dürüm Soğan",
-            "Tavuk Tantuni",
-            "+Lavaş+Dürüm Soğan",
             "İç Pilav",
             "Ayran",
             "500 ml Su",
@@ -15916,7 +15911,7 @@
           "items": [
             "Beyran Çorba",
             "Ayran Aşı Çorba",
-            "Fırında Tavuk Pirzola",
+            "Patates Oturtma",
             "Biber Dolma",
             "Soslu Boru Makarna",
             "Çiğ Köfte",
@@ -23973,7 +23968,6 @@
             "Yayla Çorbası",
             "Şehzade Kebabı",
             "Kabak Kalye",
-            "Fırında Sebzeli Tavuk",
             "Arpa Şehriyeli Pirinç Pilavı",
             "Kuru Cacık",
             "500 ml Su",
@@ -26660,7 +26654,6 @@
             "Ezogelin Çorba",
             "Dana Kavurma",
             "Bezelye Yemeği",
-            "Tavuk Şiş",
             "Sade Pirinç Pilavı",
             "Yeşil Elma",
             "500 ml Su",
@@ -28452,7 +28445,7 @@
           "items": [
             "Tutmaç Çorba",
             "Şehriye Çorbası",
-            "Tekirdağ Köfte",
+            "Karnıyarık",
             "Sulu Patates Yemeği",
             "Tel Şehriyeli Pirinç Pilavı",
             "Revani",
@@ -28615,5 +28608,5 @@
       }
     }
   },
-  "last_updated": "2026-11-08T12:47:45.596839+03:00"
+  "last_updated": "2026-11-08T22:18:05.483818+03:00"
 }
