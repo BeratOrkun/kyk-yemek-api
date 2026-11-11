@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11T00:10:27.004572+03:00",
+  "last_updated": "2026-11-11T13:12:48.658599+03:00",
   "date": "2026-11-11",
   "total_cities_with_menu": 81,
   "sources": [
@@ -116,49 +116,6 @@
         "calories": 1500,
         "source": "kykyemek",
         "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Bolu?city=Bolu&mealType=true&hidePast=false&monthShift=0"
-      }
-    },
-    "burdur": {
-      "city": "Burdur",
-      "city_slug": "burdur",
-      "date": "2026-11-11",
-      "breakfast": {
-        "items": [
-          "Peynirli Omlet",
-          "Sebzeli Sucuk",
-          "Zeytinli",
-          "Peynirli Açma",
-          "Kaşar Peyniri",
-          "Siyah",
-          "Yeşil Zeytin",
-          "500 ml Su",
-          "Çeyrek Ekmek"
-        ],
-        "calories": 850,
-        "source": "kykyemek",
-        "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Burdur?city=Burdur&mealType=false&hidePast=false&monthShift=0"
-      },
-      "dinner": {
-        "items": [
-          "Domates Çorba +Kaşar+Kıtır Ekmek",
-          "Düğün Çorba",
-          "Domates Çorba",
-          "+Kaşar+Kıtır Ekmek",
-          "Tavuk Haşlama +Turşu",
-          "Ispanak Suflesi",
-          "Tavuk Haşlama",
-          "+Turşu",
-          "Şehriyeli Pirinç Pilavı",
-          "Yoğurt",
-          "Çikolatalı",
-          "Muzlu",
-          "Çilekli Puding",
-          "500 ml Su",
-          "Çeyrek Ekmek"
-        ],
-        "calories": 1500,
-        "source": "kykyemek",
-        "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Burdur?city=Burdur&mealType=true&hidePast=false&monthShift=0"
       }
     },
     "canakkale": {
@@ -350,6 +307,47 @@
         "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=true&hidePast=false&monthShift=0"
       }
     },
+    "gaziantep": {
+      "city": "Gaziantep",
+      "city_slug": "gaziantep",
+      "date": "2026-11-11",
+      "breakfast": {
+        "items": [
+          "Peynirli Omlet",
+          "Peynirli",
+          "Patatesli Kol Böreği",
+          "Zeytinli",
+          "Peynirli Açma",
+          "Kaşar Peyniri",
+          "Siyah",
+          "Yeşil Zeytin",
+          "500 ml Su",
+          "Çeyrek Ekmek"
+        ],
+        "calories": 850,
+        "source": "kykyemek",
+        "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Gaziantep?city=Gaziantep&mealType=false&hidePast=false&monthShift=0"
+      },
+      "dinner": {
+        "items": [
+          "Ezogelin Çorba",
+          "Salçalı Arpa Şehriye Çorbası",
+          "Acılı Nohut",
+          "Çiğ Köfte",
+          "Karışık Kızartma Dürümü (Piyaz+Cips Ve Süs Biber Turşusu İle)",
+          "Karışık Kızartma Dürümü",
+          "(Piyaz+Cips Ve Süs Biber Turşusu İle)",
+          "Karışık Salata",
+          "Cup Kek",
+          "Ayran",
+          "500 ml Su",
+          "Çeyrek Ekmek"
+        ],
+        "calories": 1500,
+        "source": "kykyemek",
+        "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Gaziantep?city=Gaziantep&mealType=true&hidePast=false&monthShift=0"
+      }
+    },
     "isparta": {
       "city": "Isparta",
       "city_slug": "isparta",
@@ -388,6 +386,44 @@
         "calories": 1500,
         "source": "kykyemek",
         "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Isparta?city=Isparta&mealType=true&hidePast=false&monthShift=0"
+      }
+    },
+    "istanbul": {
+      "city": "İstanbul",
+      "city_slug": "istanbul",
+      "date": "2026-11-11",
+      "breakfast": {
+        "items": [
+          "Peynirli Omlet",
+          "Domates+Salatalık",
+          "Zeytinli",
+          "Peynirli Açma",
+          "Kaşar Peyniri",
+          "Siyah",
+          "Yeşil Zeytin",
+          "500 ml Su",
+          "Çeyrek Ekmek",
+          "Al Götür Menü"
+        ],
+        "calories": 850,
+        "source": "kykyemek",
+        "source_url": "https://kykyemek.com/Menu/GetDailyMenu/İstanbul?city=%C4%B0stanbul&mealType=false&hidePast=false&monthShift=0"
+      },
+      "dinner": {
+        "items": [
+          "Mercimek Çorbası",
+          "Yüksük Çorbası",
+          "Gemici Usulü Barbunya",
+          "Ispanak Yemeği",
+          "Şehriyeli Bulgur Pilavı",
+          "Yoğurt",
+          "Halka Tatlı",
+          "500 ml Su",
+          "Çeyrek Ekmek"
+        ],
+        "calories": 1500,
+        "source": "kykyemek",
+        "source_url": "https://kykyemek.com/Menu/GetDailyMenu/İstanbul?city=%C4%B0stanbul&mealType=true&hidePast=false&monthShift=0"
       }
     },
     "izmir": {
@@ -507,6 +543,43 @@
         "calories": 1500,
         "source": "kykyemek",
         "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=true&hidePast=false&monthShift=0"
+      }
+    },
+    "kirklareli": {
+      "city": "Kırklareli",
+      "city_slug": "kirklareli",
+      "date": "2026-11-11",
+      "breakfast": {
+        "items": [
+          "Peynirli Omlet",
+          "Tarhana Çorba",
+          "Zeytinli",
+          "Peynirli Açma",
+          "Kaşar Peyniri",
+          "Siyah",
+          "Yeşil Zeytin",
+          "500 ml Su",
+          "Çeyrek Ekmek"
+        ],
+        "calories": 885,
+        "source": "kykyemek",
+        "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Kırklareli?city=K%C4%B1rklareli&mealType=false&hidePast=false&monthShift=0"
+      },
+      "dinner": {
+        "items": [
+          "Ezogelin Çorba",
+          "Arabaşı Çorba",
+          "Etsiz Nohut Yemeği",
+          "Karışık Sebze Graten",
+          "Bulgur Pilavı",
+          "Yoğurt",
+          "İrmik Helvası",
+          "500 ml Su",
+          "Çeyrek Ekmek"
+        ],
+        "calories": 1500,
+        "source": "kykyemek",
+        "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Kırklareli?city=K%C4%B1rklareli&mealType=true&hidePast=false&monthShift=0"
       }
     },
     "konya": {
@@ -732,6 +805,47 @@
         "calories": 1500,
         "source": "kykyemek",
         "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Tokat?city=Tokat&mealType=true&hidePast=false&monthShift=0"
+      }
+    },
+    "trabzon": {
+      "city": "Trabzon",
+      "city_slug": "trabzon",
+      "date": "2026-11-11",
+      "breakfast": {
+        "items": [
+          "Peynirli Omlet",
+          "Salçalı Sosis Veya Salam",
+          "Zeytinli",
+          "Peynirli Açma",
+          "Kaşar Peyniri",
+          "Siyah",
+          "Yeşil Zeytin",
+          "500 ml Su",
+          "Çeyrek Ekmek"
+        ],
+        "calories": 850,
+        "source": "kykyemek",
+        "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Trabzon?city=Trabzon&mealType=false&hidePast=false&monthShift=0"
+      },
+      "dinner": {
+        "items": [
+          "Mercimek Çorbası",
+          "Mantar Çorba",
+          "Tavuk Izgara +Şakşuka",
+          "Et Çökertme",
+          "Mücver",
+          "Tavuk Izgara",
+          "+Şakşuka",
+          "Pirinç Pilavı",
+          "Makarna",
+          "Yoğurt",
+          "Köstebek Pasta",
+          "500 ml Su",
+          "Çeyrek Ekmek"
+        ],
+        "calories": 1500,
+        "source": "kykyemek",
+        "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Trabzon?city=Trabzon&mealType=true&hidePast=false&monthShift=0"
       }
     },
     "usak": {
@@ -1267,6 +1381,37 @@
         "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
       }
     },
+    "burdur": {
+      "city": "Burdur",
+      "city_slug": "burdur",
+      "date": "2026-11-11",
+      "breakfast": {
+        "items": [
+          "Haşlanmış Yumurta / Omlet",
+          "Beyaz Peynir / Kaşar Peynir",
+          "Siyah ve Yeşil Zeytin",
+          "Taze Ekmek & Simit",
+          "Sıcak Çay / Süt"
+        ],
+        "calories": 750,
+        "source": "standart_kyk",
+        "source_url": null
+      },
+      "dinner": {
+        "items": [
+          "Köylü Çorba / Terbiyeli Tavuk Çorba",
+          "Kuru Fasulye / Patates Köftesi+Yoğurt",
+          "Kabune Pilavı / Pirinç Pilavı",
+          "Karışık Turşu",
+          "Şekerpare",
+          "500 ml Su",
+          "Çeyrek Ekmek"
+        ],
+        "calories": 920,
+        "source": "syrblo_yedek",
+        "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+      }
+    },
     "bursa": {
       "city": "Bursa",
       "city_slug": "bursa",
@@ -1484,37 +1629,6 @@
         "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
       }
     },
-    "gaziantep": {
-      "city": "Gaziantep",
-      "city_slug": "gaziantep",
-      "date": "2026-11-11",
-      "breakfast": {
-        "items": [
-          "Haşlanmış Yumurta / Omlet",
-          "Beyaz Peynir / Kaşar Peynir",
-          "Siyah ve Yeşil Zeytin",
-          "Taze Ekmek & Simit",
-          "Sıcak Çay / Süt"
-        ],
-        "calories": 750,
-        "source": "standart_kyk",
-        "source_url": null
-      },
-      "dinner": {
-        "items": [
-          "Köylü Çorba / Terbiyeli Tavuk Çorba",
-          "Kuru Fasulye / Patates Köftesi+Yoğurt",
-          "Kabune Pilavı / Pirinç Pilavı",
-          "Karışık Turşu",
-          "Şekerpare",
-          "500 ml Su",
-          "Çeyrek Ekmek"
-        ],
-        "calories": 920,
-        "source": "syrblo_yedek",
-        "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-      }
-    },
     "giresun": {
       "city": "Giresun",
       "city_slug": "giresun",
@@ -1670,37 +1784,6 @@
         "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
       }
     },
-    "istanbul": {
-      "city": "İstanbul",
-      "city_slug": "istanbul",
-      "date": "2026-11-11",
-      "breakfast": {
-        "items": [
-          "Haşlanmış Yumurta / Omlet",
-          "Beyaz Peynir / Kaşar Peynir",
-          "Siyah ve Yeşil Zeytin",
-          "Taze Ekmek & Simit",
-          "Sıcak Çay / Süt"
-        ],
-        "calories": 750,
-        "source": "standart_kyk",
-        "source_url": null
-      },
-      "dinner": {
-        "items": [
-          "Köylü Çorba / Terbiyeli Tavuk Çorba",
-          "Kuru Fasulye / Patates Köftesi+Yoğurt",
-          "Kabune Pilavı / Pirinç Pilavı",
-          "Karışık Turşu",
-          "Şekerpare",
-          "500 ml Su",
-          "Çeyrek Ekmek"
-        ],
-        "calories": 920,
-        "source": "syrblo_yedek",
-        "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-      }
-    },
     "karaman": {
       "city": "Karaman",
       "city_slug": "karaman",
@@ -1828,37 +1911,6 @@
     "kirikkale": {
       "city": "Kırıkkale",
       "city_slug": "kirikkale",
-      "date": "2026-11-11",
-      "breakfast": {
-        "items": [
-          "Haşlanmış Yumurta / Omlet",
-          "Beyaz Peynir / Kaşar Peynir",
-          "Siyah ve Yeşil Zeytin",
-          "Taze Ekmek & Simit",
-          "Sıcak Çay / Süt"
-        ],
-        "calories": 750,
-        "source": "standart_kyk",
-        "source_url": null
-      },
-      "dinner": {
-        "items": [
-          "Köylü Çorba / Terbiyeli Tavuk Çorba",
-          "Kuru Fasulye / Patates Köftesi+Yoğurt",
-          "Kabune Pilavı / Pirinç Pilavı",
-          "Karışık Turşu",
-          "Şekerpare",
-          "500 ml Su",
-          "Çeyrek Ekmek"
-        ],
-        "calories": 920,
-        "source": "syrblo_yedek",
-        "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-      }
-    },
-    "kirklareli": {
-      "city": "Kırklareli",
-      "city_slug": "kirklareli",
       "date": "2026-11-11",
       "breakfast": {
         "items": [
@@ -2448,37 +2500,6 @@
     "tekirdag": {
       "city": "Tekirdağ",
       "city_slug": "tekirdag",
-      "date": "2026-11-11",
-      "breakfast": {
-        "items": [
-          "Haşlanmış Yumurta / Omlet",
-          "Beyaz Peynir / Kaşar Peynir",
-          "Siyah ve Yeşil Zeytin",
-          "Taze Ekmek & Simit",
-          "Sıcak Çay / Süt"
-        ],
-        "calories": 750,
-        "source": "standart_kyk",
-        "source_url": null
-      },
-      "dinner": {
-        "items": [
-          "Köylü Çorba / Terbiyeli Tavuk Çorba",
-          "Kuru Fasulye / Patates Köftesi+Yoğurt",
-          "Kabune Pilavı / Pirinç Pilavı",
-          "Karışık Turşu",
-          "Şekerpare",
-          "500 ml Su",
-          "Çeyrek Ekmek"
-        ],
-        "calories": 920,
-        "source": "syrblo_yedek",
-        "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-      }
-    },
-    "trabzon": {
-      "city": "Trabzon",
-      "city_slug": "trabzon",
       "date": "2026-11-11",
       "breakfast": {
         "items": [
