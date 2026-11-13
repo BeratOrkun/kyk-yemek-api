@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-13T13:26:57.558473+03:00",
-  "date": "2026-11-13",
+  "last_updated": "2026-11-14T00:08:37.261288+03:00",
+  "date": "2026-11-14",
   "total_cities_with_menu": 81,
   "sources": [
     "kykyemek",
@@ -11,33 +11,32 @@
     "ankara": {
       "city": "Ankara",
       "city_slug": "ankara",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
-          "Menemen",
-          "Patates Salatası",
-          "Simit",
-          "Labne Peynir",
+          "Haşlanmış Yumurta",
+          "Karışık Kızartma",
+          "Peynirli Milföy Böreği",
+          "Kaşar Peyniri",
           "Siyah",
           "Yeşil Zeytin",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
-        "calories": 734,
+        "calories": 850,
         "source": "kykyemek",
         "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Ankara?city=Ankara&mealType=false&hidePast=false&monthShift=0"
       },
       "dinner": {
         "items": [
-          "Domates Çorba",
-          "Tutmaç Çorba",
-          "Hamburger (80-100 Gr Hamburger Ekmeği İçerisinde Domates, Marul, Kornişon Turşu İle)",
-          "Kaşarlı Ispanak Graten",
-          "Hamburger",
-          "(80-100 Gr Hamburger Ekmeği İçerisinde Domates, Marul, Kornişon Turşu İle)",
-          "Patates Kızartması",
-          "Ayran",
-          "Meyve Suyu",
+          "Tarhana Çorba",
+          "Kremalı Mantar Çorba",
+          "Haşlanmış Tavuk Fileto (Didilmiş)+Mor Lahana, Havuç, Turşu",
+          "Patlıcan Yemeği",
+          "Haşlanmış Tavuk Fileto",
+          "(Didilmiş)+Mor Lahana, Havuç, Turşu",
+          "Tereyağlı Nohutlu Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -49,35 +48,30 @@
     "antalya": {
       "city": "Antalya",
       "city_slug": "antalya",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
-          "Menemen",
-          "Patates Kızartması",
-          "Simit",
-          "Labne Peynir",
+          "Haşlanmış Yumurta",
+          "Pişi+Domates+Salatalık",
+          "Çikolatalı Milföy Börek",
+          "Kaşar Peyniri",
           "Siyah",
           "Yeşil Zeytin",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
-        "calories": 793,
+        "calories": 850,
         "source": "kykyemek",
         "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Antalya?city=Antalya&mealType=false&hidePast=false&monthShift=0"
       },
       "dinner": {
         "items": [
-          "Tarhana Çorba",
-          "Mısır Çorba",
-          "Izgara Köfte +Köz Biber, Köz Domates",
-          "Tavuk Külbastı +Elma Dilim Patates",
-          "Taze Fasulye Yemeği",
-          "Izgara Köfte",
-          "+Köz Biber, Köz Domates",
-          "Tavuk Külbastı",
-          "+Elma Dilim Patates",
-          "Garnitürlü Pirinç Pilavı",
-          "Acılı Ezme",
+          "Kaşarlı Domates Çorbası",
+          "Mercimek Çorbası",
+          "Tavuk Fajita",
+          "Tepsi Mücver",
+          "Meyhane Pilavı",
+          "Tel Kadayıflı Muhallebi",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -89,31 +83,30 @@
     "bolu": {
       "city": "Bolu",
       "city_slug": "bolu",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
-          "Menemen",
-          "Patates Salatası",
-          "Simit",
-          "Labne Peynir",
+          "Haşlanmış Yumurta",
+          "Söğüş Sebze",
+          "Sosisli Milföy Börek",
+          "Kaşar Peyniri",
           "Siyah",
           "Yeşil Zeytin",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
-        "calories": 734,
+        "calories": 850,
         "source": "kykyemek",
         "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Bolu?city=Bolu&mealType=false&hidePast=false&monthShift=0"
       },
       "dinner": {
         "items": [
-          "Mantar Çorba",
-          "Şehriye Çorbası",
-          "Hamburger",
-          "Tavuk Şinitzel",
-          "Domates Soslu Kabak-Patlıcan",
-          "Patates Kızartması",
-          "Kaşık Salata(Cevizli)",
+          "Ezogelin Çorba",
+          "Dört Kaşık Çorba",
+          "Tavuk Gökkuşağı",
+          "Mevsim Türlü",
+          "Sade Bulgur Pilavı",
+          "Sütlaç",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -125,32 +118,32 @@
     "burdur": {
       "city": "Burdur",
       "city_slug": "burdur",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
-          "Menemen",
-          "Patates Kızartması",
-          "Simit",
-          "Labne Peynir",
+          "Haşlanmış Yumurta",
+          "Sosis Kızartması",
+          "Milföy Börek",
+          "Kaşar Peyniri",
           "Siyah",
           "Yeşil Zeytin",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
-        "calories": 793,
+        "calories": 850,
         "source": "kykyemek",
         "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Burdur?city=Burdur&mealType=false&hidePast=false&monthShift=0"
       },
       "dinner": {
         "items": [
-          "Tavuk Çorba",
-          "Çeşmi Nigar Çorba",
-          "Hamburger +Patates Kızartması+Ketçap+Mayonez",
-          "İmam Bayıldı",
-          "Hamburger",
-          "+Patates Kızartması+Ketçap+Mayonez",
-          "Yoğurtlu Makarna",
-          "Bahçe Salata",
+          "Domates Çorba +Kaşar+Kıtır Ekmek",
+          "Yüksük Çorbası",
+          "Domates Çorba",
+          "+Kaşar+Kıtır Ekmek",
+          "Tavuk Külbastı",
+          "Bezelye Yemeği",
+          "Şehriyeli Pirinç Pilavı",
+          "Profiterol",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -162,33 +155,30 @@
     "canakkale": {
       "city": "Çanakkale",
       "city_slug": "canakkale",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
-          "Menemen",
-          "Patates Kroket",
-          "Simit",
-          "Labne Peynir",
+          "Haşlanmış Yumurta",
+          "Kekikli Domates Biber Kızartma",
+          "Sosisli Milföy Böreği",
+          "Kaşar Peyniri",
           "Siyah",
           "Yeşil Zeytin",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
-        "calories": 583,
+        "calories": 850,
         "source": "kykyemek",
         "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Çanakkale?city=%C3%87anakkale&mealType=false&hidePast=false&monthShift=0"
       },
       "dinner": {
         "items": [
-          "Mahluta Çorba",
-          "Sebze Çorbası",
-          "Hamburger",
-          "Ispanak Sufle",
-          "Patates Kızartması +Ketçap+Mayonez",
-          "Patates Kızartması",
-          "+Ketçap+Mayonez",
-          "Ayran",
-          "Meyve Suyu",
+          "Çeşmi Nigar Çorba",
+          "Domates Çorba",
+          "Köri Soslu Tavuk",
+          "Bezelye Yemeği",
+          "Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -200,31 +190,32 @@
     "diyarbakir": {
       "city": "Diyarbakır",
       "city_slug": "diyarbakir",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
-          "Menemen",
-          "Patates Salatası",
-          "Simit",
-          "Labne Peynir",
+          "Haşlanmış Yumurta",
+          "Kavurmalı Yumurta",
+          "Milföy Börek",
+          "Kaşar Peyniri",
           "Siyah",
           "Yeşil Zeytin",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
-        "calories": 734,
+        "calories": 850,
         "source": "kykyemek",
         "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=false&hidePast=false&monthShift=0"
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba",
-          "Yayla Çorbası",
-          "Lahmacun",
-          "Karışık Dolma",
-          "Soslu Makarna",
-          "Ayran",
-          "Meyve Suyu",
+          "Mercimek Çorbası",
+          "Mısır Çorba",
+          "Tavuk Sote",
+          "Karnabahar Kızartması +Yoğurt",
+          "Karnabahar Kızartması",
+          "+Yoğurt",
+          "Sade Bulgur Pilavı",
+          "Cevizli Kadayıflı Muhallebi",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -236,31 +227,31 @@
     "erzincan": {
       "city": "Erzincan",
       "city_slug": "erzincan",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
-          "Menemen",
-          "Patates Salatası",
-          "Simit",
-          "Labne Peynir",
+          "Haşlanmış Yumurta",
+          "Domates Soslu Biber Kızartma",
+          "Milföy Börek",
+          "Kaşar Peyniri",
           "Siyah",
           "Yeşil Zeytin",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
-        "calories": 734,
+        "calories": 850,
         "source": "kykyemek",
         "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Erzincan?city=Erzincan&mealType=false&hidePast=false&monthShift=0"
       },
       "dinner": {
         "items": [
-          "Çeşmi Nigar Çorba",
-          "Ayran Aşı Çorba",
-          "Erzincan Yaprak Döner",
-          "Soslu Karışık Sebze Kızartma",
-          "Pirinç Pilavı",
-          "Ayran",
-          "Meyve Suyu",
+          "Ezogelin Çorba",
+          "Sebze Çorbası",
+          "Tavuk Kavurma",
+          "Et Tantuni",
+          "Bamya Yemeği",
+          "Sebzeli Bulgur Pilavı",
+          "Muhallebi",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -272,13 +263,13 @@
     "erzurum": {
       "city": "Erzurum",
       "city_slug": "erzurum",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
-          "Menemen",
-          "Domates Biber Kavurması",
-          "Simit",
-          "Labne Peynir",
+          "Haşlanmış Yumurta",
+          "Salçalı Sosis+Domates+Biber",
+          "Peynirli Milföy Böreği",
+          "Kaşar Peyniri",
           "Siyah",
           "Yeşil Zeytin",
           "500 ml Su",
@@ -290,17 +281,15 @@
       },
       "dinner": {
         "items": [
-          "Süzme Mercimek Çorba",
-          "Mısır Çorba",
-          "Hamburger (Hamburger Ekmeği+Domates+Marul+Turşu)",
-          "Mevsim Türlü",
-          "Hamburger",
-          "(Hamburger Ekmeği+Domates+Marul+Turşu)",
-          "Patates Kızartması +Ketçap+Mayonez",
-          "Patates Kızartması",
-          "+Ketçap+Mayonez",
-          "Ayran",
-          "Meyve Suyu",
+          "Toyga Çorba",
+          "Sebze Çorbası",
+          "Tavuk Izgara +Fırında Domates+Biber",
+          "Patates Oturtma",
+          "Bezelye Yemeği",
+          "Tavuk Izgara",
+          "+Fırında Domates+Biber",
+          "Yeşil Mercimekli Bulgur Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -312,33 +301,32 @@
     "eskisehir": {
       "city": "Eskişehir",
       "city_slug": "eskisehir",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
-          "Menemen",
-          "Patates Salatası",
-          "Simit",
-          "Labne Peynir",
+          "Haşlanmış Yumurta",
+          "Fırında Sosisli Sebze",
+          "Çikolatalı Milföy Börek",
+          "Kaşar Peyniri",
           "Siyah",
           "Yeşil Zeytin",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
-        "calories": 734,
+        "calories": 850,
         "source": "kykyemek",
         "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=false&hidePast=false&monthShift=0"
       },
       "dinner": {
         "items": [
-          "Mercimek Çorbası",
-          "Şehriye Çorbası",
-          "Hamburger",
-          "Domates Soslu Kabak Mücver",
-          "Patates Kızartması +Soğan Halkası",
-          "Patates Kızartması",
-          "+Soğan Halkası",
-          "Ayran",
-          "Meyve Suyu",
+          "Tarhana Çorba",
+          "Sebze Çorbası",
+          "Fırın İncik Kanat +Elma Dilim Patates",
+          "Etsiz Türlü",
+          "Fırın İncik Kanat",
+          "+Elma Dilim Patates",
+          "Nohutlu Pirinç Pilavı",
+          "Muhallebi",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -350,32 +338,32 @@
     "gaziantep": {
       "city": "Gaziantep",
       "city_slug": "gaziantep",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
-          "Kaşarlı Omlet",
-          "Patates Salatası",
-          "Simit",
-          "Labne Peynir",
+          "Haşlanmış Yumurta",
+          "Ramazan Kahkesi",
+          "Milföy Böreği",
+          "Kaşar Peyniri",
           "Siyah",
           "Yeşil Zeytin",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
-        "calories": 852,
+        "calories": 850,
         "source": "kykyemek",
         "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Gaziantep?city=Gaziantep&mealType=false&hidePast=false&monthShift=0"
       },
       "dinner": {
         "items": [
-          "Terbiyeli Mercimek Çorba",
-          "Kremalı Sebze Çorbası",
-          "Akçaabat Köfte (Domates Ve Salatalık Söğüş İle)",
-          "Karışık Kuru Dolma",
-          "Akçaabat Köfte",
-          "(Domates Ve Salatalık Söğüş İle)",
-          "Soslu Spagetti",
-          "Ayran",
+          "Alaca Çorba",
+          "Soğan Çorbası",
+          "Soslu Tavuk Biftek (Elma Dilim Patates İle)",
+          "Yoğurtlu Yuvalama",
+          "Soslu Tavuk Biftek",
+          "(Elma Dilim Patates İle)",
+          "Zerdeçallı Pirinç Pilavı",
+          "Çikolatalı Puding",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -387,35 +375,35 @@
     "isparta": {
       "city": "Isparta",
       "city_slug": "isparta",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
-          "Menemen",
-          "Patates Salatası",
-          "Simit",
-          "Labne Peynir",
+          "Haşlanmış Yumurta",
+          "Havuçlu Cevizli Kek",
+          "Çikolatalı Milföy Börek",
+          "Kaşar Peyniri",
           "Siyah",
           "Yeşil Zeytin",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
-        "calories": 734,
+        "calories": 850,
         "source": "kykyemek",
         "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Isparta?city=Isparta&mealType=false&hidePast=false&monthShift=0"
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba",
-          "Kremalı Mantar Çorba",
-          "Hamburger (Et)",
-          "Yeşil Mercimek Yemeği",
-          "Hamburger",
-          "(Et)",
-          "Patates Kızartması +Ketçap+Mayonez",
-          "Patates Kızartması",
-          "+Ketçap+Mayonez",
-          "Ayran",
-          "Meyve Suyu",
+          "Domates Çorba",
+          "Mercimek Çorbası",
+          "Tavuk Şiş +Lavaş+Köz Biber",
+          "Domates",
+          "Karışık Kızartma +Yoğurt",
+          "Tavuk Şiş",
+          "+Lavaş+Köz Biber",
+          "Karışık Kızartma",
+          "+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -427,37 +415,33 @@
     "istanbul": {
       "city": "İstanbul",
       "city_slug": "istanbul",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
-          "Menemen",
-          "Patates Salatası",
-          "Simit",
-          "Labne Peynir",
+          "Haşlanmış Yumurta",
+          "Menemen(Yumurtasız)",
+          "Peynirli Milföy Böreği",
+          "Kaşar Peyniri",
           "Siyah",
           "Yeşil Zeytin",
           "500 ml Su",
           "Çeyrek Ekmek",
           "Al Götür Menü"
         ],
-        "calories": 734,
+        "calories": 850,
         "source": "kykyemek",
         "source_url": "https://kykyemek.com/Menu/GetDailyMenu/İstanbul?city=%C4%B0stanbul&mealType=false&hidePast=false&monthShift=0"
       },
       "dinner": {
         "items": [
-          "Mercimek Çorbası",
-          "Köz Biber Çorba",
-          "Hamburger (Domates+Göbek Marul+Kornişon)+Ketçap, Mayonez",
-          "Tavuk Fajita",
-          "Beşamel Soslu Sebze Graten",
-          "Hamburger",
-          "(Domates+Göbek Marul+Kornişon)+Ketçap, Mayonez",
-          "Patates Kızartması +Ketçap+Mayonez",
-          "Patates Kızartması",
-          "+Ketçap+Mayonez",
+          "Ezogelin Çorba",
+          "Toyga Çorba",
+          "Pilav Üzeri Kavurma",
+          "Pilav Üstü Tavuk",
+          "Lahana Sarma",
           "Ayran",
           "Meyve Suyu",
+          "Turşu",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -469,31 +453,34 @@
     "izmir": {
       "city": "İzmir",
       "city_slug": "izmir",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
-          "Menemen",
-          "Patates Salatası",
-          "Simit",
-          "Labne Peynir",
+          "Haşlanmış Yumurta",
+          "Pişi",
+          "Milföy Böreği",
+          "Kaşar Peyniri",
           "Siyah",
           "Yeşil Zeytin",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
-        "calories": 734,
+        "calories": 850,
         "source": "kykyemek",
         "source_url": "https://kykyemek.com/Menu/GetDailyMenu/İzmir?city=%C4%B0zmir&mealType=false&hidePast=false&monthShift=0"
       },
       "dinner": {
         "items": [
-          "Domates Çorba",
-          "Terbiyeli Tavuk Çorba",
-          "Etsiz Nohut Yemeği",
-          "Karnabahar Kızartması",
-          "Şehriyeli Pirinç Pilavı",
-          "Yoğurt",
-          "Revani",
+          "Mercimek Çorbası",
+          "Yoğurtlu Şehriye Çorba",
+          "Tavuk Külbastı +Brokoli Salatası",
+          "Ispanak Yemeği +Yoğurt",
+          "Tavuk Külbastı",
+          "+Brokoli Salatası",
+          "Ispanak Yemeği",
+          "+Yoğurt",
+          "Mısırlı Pirinç Pilavı",
+          "Magnolia",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -505,13 +492,13 @@
     "kahramanmaras": {
       "city": "Kahramanmaraş",
       "city_slug": "kahramanmaras",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
-          "Menemen",
-          "Mandalina",
-          "Simit",
-          "Labne Peynir",
+          "Haşlanmış Yumurta",
+          "Krep+Sürülebilir Çikolata",
+          "Peynirli Milföy Böreği",
+          "Kaşar Peyniri",
           "Siyah",
           "Yeşil Zeytin",
           "500 ml Su",
@@ -523,15 +510,16 @@
       },
       "dinner": {
         "items": [
-          "Dövmeli Mercimek",
-          "Sebze Çorbası",
-          "Et Burger",
-          "Tavuk Burger",
-          "Mevsim Türlü",
-          "Patates Kızartması Ketçap-Mayonez",
-          "Şehriyeli Pirinç Pilavı",
-          "Ayran",
-          "Meyve Suyu",
+          "Şehriye Çorbası",
+          "Yayla Çorbası",
+          "Kemikli Sebzeli Tavuk But Haşlama (150 G Et)",
+          "Mücver (Yoğurt İle)",
+          "Kemikli Sebzeli Tavuk But Haşlama",
+          "(150 G Et)",
+          "Mücver",
+          "(Yoğurt İle)",
+          "Spagetti Napoliten",
+          "Limonlu Keşkül(Fındık İle)",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -543,32 +531,31 @@
     "karabuk": {
       "city": "Karabük",
       "city_slug": "karabuk",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
-          "Menemen",
-          "Patates Salatası",
-          "Simit",
-          "Labne Peynir",
+          "Haşlanmış Yumurta",
+          "Pişi",
+          "Milföy Böreği",
+          "Kaşar Peyniri",
           "Siyah",
           "Yeşil Zeytin",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
-        "calories": 734,
+        "calories": 850,
         "source": "kykyemek",
         "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Karabük?city=Karab%C3%BCk&mealType=false&hidePast=false&monthShift=0"
       },
       "dinner": {
         "items": [
-          "Mercimek Çorbası",
-          "Tarhana Çorba",
-          "Adana Kebap",
-          "Beşamel Soslu tavuk",
-          "Bezelye Yemeği",
-          "Spagetti",
-          "Ayran",
-          "Meyve Suyu",
+          "Ezogelin Çorba",
+          "Yayla Çorbası",
+          "Tavuk Çökertme",
+          "Çoban Kavurma",
+          "Fellah Köfte",
+          "Tereyağlı Şehriyeli Pirinç Pilavı",
+          "Trileçe",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -580,32 +567,32 @@
     "kirklareli": {
       "city": "Kırklareli",
       "city_slug": "kirklareli",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
-          "Menemen",
-          "Patates Salatası",
-          "Simit",
-          "Labne Peynir",
+          "Haşlanmış Yumurta",
+          "Ekşimlikli Biber",
+          "Çikolatalı Milföy Börek",
+          "Kaşar Peyniri",
           "Siyah",
           "Yeşil Zeytin",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
-        "calories": 734,
+        "calories": 850,
         "source": "kykyemek",
         "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Kırklareli?city=K%C4%B1rklareli&mealType=false&hidePast=false&monthShift=0"
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba",
-          "Şehriye Çorbası",
-          "Hamburger",
-          "Tavuk Burger +Patates Kızartması",
-          "Tavuk Burger",
-          "+Patates Kızartması",
-          "Nohutlu Pilav",
-          "Ayran",
+          "Mercimek Çorbası",
+          "Kremalı Mantar Çorba",
+          "Çıtır Tavuk +Elma Dilim Patates",
+          "Terbiyeli Kereviz Yemeği",
+          "Çıtır Tavuk",
+          "+Elma Dilim Patates",
+          "Yoğurtlu Mantı",
+          "Puding",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -617,38 +604,33 @@
     "konya": {
       "city": "Konya",
       "city_slug": "konya",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
-          "Menemen",
-          "Patates Salatası",
-          "Simit",
-          "Labne Peynir",
+          "Haşlanmış Yumurta",
+          "Portakallı Kek",
+          "Peynirli Milföy Böreği",
+          "Kaşar Peyniri",
           "Siyah",
           "Yeşil Zeytin",
           "500 ml Su",
           "Çeyrek Ekmek",
           "Al Götür Menü"
         ],
-        "calories": 734,
+        "calories": 850,
         "source": "kykyemek",
         "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Konya?city=Konya&mealType=false&hidePast=false&monthShift=0"
       },
       "dinner": {
         "items": [
-          "Yayla Çorbası",
-          "Yüksük Çorbası",
-          "Izgara Köfte +Söğüş",
-          "Körili Tavuk +Söğüş",
-          "Falafel +Dip Sos",
-          "Izgara Köfte",
-          "+Söğüş",
-          "Körili Tavuk",
-          "Falafel",
-          "+Dip Sos",
-          "Soslu Makarna",
-          "Ayran",
-          "Meyve Suyu",
+          "Ezogelin Çorba",
+          "Tutmaç Çorba",
+          "Tavuk Sarma +Karışık Salata",
+          "Barbunya Yemeği",
+          "Tavuk Sarma",
+          "+Karışık Salata",
+          "Pirinç Pilavı",
+          "Trileçe",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -660,32 +642,30 @@
     "nigde": {
       "city": "Niğde",
       "city_slug": "nigde",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
-          "Menemen",
-          "Patates Salatası",
-          "Simit",
-          "Labne Peynir",
+          "Haşlanmış Yumurta",
+          "Pişi",
+          "Milföy Böreği",
+          "Kaşar Peyniri",
           "Siyah",
           "Yeşil Zeytin",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
-        "calories": 734,
+        "calories": 850,
         "source": "kykyemek",
         "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Niğde?city=Ni%C4%9Fde&mealType=false&hidePast=false&monthShift=0"
       },
       "dinner": {
         "items": [
-          "Tavuklu Şehriye Çorba",
-          "Tutmaç Çorba",
-          "Hamburger +Ketçap+Mayonez",
-          "Yeşil Fasulye",
-          "Hamburger",
-          "+Ketçap+Mayonez",
-          "Patates Kızartması",
-          "Ayran",
+          "Mercimek Çorbası",
+          "Yayla Çorbası",
+          "Tavuk Gökkuşağı",
+          "Mevsim Türlü",
+          "Bulgur Pilavı",
+          "Çikolatalı Puding",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -697,33 +677,38 @@
     "sakarya": {
       "city": "Sakarya",
       "city_slug": "sakarya",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
-          "Menemen",
-          "Patates Salatası",
-          "Simit",
-          "Labne Peynir",
+          "Haşlanmış Yumurta",
+          "Kızarmış Peynir Çubukları",
+          "Patates Kroket",
+          "Çikolatalı",
+          "Peynirli",
+          "Patatesli Milföy Börek",
+          "Kaşar Peyniri",
           "Siyah",
           "Yeşil Zeytin",
           "500 ml Su",
           "Çeyrek Ekmek",
           "Al Götür Menü"
         ],
-        "calories": 734,
+        "calories": 850,
         "source": "kykyemek",
         "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=false&hidePast=false&monthShift=0"
       },
       "dinner": {
         "items": [
-          "Domates Çorba",
-          "Mercimek Çorbası",
-          "Hamburger",
-          "Tavuk Burger",
-          "Karışık Dolma",
-          "Patates Kızartması",
-          "Ayran",
-          "Meyve Suyu",
+          "Çeşmi Nigar Çorba",
+          "Toyga Çorba",
+          "Tavuk Kalamar +Patates Kızartması",
+          "Izgara Köfte +Patates Kızartması",
+          "Taze Fasulye Yemeği",
+          "Tavuk Kalamar",
+          "+Patates Kızartması",
+          "Izgara Köfte",
+          "Pirinç Pilavı",
+          "Sütlü İrmik Tatlısı",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -735,31 +720,30 @@
     "siirt": {
       "city": "Siirt",
       "city_slug": "siirt",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
-          "Menemen",
-          "Patates Salatası",
-          "Simit",
-          "Labne Peynir",
+          "Haşlanmış Yumurta",
+          "Sosis Kokteyl",
+          "Milföy Börek",
+          "Kaşar Peyniri",
           "Siyah",
           "Yeşil Zeytin",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
-        "calories": 734,
+        "calories": 850,
         "source": "kykyemek",
         "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Siirt?city=Siirt&mealType=false&hidePast=false&monthShift=0"
       },
       "dinner": {
         "items": [
-          "Mahluta Çorba",
-          "Mısır Çorba",
-          "Hamburger",
-          "Etsiz Güveç",
-          "Tavuk Burger",
-          "Patates Kızartması",
-          "Ayran",
+          "Erişteli Yeşil Mercimek Çorbası",
+          "Yayla Çorbası",
+          "Etli Güveç",
+          "Etsiz Bamya",
+          "Sade Bulgur Pilavı",
+          "Damla Sakızlı Muhallebi",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -771,31 +755,30 @@
     "sivas": {
       "city": "Sivas",
       "city_slug": "sivas",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
-          "Menemen",
-          "Kakaolu Kek",
-          "Simit",
-          "Labne Peynir",
+          "Haşlanmış Yumurta",
+          "Karışık Pizza",
+          "Patates Kroket",
+          "Kaşar Peyniri",
           "Siyah",
           "Yeşil Zeytin",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
-        "calories": 633,
+        "calories": 650,
         "source": "kykyemek",
         "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sivas?city=Sivas&mealType=false&hidePast=false&monthShift=0"
       },
       "dinner": {
         "items": [
-          "Domates Çorba",
-          "Etli Paşa Çorba",
-          "Hamburger",
-          "Sebze Köfteli Hamburger",
-          "Patates Kızartması",
-          "Ayran",
-          "Meyve Suyu",
+          "Süzme Mercimek Çorba",
+          "Şehriye Çorbası",
+          "Mevsim Salata Garnili Şinitzel",
+          "Etsiz Nohut Yemeği",
+          "Şehriyeli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -807,35 +790,30 @@
     "tokat": {
       "city": "Tokat",
       "city_slug": "tokat",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
-          "Menemen",
-          "Patates Salatası",
-          "Simit",
-          "Labne Peynir",
+          "Haşlanmış Yumurta",
+          "Domates Soslu Biber Kızartma",
+          "Sosisli Milföy Böreği",
+          "Kaşar Peyniri",
           "Siyah",
           "Yeşil Zeytin",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
-        "calories": 734,
+        "calories": 730,
         "source": "kykyemek",
         "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Tokat?city=Tokat&mealType=false&hidePast=false&monthShift=0"
       },
       "dinner": {
         "items": [
-          "Şehriye Çorbası",
-          "Mantar Çorba",
-          "Hamburger +Ketçap+Mayonez",
-          "Fırında Sebze Dizmesi (Patlıcan, Kabak, Domates, Biber)",
-          "Hamburger",
-          "+Ketçap+Mayonez",
-          "Fırında Sebze Dizmesi",
-          "(Patlıcan, Kabak, Domates, Biber)",
-          "Patates Kızartması",
-          "Ayran",
-          "Meyve Suyu",
+          "Ezogelin Çorba",
+          "Sebze Çorbası",
+          "Tavuklu Sultan Kebabı",
+          "Bezelye Yemeği",
+          "Pirinç Pilavı",
+          "Kadayıflı Muhallebi",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -847,36 +825,33 @@
     "trabzon": {
       "city": "Trabzon",
       "city_slug": "trabzon",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
-          "Menemen",
-          "Patates Salatası",
-          "Simit",
-          "Labne Peynir",
+          "Haşlanmış Yumurta",
+          "Taze Fasulye Tava",
+          "Milföy Böreği",
+          "Kaşar Peyniri",
           "Siyah",
           "Yeşil Zeytin",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
-        "calories": 734,
+        "calories": 850,
         "source": "kykyemek",
         "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Trabzon?city=Trabzon&mealType=false&hidePast=false&monthShift=0"
       },
       "dinner": {
         "items": [
-          "Mercimek Çorbası",
-          "Domates Çorba",
-          "Adana Urfa Kebap +Lavaş+Söğüş",
-          "Karışık Sebze Graten",
-          "Adana Urfa Kebap",
-          "+Lavaş+Söğüş",
-          "Pirinç Pilavı",
-          "Makarna (Seçenekli Soslu)",
-          "Makarna",
-          "(Seçenekli Soslu)",
-          "Ayran",
-          "Meyve Suyu",
+          "Ezogelin Çorba",
+          "Şehriyeli Tavuk Suyu Çorba",
+          "Etsiz Kuru Fasulye",
+          "Biber Dolma +Yoğurt",
+          "Biber Dolma",
+          "+Yoğurt",
+          "Salçalı Bulgur Pilavı",
+          "Arpa Şehriye Pilavı",
+          "Kadayıflı Çikolata Soslu Magnolia",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -888,32 +863,30 @@
     "usak": {
       "city": "Uşak",
       "city_slug": "usak",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
-          "Menemen",
-          "Patates Salatası",
-          "Simit",
-          "Labne Peynir",
+          "Haşlanmış Yumurta",
+          "Kakaolu Kek",
+          "Milföy Böreği",
+          "Kaşar Peyniri",
           "Siyah",
           "Yeşil Zeytin",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
-        "calories": 734,
+        "calories": 850,
         "source": "kykyemek",
         "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Uşak?city=U%C5%9Fak&mealType=false&hidePast=false&monthShift=0"
       },
       "dinner": {
         "items": [
-          "Tarhana Çorba",
-          "Mantar Çorba",
-          "Hamburger",
-          "Tavuk Hamburger",
-          "Bezelye Yemeği",
-          "Patates Kızartması",
-          "Salçalı Makarna",
-          "Ayran",
+          "Erişteli Yeşil Mercimek Çorbası",
+          "Yüksük Çorbası",
+          "Tavuk Kalamar",
+          "Yoğurtlu Karışık Kızartma",
+          "Domatesli Bulgur Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -925,7 +898,7 @@
     "adana": {
       "city": "Adana",
       "city_slug": "adana",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -940,10 +913,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -955,7 +928,7 @@
     "adiyaman": {
       "city": "Adıyaman",
       "city_slug": "adiyaman",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -970,10 +943,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -985,7 +958,7 @@
     "afyonkarahisar": {
       "city": "Afyonkarahisar",
       "city_slug": "afyonkarahisar",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -1000,10 +973,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -1015,7 +988,7 @@
     "agri": {
       "city": "Ağrı",
       "city_slug": "agri",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -1030,10 +1003,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -1045,7 +1018,7 @@
     "aksaray": {
       "city": "Aksaray",
       "city_slug": "aksaray",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -1060,10 +1033,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -1075,7 +1048,7 @@
     "amasya": {
       "city": "Amasya",
       "city_slug": "amasya",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -1090,10 +1063,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -1105,7 +1078,7 @@
     "ardahan": {
       "city": "Ardahan",
       "city_slug": "ardahan",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -1120,10 +1093,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -1135,7 +1108,7 @@
     "artvin": {
       "city": "Artvin",
       "city_slug": "artvin",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -1150,10 +1123,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -1165,7 +1138,7 @@
     "aydin": {
       "city": "Aydın",
       "city_slug": "aydin",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -1180,10 +1153,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -1195,7 +1168,7 @@
     "balikesir": {
       "city": "Balıkesir",
       "city_slug": "balikesir",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -1210,10 +1183,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -1225,7 +1198,7 @@
     "bartin": {
       "city": "Bartın",
       "city_slug": "bartin",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -1240,10 +1213,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -1255,7 +1228,7 @@
     "batman": {
       "city": "Batman",
       "city_slug": "batman",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -1270,10 +1243,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -1285,7 +1258,7 @@
     "bayburt": {
       "city": "Bayburt",
       "city_slug": "bayburt",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -1300,10 +1273,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -1315,7 +1288,7 @@
     "bilecik": {
       "city": "Bilecik",
       "city_slug": "bilecik",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -1330,10 +1303,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -1345,7 +1318,7 @@
     "bingol": {
       "city": "Bingöl",
       "city_slug": "bingol",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -1360,10 +1333,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -1375,7 +1348,7 @@
     "bitlis": {
       "city": "Bitlis",
       "city_slug": "bitlis",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -1390,10 +1363,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -1405,7 +1378,7 @@
     "bursa": {
       "city": "Bursa",
       "city_slug": "bursa",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -1420,10 +1393,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -1435,7 +1408,7 @@
     "cankiri": {
       "city": "Çankırı",
       "city_slug": "cankiri",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -1450,10 +1423,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -1465,7 +1438,7 @@
     "corum": {
       "city": "Çorum",
       "city_slug": "corum",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -1480,10 +1453,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -1495,7 +1468,7 @@
     "denizli": {
       "city": "Denizli",
       "city_slug": "denizli",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -1510,10 +1483,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -1525,7 +1498,7 @@
     "duzce": {
       "city": "Düzce",
       "city_slug": "duzce",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -1540,10 +1513,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -1555,7 +1528,7 @@
     "edirne": {
       "city": "Edirne",
       "city_slug": "edirne",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -1570,10 +1543,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -1585,7 +1558,7 @@
     "elazig": {
       "city": "Elazığ",
       "city_slug": "elazig",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -1600,10 +1573,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -1615,7 +1588,7 @@
     "giresun": {
       "city": "Giresun",
       "city_slug": "giresun",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -1630,10 +1603,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -1645,7 +1618,7 @@
     "gumushane": {
       "city": "Gümüşhane",
       "city_slug": "gumushane",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -1660,10 +1633,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -1675,7 +1648,7 @@
     "hakkari": {
       "city": "Hakkâri",
       "city_slug": "hakkari",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -1690,10 +1663,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -1705,7 +1678,7 @@
     "hatay": {
       "city": "Hatay",
       "city_slug": "hatay",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -1720,10 +1693,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -1735,7 +1708,7 @@
     "igdir": {
       "city": "Iğdır",
       "city_slug": "igdir",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -1750,10 +1723,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -1765,7 +1738,7 @@
     "karaman": {
       "city": "Karaman",
       "city_slug": "karaman",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -1780,10 +1753,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -1795,7 +1768,7 @@
     "kars": {
       "city": "Kars",
       "city_slug": "kars",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -1810,10 +1783,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -1825,7 +1798,7 @@
     "kastamonu": {
       "city": "Kastamonu",
       "city_slug": "kastamonu",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -1840,10 +1813,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -1855,7 +1828,7 @@
     "kayseri": {
       "city": "Kayseri",
       "city_slug": "kayseri",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -1870,10 +1843,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -1885,7 +1858,7 @@
     "kirikkale": {
       "city": "Kırıkkale",
       "city_slug": "kirikkale",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -1900,10 +1873,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -1915,7 +1888,7 @@
     "kirsehir": {
       "city": "Kırşehir",
       "city_slug": "kirsehir",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -1930,10 +1903,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -1945,7 +1918,7 @@
     "kilis": {
       "city": "Kilis",
       "city_slug": "kilis",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -1960,10 +1933,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -1975,7 +1948,7 @@
     "kocaeli": {
       "city": "Kocaeli",
       "city_slug": "kocaeli",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -1990,10 +1963,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -2005,7 +1978,7 @@
     "kutahya": {
       "city": "Kütahya",
       "city_slug": "kutahya",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -2020,10 +1993,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -2035,7 +2008,7 @@
     "malatya": {
       "city": "Malatya",
       "city_slug": "malatya",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -2050,10 +2023,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -2065,7 +2038,7 @@
     "manisa": {
       "city": "Manisa",
       "city_slug": "manisa",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -2080,10 +2053,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -2095,7 +2068,7 @@
     "mardin": {
       "city": "Mardin",
       "city_slug": "mardin",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -2110,10 +2083,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -2125,7 +2098,7 @@
     "mersin": {
       "city": "Mersin",
       "city_slug": "mersin",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -2140,10 +2113,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -2155,7 +2128,7 @@
     "mugla": {
       "city": "Muğla",
       "city_slug": "mugla",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -2170,10 +2143,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -2185,7 +2158,7 @@
     "mus": {
       "city": "Muş",
       "city_slug": "mus",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -2200,10 +2173,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -2215,7 +2188,7 @@
     "nevsehir": {
       "city": "Nevşehir",
       "city_slug": "nevsehir",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -2230,10 +2203,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -2245,7 +2218,7 @@
     "ordu": {
       "city": "Ordu",
       "city_slug": "ordu",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -2260,10 +2233,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -2275,7 +2248,7 @@
     "osmaniye": {
       "city": "Osmaniye",
       "city_slug": "osmaniye",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -2290,10 +2263,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -2305,7 +2278,7 @@
     "rize": {
       "city": "Rize",
       "city_slug": "rize",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -2320,10 +2293,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -2335,7 +2308,7 @@
     "samsun": {
       "city": "Samsun",
       "city_slug": "samsun",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -2350,10 +2323,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -2365,7 +2338,7 @@
     "sanliurfa": {
       "city": "Şanlıurfa",
       "city_slug": "sanliurfa",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -2380,10 +2353,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -2395,7 +2368,7 @@
     "sinop": {
       "city": "Sinop",
       "city_slug": "sinop",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -2410,10 +2383,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -2425,7 +2398,7 @@
     "sirnak": {
       "city": "Şırnak",
       "city_slug": "sirnak",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -2440,10 +2413,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -2455,7 +2428,7 @@
     "tekirdag": {
       "city": "Tekirdağ",
       "city_slug": "tekirdag",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -2470,10 +2443,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -2485,7 +2458,7 @@
     "tunceli": {
       "city": "Tunceli",
       "city_slug": "tunceli",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -2500,10 +2473,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -2515,7 +2488,7 @@
     "van": {
       "city": "Van",
       "city_slug": "van",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -2530,10 +2503,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -2545,7 +2518,7 @@
     "yalova": {
       "city": "Yalova",
       "city_slug": "yalova",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -2560,10 +2533,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -2575,7 +2548,7 @@
     "yozgat": {
       "city": "Yozgat",
       "city_slug": "yozgat",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -2590,10 +2563,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
@@ -2605,7 +2578,7 @@
     "zonguldak": {
       "city": "Zonguldak",
       "city_slug": "zonguldak",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "breakfast": {
         "items": [
           "Haşlanmış Yumurta / Omlet",
@@ -2620,10 +2593,10 @@
       },
       "dinner": {
         "items": [
-          "Ezogelin Çorba / Kremalı Mantar Çorba",
-          "Hamburger(Et) / Yeşil Mercimek Yemeği",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
+          "Domates Çorba / Mercimek Çorbası",
+          "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
+          "Domatesli Pirinç Pilavı",
+          "Supangle",
           "500 ml Su",
           "Çeyrek Ekmek"
         ],
