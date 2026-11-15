@@ -181,43 +181,6 @@
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Çanakkale?city=%C3%87anakkale&mealType=true&hidePast=false&monthShift=0"
         }
       },
-      "diyarbakir": {
-        "city": "Diyarbakır",
-        "city_slug": "diyarbakir",
-        "date": "2026-11-01",
-        "breakfast": {
-          "items": [
-            "Peynirli Omlet",
-            "Menemen(Yumurtasız)",
-            "Sade Poğaça",
-            "Labne Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Mercimek Çorbası",
-            "Yayla Çorbası",
-            "Tavuk Baget +Fırında Karışık Sebze",
-            "Karışık Dolma",
-            "Tavuk Baget",
-            "+Fırında Karışık Sebze",
-            "Soslu Makarna",
-            "Kuru Cacık",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
       "erzincan": {
         "city": "Erzincan",
         "city_slug": "erzincan",
@@ -289,43 +252,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Erzurum?city=Erzurum&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "eskisehir": {
-        "city": "Eskişehir",
-        "city_slug": "eskisehir",
-        "date": "2026-11-01",
-        "breakfast": {
-          "items": [
-            "Peynirli Omlet",
-            "Menemen",
-            "Sade Poğaça",
-            "Labne Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Yeşil Mercimek Çorba",
-            "Şehriye Çorbası",
-            "Tavuk Fajita",
-            "Ispanak Yemeği +Yoğurt",
-            "Ispanak Yemeği",
-            "+Yoğurt",
-            "Soslu Makarna",
-            "Havuç Tarator",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "gaziantep": {
@@ -662,45 +588,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Niğde?city=Ni%C4%9Fde&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "sakarya": {
-        "city": "Sakarya",
-        "city_slug": "sakarya",
-        "date": "2026-11-01",
-        "breakfast": {
-          "items": [
-            "Peynirli Omlet",
-            "Paçanga Böreği",
-            "Sade Poğaça",
-            "Labne Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek",
-            "Al Götür Menü"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba",
-            "Mercimek Çorbası",
-            "Çıtır Tavuk +Elma Dilim Patates",
-            "Kaşarlı Köfte",
-            "Karışık Dolma",
-            "Çıtır Tavuk",
-            "+Elma Dilim Patates",
-            "Salçalı Spagetti",
-            "Havuç Tarator",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "siirt": {
@@ -1067,42 +954,6 @@
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Çanakkale?city=%C3%87anakkale&mealType=true&hidePast=false&monthShift=0"
         }
       },
-      "diyarbakir": {
-        "city": "Diyarbakır",
-        "city_slug": "diyarbakir",
-        "date": "2026-11-02",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Patates Kızartması",
-            "Zeytinli",
-            "Peynirli Açma",
-            "Beyaz Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 965,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Ezogelin Çorba",
-            "Arabaşı Çorba",
-            "Etsiz Kuru Fasulye",
-            "Etsiz Güveç",
-            "Şehriyeli Pirinç Pilavı",
-            "Cevizli Baklava",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
       "erzincan": {
         "city": "Erzincan",
         "city_slug": "erzincan",
@@ -1173,42 +1024,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Erzurum?city=Erzurum&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "eskisehir": {
-        "city": "Eskişehir",
-        "city_slug": "eskisehir",
-        "date": "2026-11-02",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Patates Kızartması",
-            "Zeytinli",
-            "Peynirli Açma",
-            "Beyaz Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 965,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba",
-            "Mercimek Çorbası",
-            "Etsiz Kuru Fasulye",
-            "Karışık Sebze Graten",
-            "Şehriyeli Pirinç Pilavı",
-            "Cevizli Kadayıf",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "gaziantep": {
@@ -1544,43 +1359,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Niğde?city=Ni%C4%9Fde&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "sakarya": {
-        "city": "Sakarya",
-        "city_slug": "sakarya",
-        "date": "2026-11-02",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Patates Kızartması",
-            "Zeytinli",
-            "Peynirli Açma",
-            "Kaşar Peyniri",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek",
-            "Al Götür Menü"
-          ],
-          "calories": 961,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Közbiber Çorba",
-            "Çeşmi Nigar Çorba",
-            "Kurufasulye Yemeği",
-            "İmam Bayıldı",
-            "Tel Şehriyeli Pirinç Pilavı",
-            "Cevizli Kadayıf",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "siirt": {
@@ -1961,43 +1739,6 @@
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Çanakkale?city=%C3%87anakkale&mealType=true&hidePast=false&monthShift=0"
         }
       },
-      "diyarbakir": {
-        "city": "Diyarbakır",
-        "city_slug": "diyarbakir",
-        "date": "2026-11-03",
-        "breakfast": {
-          "items": [
-            "Kaşarlı Omlet",
-            "Menemen(Yumurtasız)",
-            "Dere Otlu Poğaça",
-            "Kaşar Peyniri",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Mercimek Çorbası",
-            "Yüksük Çorbası",
-            "Tavuk Tantuni",
-            "Karışık Sebze Kızartma +Yoğurt",
-            "Karışık Sebze Kızartma",
-            "+Yoğurt",
-            "Sebzeli Bulgur Pilavı",
-            "Çoban Salata",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
       "erzincan": {
         "city": "Erzincan",
         "city_slug": "erzincan",
@@ -2069,43 +1810,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Erzurum?city=Erzurum&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "eskisehir": {
-        "city": "Eskişehir",
-        "city_slug": "eskisehir",
-        "date": "2026-11-03",
-        "breakfast": {
-          "items": [
-            "Kaşarlı Omlet",
-            "Lorlu Biber Kızartma",
-            "Dere Otlu Poğaça",
-            "Kaşar Peyniri",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Yayla Çorbası",
-            "Mahluta Çorba",
-            "Tavuk Külbastı +Patates Kızartması",
-            "Etsiz Bezelye Yemeği",
-            "Tavuk Külbastı",
-            "+Patates Kızartması",
-            "Sade Bulgur Pilavı",
-            "Çoban Salata",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "gaziantep": {
@@ -2441,43 +2145,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Niğde?city=Ni%C4%9Fde&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "sakarya": {
-        "city": "Sakarya",
-        "city_slug": "sakarya",
-        "date": "2026-11-03",
-        "breakfast": {
-          "items": [
-            "Kaşarlı Omlet",
-            "Hatay Usulü Biberli Ekmek",
-            "Dere Otlu Poğaça",
-            "Beyaz Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek",
-            "Al Götür Menü"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Tavuk Çorba",
-            "Erişteli Yeşil Mercimek Çorbası",
-            "Piliç Roti",
-            "Çoban Kavurma",
-            "Bezelye Yemeği",
-            "Bulgur Pilavı",
-            "Kaşık Salata",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "siirt": {
@@ -2866,45 +2533,6 @@
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Çanakkale?city=%C3%87anakkale&mealType=true&hidePast=false&monthShift=0"
         }
       },
-      "diyarbakir": {
-        "city": "Diyarbakır",
-        "city_slug": "diyarbakir",
-        "date": "2026-11-04",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Sosis Kızartması",
-            "Peynirli",
-            "Ispanaklı Börek",
-            "Beyaz Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 884,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Mercimek Çorbası",
-            "Tarhana Çorba",
-            "İzmir Köfte",
-            "Tavuk Çöpşiş +Fırın Sebze Garnitür",
-            "Lahana Dolması",
-            "Tavuk Çöpşiş",
-            "+Fırın Sebze Garnitür",
-            "Garnitürlü Yoğurtlu Makarna",
-            "Trileçe",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
       "erzincan": {
         "city": "Erzincan",
         "city_slug": "erzincan",
@@ -2981,44 +2609,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Erzurum?city=Erzurum&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "eskisehir": {
-        "city": "Eskişehir",
-        "city_slug": "eskisehir",
-        "date": "2026-11-04",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Sosis Kızartması",
-            "Peynirli",
-            "Ispanaklı Börek",
-            "Beyaz Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 884,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Ezogelin Çorba",
-            "Anadolu Çorba",
-            "Patlıcan Musakka",
-            "Etsiz Karışık Dolma veya Sarma +Yoğurt",
-            "Etsiz Karışık Dolma veya Sarma",
-            "+Yoğurt",
-            "Salçalı Makarna",
-            "Supangle",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "gaziantep": {
@@ -3358,44 +2948,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Niğde?city=Ni%C4%9Fde&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "sakarya": {
-        "city": "Sakarya",
-        "city_slug": "sakarya",
-        "date": "2026-11-04",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Sosis Kızartması",
-            "Peynirli",
-            "Ispanaklı Börek",
-            "Çeçil-dil-tel-örgü Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek",
-            "Al Götür Menü"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Yayla Çorbası",
-            "Ezogelin Çorba",
-            "Patlıcan Musakka",
-            "Tavuk Çökertme",
-            "Karnabahar Kızartması",
-            "Soslu Makarna",
-            "Sütlaç",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "siirt": {
@@ -3778,43 +3330,6 @@
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Çanakkale?city=%C3%87anakkale&mealType=true&hidePast=false&monthShift=0"
         }
       },
-      "diyarbakir": {
-        "city": "Diyarbakır",
-        "city_slug": "diyarbakir",
-        "date": "2026-11-05",
-        "breakfast": {
-          "items": [
-            "Sucuklu Omlet",
-            "Karışık Kızartma",
-            "Simit",
-            "Krem Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Ezogelin Çorba",
-            "Cennet Çorba",
-            "Tavuk Külbastı +Sebze Garnitür",
-            "Kaşarlı İmam Bayıldı",
-            "Tavuk Külbastı",
-            "+Sebze Garnitür",
-            "Şehriyeli Pirinç Pilavı",
-            "Karışık Salata",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
       "erzincan": {
         "city": "Erzincan",
         "city_slug": "erzincan",
@@ -3886,41 +3401,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Erzurum?city=Erzurum&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "eskisehir": {
-        "city": "Eskişehir",
-        "city_slug": "eskisehir",
-        "date": "2026-11-05",
-        "breakfast": {
-          "items": [
-            "Sucuklu Omlet",
-            "Karışık Kızartma",
-            "Simit",
-            "Krem Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Mercimek Çorbası",
-            "Şehriye Çorbası",
-            "Tavuk Tantuni",
-            "Etsiz Pırasa Yemeği",
-            "Ayran",
-            "Karışık Salata",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "gaziantep": {
@@ -4252,46 +3732,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Niğde?city=Ni%C4%9Fde&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "sakarya": {
-        "city": "Sakarya",
-        "city_slug": "sakarya",
-        "date": "2026-11-05",
-        "breakfast": {
-          "items": [
-            "Sucuklu Omlet",
-            "Karışık Kızartma",
-            "Simit",
-            "Krem Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek",
-            "Al Götür Menü"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Mercimek Çorbası",
-            "Tutmaç Çorba",
-            "Hamburger +Patates Kızartması",
-            "Tavukburger +Patates Kızartması",
-            "Kabak Mücver",
-            "Hamburger",
-            "+Patates Kızartması",
-            "Tavukburger",
-            "Tereyağlı Pirinç Pilavı",
-            "Akdeniz Salata",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "siirt": {
@@ -4668,42 +4108,6 @@
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Çanakkale?city=%C3%87anakkale&mealType=true&hidePast=false&monthShift=0"
         }
       },
-      "diyarbakir": {
-        "city": "Diyarbakır",
-        "city_slug": "diyarbakir",
-        "date": "2026-11-06",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Haşlanmış Patates+Domates+Salatalık",
-            "Karışık Pizza",
-            "Yöresel Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Mercimek Çorbası",
-            "Yüksük Çorbası",
-            "Et Tandır",
-            "Tavuk Döner",
-            "Yeşil Fasulye Yemeği",
-            "İç Pilav",
-            "Cacık",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
       "erzincan": {
         "city": "Erzincan",
         "city_slug": "erzincan",
@@ -4778,42 +4182,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Erzurum?city=Erzurum&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "eskisehir": {
-        "city": "Eskişehir",
-        "city_slug": "eskisehir",
-        "date": "2026-11-06",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Haşlanmış Patates+Domates+Salatalık",
-            "Su Böreği",
-            "Yöresel Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Çeşmi Nigar Çorba",
-            "Tarhana Çorba",
-            "Taş Kebabı",
-            "Tavuk Sote",
-            "Etsiz Taze Fasulye",
-            "Şehriyeli Bulgur Pilavı",
-            "Cacık",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "gaziantep": {
@@ -5143,46 +4511,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Niğde?city=Ni%C4%9Fde&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "sakarya": {
-        "city": "Sakarya",
-        "city_slug": "sakarya",
-        "date": "2026-11-06",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Haşlanmış Patates+Domates-Salatalık",
-            "Karışık Pizza",
-            "Çeçil-dil-tel-örgü Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek",
-            "Al Götür Menü"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Anadolu Çorba",
-            "Düğün Çorba",
-            "Tas Kebabı +Patates Püresi",
-            "Tavuk Izgara +Patates Püresi",
-            "Taze Fasulye Yemeği",
-            "Tas Kebabı",
-            "+Patates Püresi",
-            "Tavuk Izgara",
-            "Bulgur Pilavı",
-            "Cacık",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "siirt": {
@@ -5555,41 +4883,6 @@
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Çanakkale?city=%C3%87anakkale&mealType=true&hidePast=false&monthShift=0"
         }
       },
-      "diyarbakir": {
-        "city": "Diyarbakır",
-        "city_slug": "diyarbakir",
-        "date": "2026-11-07",
-        "breakfast": {
-          "items": [
-            "Menemen",
-            "Menemen(Yumurtasız)",
-            "Milföy Börek",
-            "Beyaz Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Ezogelin Çorba",
-            "Mısır Çorba",
-            "Tavuk Pirzola",
-            "Karışık Dolma",
-            "Yoğurtlu Makarna",
-            "Çikolatalı Kremalı Pasta",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
       "erzincan": {
         "city": "Erzincan",
         "city_slug": "erzincan",
@@ -5663,45 +4956,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Erzurum?city=Erzurum&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "eskisehir": {
-        "city": "Eskişehir",
-        "city_slug": "eskisehir",
-        "date": "2026-11-07",
-        "breakfast": {
-          "items": [
-            "Menemen(Yumurtasız)",
-            "Patatesli Yumurta",
-            "Çikolatalı Poğaça",
-            "Beyaz Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Ezogelin Çorba",
-            "Mısır Çorba",
-            "Kemiksiz Tavuk Pirzola +Karışık Sebze Garnitür",
-            "Kabak Mücver +Yoğurt",
-            "Kemiksiz Tavuk Pirzola",
-            "+Karışık Sebze Garnitür",
-            "Kabak Mücver",
-            "+Yoğurt",
-            "Soslu Makarna",
-            "Islak Kek",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "gaziantep": {
@@ -6029,48 +5283,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Niğde?city=Ni%C4%9Fde&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "sakarya": {
-        "city": "Sakarya",
-        "city_slug": "sakarya",
-        "date": "2026-11-07",
-        "breakfast": {
-          "items": [
-            "Menemen",
-            "Kızarmış Peynir Çubukları",
-            "Patates Kroket",
-            "Çikolatalı",
-            "Peynirli",
-            "Patatesli Milföy Börek",
-            "Beyaz Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek",
-            "Al Götür Menü"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Toyga Çorba",
-            "Mahluta Çorba",
-            "Sebzeli Mantarlı Tavuk",
-            "Kadınbudu Köfte +Pişmiş Biber Ve Domates",
-            "Kabak Kalye",
-            "Kadınbudu Köfte",
-            "+Pişmiş Biber Ve Domates",
-            "Domatesli Makarna",
-            "Gelin Pasta",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "siirt": {
@@ -6440,41 +5652,6 @@
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Çanakkale?city=%C3%87anakkale&mealType=true&hidePast=false&monthShift=0"
         }
       },
-      "diyarbakir": {
-        "city": "Diyarbakır",
-        "city_slug": "diyarbakir",
-        "date": "2026-11-08",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Patates Kavurması",
-            "Pankek+Sürülebilir Çikolata",
-            "Kaşar Peyniri",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Mercimek Çorbası",
-            "Yayla Çorbası",
-            "Lahmacun",
-            "Mevsim Türlü",
-            "Soslu Spagetti",
-            "Havuç Tarator",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
       "erzincan": {
         "city": "Erzincan",
         "city_slug": "erzincan",
@@ -6548,44 +5725,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Erzurum?city=Erzurum&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "eskisehir": {
-        "city": "Eskişehir",
-        "city_slug": "eskisehir",
-        "date": "2026-11-08",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Patates Kavurması",
-            "Mini Bazlama+Sürülebilir Çikolata",
-            "Kaşar Peyniri",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Yoğurt Çorba",
-            "Şehriye Çorbası",
-            "Izgara Köfte +Soğan Halkası+Patates Kroket",
-            "Köri Soslu Tavuk",
-            "Şakşuka",
-            "Izgara Köfte",
-            "+Soğan Halkası+Patates Kroket",
-            "Sade Pirinç Pilavı",
-            "Koslov Salata",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "gaziantep": {
@@ -6927,46 +6066,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Niğde?city=Ni%C4%9Fde&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "sakarya": {
-        "city": "Sakarya",
-        "city_slug": "sakarya",
-        "date": "2026-11-08",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Patates Kavurması",
-            "Pankek+Sürülebilir Çikolata",
-            "Kaşar Peyniri",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek",
-            "Al Götür Menü"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Sebze Çorbası",
-            "Ezogelin Çorba",
-            "İnegöl Köfte +Soğan Piyazı+Lavaş",
-            "Tavuk Tantuni +Soğan Piyazı+Lavaş",
-            "Mevsim Türlü",
-            "İnegöl Köfte",
-            "+Soğan Piyazı+Lavaş",
-            "Tavuk Tantuni",
-            "Sebzeli Bulgur Pilavı",
-            "Haydari",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "siirt": {
@@ -7341,42 +6440,6 @@
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Çanakkale?city=%C3%87anakkale&mealType=true&hidePast=false&monthShift=0"
         }
       },
-      "diyarbakir": {
-        "city": "Diyarbakır",
-        "city_slug": "diyarbakir",
-        "date": "2026-11-09",
-        "breakfast": {
-          "items": [
-            "Sade Omlet",
-            "Patates Kızartması",
-            "Sade Poğaça",
-            "Beyaz Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Ezogelin Çorba",
-            "Tarhana Çorba",
-            "Çoban Kavurma",
-            "Tavuklu Sultan Kebabı",
-            "Patatesli Havuçlu Bezelye Yemeği",
-            "Şehriyeli Pirinç Pilavı",
-            "Karışık Salata",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
       "erzincan": {
         "city": "Erzincan",
         "city_slug": "erzincan",
@@ -7451,44 +6514,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Erzurum?city=Erzurum&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "eskisehir": {
-        "city": "Eskişehir",
-        "city_slug": "eskisehir",
-        "date": "2026-11-09",
-        "breakfast": {
-          "items": [
-            "Sade Omlet",
-            "Patates Kızartması",
-            "Sade Poğaça",
-            "Beyaz Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Mercimek Çorbası",
-            "Tarhana Çorba",
-            "Çoban Kavurma",
-            "Kemiksiz Tavuk Haşlama",
-            "Karnabahar Kızartma +Yoğurt",
-            "Karnabahar Kızartma",
-            "+Yoğurt",
-            "Şehriyeli Bulgur Pilavı",
-            "Havuç Aysberg Salata",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "gaziantep": {
@@ -7832,45 +6857,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Niğde?city=Ni%C4%9Fde&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "sakarya": {
-        "city": "Sakarya",
-        "city_slug": "sakarya",
-        "date": "2026-11-09",
-        "breakfast": {
-          "items": [
-            "Sade Omlet",
-            "Patates Kızartması",
-            "Sade Poğaça",
-            "Beyaz Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek",
-            "Al Götür Menü"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Mercimek Çorbası",
-            "Mahluta Çorba",
-            "Arnavut Ciğer +Küp Patates Kızartması",
-            "Sebzeli Haşlama Tavuk Yemeği",
-            "Bezelye Yemeği",
-            "Arnavut Ciğer",
-            "+Küp Patates Kızartması",
-            "Pirinç Pilavı",
-            "Karışık Salata",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "siirt": {
@@ -8245,44 +7231,6 @@
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Çanakkale?city=%C3%87anakkale&mealType=true&hidePast=false&monthShift=0"
         }
       },
-      "diyarbakir": {
-        "city": "Diyarbakır",
-        "city_slug": "diyarbakir",
-        "date": "2026-11-10",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Salçalı Sosis",
-            "Peynirli",
-            "Ispanaklı Börek",
-            "Yöresel Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Mercimek Çorbası",
-            "Cennet Çorba",
-            "Kekiklim Tavuk +Elma Dilim Patates",
-            "Ispanak Graten",
-            "Kekiklim Tavuk",
-            "+Elma Dilim Patates",
-            "Garnitürlü Yoğurtlu Makarna",
-            "Çiğ Köfte+Yeşillik",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
       "erzincan": {
         "city": "Erzincan",
         "city_slug": "erzincan",
@@ -8355,44 +7303,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Erzurum?city=Erzurum&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "eskisehir": {
-        "city": "Eskişehir",
-        "city_slug": "eskisehir",
-        "date": "2026-11-10",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Salçalı Sosis",
-            "Peynirli",
-            "Ispanaklı Börek",
-            "Yöresel Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Sebze Çorbası",
-            "Yayla Çorbası",
-            "Tavuk Kavurma +Söğüş Domates Biber",
-            "Etsiz Bezelye Yemeği",
-            "Tavuk Kavurma",
-            "+Söğüş Domates Biber",
-            "Sade Pirinç Pilavı",
-            "Cacık",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "gaziantep": {
@@ -8735,48 +7645,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Niğde?city=Ni%C4%9Fde&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "sakarya": {
-        "city": "Sakarya",
-        "city_slug": "sakarya",
-        "date": "2026-11-10",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Salçalı Sosis",
-            "Peynirli",
-            "Ispanaklı Börek",
-            "Çeçil-dil-tel-örgü Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek",
-            "Al Götür Menü"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Ezogelin Çorba",
-            "Mısır Çorba",
-            "Tavuk Taco +Patates Kızartması",
-            "Et Tantuni +Soğan Piyazı",
-            "Taze Fasulye Yemeği",
-            "Tavuk Taco",
-            "+Patates Kızartması",
-            "Et Tantuni",
-            "+Soğan Piyazı",
-            "Köri Soslu Makarna",
-            "Çiğ Köfte",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "siirt": {
@@ -9166,45 +8034,6 @@
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Çanakkale?city=%C3%87anakkale&mealType=true&hidePast=false&monthShift=0"
         }
       },
-      "diyarbakir": {
-        "city": "Diyarbakır",
-        "city_slug": "diyarbakir",
-        "date": "2026-11-11",
-        "breakfast": {
-          "items": [
-            "Peynirli Omlet",
-            "Menemen(Yumurtasız)",
-            "Zeytinli",
-            "Peynirli Açma",
-            "Kaşar Peyniri",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Ezogelin Çorba",
-            "Terbiyeli Tavuk Çorba",
-            "Etsiz Kuru Fasulye",
-            "Karışık Sebze Kızartma +Yoğurt",
-            "Karışık Sebze Kızartma",
-            "+Yoğurt",
-            "Sade Bulgur Pilavı",
-            "Yoğurt",
-            "Cevizli Revani",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
       "erzincan": {
         "city": "Erzincan",
         "city_slug": "erzincan",
@@ -9277,43 +8106,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Erzurum?city=Erzurum&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "eskisehir": {
-        "city": "Eskişehir",
-        "city_slug": "eskisehir",
-        "date": "2026-11-11",
-        "breakfast": {
-          "items": [
-            "Peynirli Omlet",
-            "Fırında Sebze",
-            "Zeytinli",
-            "Peynirli Açma",
-            "Kaşar Peyniri",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Tavuk Suyu Çorba",
-            "Domates Çorba",
-            "Etsiz Nohut Yemeği",
-            "Soslu Karışık Kızartma",
-            "Sade Bulgur Pilavı",
-            "Yoğurt",
-            "Şekerpare",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "gaziantep": {
@@ -9666,44 +8458,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Niğde?city=Ni%C4%9Fde&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "sakarya": {
-        "city": "Sakarya",
-        "city_slug": "sakarya",
-        "date": "2026-11-11",
-        "breakfast": {
-          "items": [
-            "Peynirli Omlet",
-            "Patates Kroket+Soğan Halkası",
-            "Zeytinli",
-            "Peynirli Açma",
-            "Kaşar Peyniri",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek",
-            "Al Götür Menü"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Arapaşı",
-            "Düğün Çorba",
-            "Nohut Yemeği",
-            "Mücver",
-            "Pirinç Pilavı",
-            "Yoğurt",
-            "Kıbrıs Tatlısı",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "siirt": {
@@ -10080,41 +8834,6 @@
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Çanakkale?city=%C3%87anakkale&mealType=true&hidePast=false&monthShift=0"
         }
       },
-      "diyarbakir": {
-        "city": "Diyarbakır",
-        "city_slug": "diyarbakir",
-        "date": "2026-11-12",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Patates Kızartması",
-            "Pişi+Domates+Salatalık",
-            "Beyaz Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Mercimek Çorbası",
-            "Sebze Çorbası",
-            "Tavuklu Çökertme Kebabı",
-            "Etsiz Güveç",
-            "Şehriyeli Pirinç Pilavı",
-            "Kaşık Salata",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
       "erzincan": {
         "city": "Erzincan",
         "city_slug": "erzincan",
@@ -10188,43 +8907,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Erzurum?city=Erzurum&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "eskisehir": {
-        "city": "Eskişehir",
-        "city_slug": "eskisehir",
-        "date": "2026-11-12",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Patates Kızartması",
-            "Pişi",
-            "Tepsi Böreği+Domates Salatalık",
-            "Beyaz Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Ezogelin Çorba",
-            "Tutmaç Çorba",
-            "Beşamel Soslu tavuk",
-            "Etsiz Taze Fasulye",
-            "Salçalı Makarna",
-            "Ege Salata",
-            "Çoban Salata",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "gaziantep": {
@@ -10553,45 +9235,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Niğde?city=Ni%C4%9Fde&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "sakarya": {
-        "city": "Sakarya",
-        "city_slug": "sakarya",
-        "date": "2026-11-12",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Patates Kızartması",
-            "Pişi+Domates-Salatalık",
-            "Beyaz Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek",
-            "Al Götür Menü"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Düğün Çorba",
-            "Tarhana Çorba",
-            "Tavuk Şinitzel +Baharatlı Fırın Patates",
-            "Çiftlik Kebabı",
-            "Ispanak Graten",
-            "Tavuk Şinitzel",
-            "+Baharatlı Fırın Patates",
-            "Bulgur Pilavı",
-            "Gavurdağı Salata",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "siirt": {
@@ -10968,42 +9611,6 @@
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Çanakkale?city=%C3%87anakkale&mealType=true&hidePast=false&monthShift=0"
         }
       },
-      "diyarbakir": {
-        "city": "Diyarbakır",
-        "city_slug": "diyarbakir",
-        "date": "2026-11-13",
-        "breakfast": {
-          "items": [
-            "Menemen",
-            "Patates Salatası",
-            "Simit",
-            "Labne Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 734,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Ezogelin Çorba",
-            "Yayla Çorbası",
-            "Lahmacun",
-            "Karışık Dolma",
-            "Soslu Makarna",
-            "Ayran",
-            "Meyve Suyu",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
       "erzincan": {
         "city": "Erzincan",
         "city_slug": "erzincan",
@@ -11078,44 +9685,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Erzurum?city=Erzurum&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "eskisehir": {
-        "city": "Eskişehir",
-        "city_slug": "eskisehir",
-        "date": "2026-11-13",
-        "breakfast": {
-          "items": [
-            "Menemen",
-            "Patates Salatası",
-            "Simit",
-            "Labne Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 734,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Mercimek Çorbası",
-            "Şehriye Çorbası",
-            "Hamburger",
-            "Domates Soslu Kabak Mücver",
-            "Patates Kızartması +Soğan Halkası",
-            "Patates Kızartması",
-            "+Soğan Halkası",
-            "Ayran",
-            "Meyve Suyu",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "gaziantep": {
@@ -11463,44 +10032,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Niğde?city=Ni%C4%9Fde&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "sakarya": {
-        "city": "Sakarya",
-        "city_slug": "sakarya",
-        "date": "2026-11-13",
-        "breakfast": {
-          "items": [
-            "Menemen",
-            "Patates Salatası",
-            "Simit",
-            "Labne Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek",
-            "Al Götür Menü"
-          ],
-          "calories": 734,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba",
-            "Mercimek Çorbası",
-            "Hamburger",
-            "Tavuk Burger",
-            "Karışık Dolma",
-            "Patates Kızartması",
-            "Ayran",
-            "Meyve Suyu",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "siirt": {
@@ -11874,43 +10405,6 @@
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Çanakkale?city=%C3%87anakkale&mealType=true&hidePast=false&monthShift=0"
         }
       },
-      "diyarbakir": {
-        "city": "Diyarbakır",
-        "city_slug": "diyarbakir",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Kavurmalı Yumurta",
-            "Milföy Börek",
-            "Kaşar Peyniri",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Mercimek Çorbası",
-            "Mısır Çorba",
-            "Tavuk Sote",
-            "Karnabahar Kızartması +Yoğurt",
-            "Karnabahar Kızartması",
-            "+Yoğurt",
-            "Sade Bulgur Pilavı",
-            "Cevizli Kadayıflı Muhallebi",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
       "erzincan": {
         "city": "Erzincan",
         "city_slug": "erzincan",
@@ -11983,43 +10477,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Erzurum?city=Erzurum&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "eskisehir": {
-        "city": "Eskişehir",
-        "city_slug": "eskisehir",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Fırında Sosisli Sebze",
-            "Çikolatalı Milföy Börek",
-            "Kaşar Peyniri",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Tarhana Çorba",
-            "Sebze Çorbası",
-            "Fırın İncik Kanat +Elma Dilim Patates",
-            "Etsiz Türlü",
-            "Fırın İncik Kanat",
-            "+Elma Dilim Patates",
-            "Nohutlu Pirinç Pilavı",
-            "Muhallebi",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "gaziantep": {
@@ -12359,49 +10816,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Niğde?city=Ni%C4%9Fde&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "sakarya": {
-        "city": "Sakarya",
-        "city_slug": "sakarya",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Kızarmış Peynir Çubukları",
-            "Patates Kroket",
-            "Çikolatalı",
-            "Peynirli",
-            "Patatesli Milföy Börek",
-            "Kaşar Peyniri",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek",
-            "Al Götür Menü"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Çeşmi Nigar Çorba",
-            "Toyga Çorba",
-            "Tavuk Kalamar +Patates Kızartması",
-            "Izgara Köfte +Patates Kızartması",
-            "Taze Fasulye Yemeği",
-            "Tavuk Kalamar",
-            "+Patates Kızartması",
-            "Izgara Köfte",
-            "Pirinç Pilavı",
-            "Sütlü İrmik Tatlısı",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "siirt": {
@@ -12765,44 +11179,6 @@
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Çanakkale?city=%C3%87anakkale&mealType=true&hidePast=false&monthShift=0"
         }
       },
-      "diyarbakir": {
-        "city": "Diyarbakır",
-        "city_slug": "diyarbakir",
-        "date": "2026-11-15",
-        "breakfast": {
-          "items": [
-            "Sucuklu Omlet",
-            "Patates Kroket",
-            "Dere Otlu Poğaça",
-            "Beyaz Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 751,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Ezogelin Çorba",
-            "Şehriye Çorbası",
-            "Çökertme Kebabı",
-            "Tavuk Döner",
-            "Karışık Sebze Kızartma +Yoğurt",
-            "Karışık Sebze Kızartma",
-            "+Yoğurt",
-            "Şehriyeli Pirinç Pilavı",
-            "Acılı Ezme",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
       "erzincan": {
         "city": "Erzincan",
         "city_slug": "erzincan",
@@ -12877,44 +11253,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Erzurum?city=Erzurum&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "eskisehir": {
-        "city": "Eskişehir",
-        "city_slug": "eskisehir",
-        "date": "2026-11-15",
-        "breakfast": {
-          "items": [
-            "Sucuklu Omlet",
-            "Patates Kroket",
-            "Dere Otlu Poğaça",
-            "Beyaz Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 751,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Ezogelin Çorba",
-            "Anadolu Çorba",
-            "Orman Kebabı",
-            "Tavuk Sote",
-            "Ispanak Yemeği +Yoğurt",
-            "Ispanak Yemeği",
-            "+Yoğurt",
-            "Mercimekli Bulgur Pilavı",
-            "Pembe Sultan",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "gaziantep": {
@@ -13257,47 +11595,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Niğde?city=Ni%C4%9Fde&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "sakarya": {
-        "city": "Sakarya",
-        "city_slug": "sakarya",
-        "date": "2026-11-15",
-        "breakfast": {
-          "items": [
-            "Sucuklu Omlet",
-            "Patates Kroket",
-            "Dere Otlu Poğaça",
-            "Beyaz Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek",
-            "Al Götür Menü"
-          ],
-          "calories": 751,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Anadolu Çorba",
-            "Közbiber Çorba",
-            "Et Sote",
-            "Tavuk Şiş +Pişmiş Domates+Biber",
-            "Fırında Köz Sebze +Lavaş",
-            "Tavuk Şiş",
-            "+Pişmiş Domates+Biber",
-            "Fırında Köz Sebze",
-            "+Lavaş",
-            "Bulgur Pilavı",
-            "Borani",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "siirt": {
@@ -14204,6 +12501,36 @@
           "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
         }
       },
+      "diyarbakir": {
+        "city": "Diyarbakır",
+        "city_slug": "diyarbakir",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Haşlanmış Yumurta / Omlet",
+            "Beyaz Peynir / Kaşar Peynir",
+            "Siyah ve Yeşil Zeytin",
+            "Taze Ekmek & Simit",
+            "Sıcak Çay / Süt"
+          ],
+          "calories": 750,
+          "source": "standart_kyk",
+          "source_url": null
+        },
+        "dinner": {
+          "items": [
+            "Tarhana Çorba / Sebze Çorbası",
+            "Dana Rosto (Püreli) / Tavuk Kalamar / Karnabahar Graten",
+            "Şehriyeli Bulgur Pilavı",
+            "Atom(Tatlı Veya Acı)",
+            "500 ml Su",
+            "Çeyrek Ekmek"
+          ],
+          "calories": 920,
+          "source": "syrblo_yedek",
+          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+        }
+      },
       "duzce": {
         "city": "Düzce",
         "city_slug": "duzce",
@@ -14267,6 +12594,36 @@
       "elazig": {
         "city": "Elazığ",
         "city_slug": "elazig",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Haşlanmış Yumurta / Omlet",
+            "Beyaz Peynir / Kaşar Peynir",
+            "Siyah ve Yeşil Zeytin",
+            "Taze Ekmek & Simit",
+            "Sıcak Çay / Süt"
+          ],
+          "calories": 750,
+          "source": "standart_kyk",
+          "source_url": null
+        },
+        "dinner": {
+          "items": [
+            "Tarhana Çorba / Sebze Çorbası",
+            "Dana Rosto (Püreli) / Tavuk Kalamar / Karnabahar Graten",
+            "Şehriyeli Bulgur Pilavı",
+            "Atom(Tatlı Veya Acı)",
+            "500 ml Su",
+            "Çeyrek Ekmek"
+          ],
+          "calories": 920,
+          "source": "syrblo_yedek",
+          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+        }
+      },
+      "eskisehir": {
+        "city": "Eskişehir",
+        "city_slug": "eskisehir",
         "date": "2026-11-15",
         "breakfast": {
           "items": [
@@ -14924,6 +13281,36 @@
           "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
         }
       },
+      "sakarya": {
+        "city": "Sakarya",
+        "city_slug": "sakarya",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Haşlanmış Yumurta / Omlet",
+            "Beyaz Peynir / Kaşar Peynir",
+            "Siyah ve Yeşil Zeytin",
+            "Taze Ekmek & Simit",
+            "Sıcak Çay / Süt"
+          ],
+          "calories": 750,
+          "source": "standart_kyk",
+          "source_url": null
+        },
+        "dinner": {
+          "items": [
+            "Tarhana Çorba / Sebze Çorbası",
+            "Dana Rosto (Püreli) / Tavuk Kalamar / Karnabahar Graten",
+            "Şehriyeli Bulgur Pilavı",
+            "Atom(Tatlı Veya Acı)",
+            "500 ml Su",
+            "Çeyrek Ekmek"
+          ],
+          "calories": 920,
+          "source": "syrblo_yedek",
+          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+        }
+      },
       "sanliurfa": {
         "city": "Şanlıurfa",
         "city_slug": "sanliurfa",
@@ -15382,41 +13769,6 @@
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Çanakkale?city=%C3%87anakkale&mealType=true&hidePast=false&monthShift=0"
         }
       },
-      "diyarbakir": {
-        "city": "Diyarbakır",
-        "city_slug": "diyarbakir",
-        "date": "2026-11-16",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Patates Kızartması",
-            "Sade Poğaça",
-            "Kaşar Peyniri",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Mercimek Çorbası",
-            "Cennet Çorba",
-            "Tavuk Baget Haşlama",
-            "Karışık Dolma",
-            "Soslu Makarna",
-            "Çoban Salata",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
       "erzincan": {
         "city": "Erzincan",
         "city_slug": "erzincan",
@@ -15487,41 +13839,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Erzurum?city=Erzurum&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "eskisehir": {
-        "city": "Eskişehir",
-        "city_slug": "eskisehir",
-        "date": "2026-11-16",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Patates Kızartması",
-            "Sade Poğaça",
-            "Kaşar Peyniri",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Şehriye Çorbası",
-            "Havuç Çorba",
-            "Köri Soslu Tavuk",
-            "Karışık Sebze Graten",
-            "Soslu Spagetti",
-            "Çoban Salata",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "gaziantep": {
@@ -15853,43 +14170,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Niğde?city=Ni%C4%9Fde&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "sakarya": {
-        "city": "Sakarya",
-        "city_slug": "sakarya",
-        "date": "2026-11-16",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Patates Kızartması",
-            "Sade Poğaça",
-            "Kaşar Peyniri",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek",
-            "Al Götür Menü"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Tarhana Çorba",
-            "Ezogelin Çorba",
-            "Piliç Topkapı",
-            "Çökertme Kababı",
-            "Mevsim Türlü",
-            "Kayseri Mantı",
-            "Kaşık Salata",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "siirt": {
@@ -16265,42 +14545,6 @@
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Çanakkale?city=%C3%87anakkale&mealType=true&hidePast=false&monthShift=0"
         }
       },
-      "diyarbakir": {
-        "city": "Diyarbakır",
-        "city_slug": "diyarbakir",
-        "date": "2026-11-17",
-        "breakfast": {
-          "items": [
-            "Peynirli Omlet",
-            "Menemen(Yumurtasız)",
-            "Simit",
-            "Beyaz Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Ezogelin Çorba",
-            "Erişteli Yeşil Mercimek Çorbası",
-            "Misket Köfte",
-            "Tavuk Külbastı",
-            "Etsiz Nohut Yemeği",
-            "Şehriyeli Pirinç Pilavı",
-            "Aşure",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
       "erzincan": {
         "city": "Erzincan",
         "city_slug": "erzincan",
@@ -16373,44 +14617,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Erzurum?city=Erzurum&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "eskisehir": {
-        "city": "Eskişehir",
-        "city_slug": "eskisehir",
-        "date": "2026-11-17",
-        "breakfast": {
-          "items": [
-            "Peynirli Omlet",
-            "Kahvaltı Keki (Tuzlu)",
-            "Simit",
-            "Beyaz Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Mercimek Çorbası",
-            "Çeşmi Nigar Çorba",
-            "İzmir Köfte",
-            "Tavuk Külbastı +Patates Kızartması",
-            "Etsiz Bezelye Yemeği",
-            "Tavuk Külbastı",
-            "+Patates Kızartması",
-            "Şehriyeli Pirinç Pilavı",
-            "Kabak Tatlısı",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "gaziantep": {
@@ -16737,43 +14943,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Niğde?city=Ni%C4%9Fde&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "sakarya": {
-        "city": "Sakarya",
-        "city_slug": "sakarya",
-        "date": "2026-11-17",
-        "breakfast": {
-          "items": [
-            "Peynirli Omlet",
-            "Pişi",
-            "Simit",
-            "Beyaz Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek",
-            "Al Götür Menü"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Çeşmi Nigar Çorba",
-            "Toyga Çorba",
-            "Karnıyarık",
-            "Piliç Roti",
-            "Patates Yemeği",
-            "Arpa Şehriyeli Pirinç Pilavı",
-            "Tahinli Kabak Tatlısı",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "siirt": {
@@ -17142,41 +15311,6 @@
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Çanakkale?city=%C3%87anakkale&mealType=true&hidePast=false&monthShift=0"
         }
       },
-      "diyarbakir": {
-        "city": "Diyarbakır",
-        "city_slug": "diyarbakir",
-        "date": "2026-11-18",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Patates Kavurması",
-            "Karışık Pizza",
-            "Krem Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 600,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Mercimek Çorbası",
-            "Tarhana Çorba",
-            "Tavuk Tantuni",
-            "Ispanak Graten",
-            "Sebzeli Bulgur Pilavı",
-            "Karışık Salata",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
       "erzincan": {
         "city": "Erzincan",
         "city_slug": "erzincan",
@@ -17250,45 +15384,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Erzurum?city=Erzurum&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "eskisehir": {
-        "city": "Eskişehir",
-        "city_slug": "eskisehir",
-        "date": "2026-11-18",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Patates Kavurması",
-            "Kalem Börek",
-            "Su Böreği",
-            "Krem Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Toyga Çorba",
-            "Tarhana Çorba",
-            "Fırın",
-            "Kızartma Balık +Garnitür",
-            "Etsiz Taze Fasulye",
-            "Kızartma Balık",
-            "+Garnitür",
-            "İrmik Helvası",
-            "Karışık Salata",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "gaziantep": {
@@ -17628,48 +15723,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Niğde?city=Ni%C4%9Fde&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "sakarya": {
-        "city": "Sakarya",
-        "city_slug": "sakarya",
-        "date": "2026-11-18",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Patates Kavurması",
-            "Karışık Pizza",
-            "Krem Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek",
-            "Al Götür Menü"
-          ],
-          "calories": 600,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Sebze Çorbası",
-            "Tutmaç Çorba",
-            "Fırında Palamut +Fırın Domates+Biber",
-            "Izgara Köfte +Patates Kızartması",
-            "Karışık Sebze Graten",
-            "Fırında Palamut",
-            "+Fırın Domates+Biber",
-            "Izgara Köfte",
-            "+Patates Kızartması",
-            "İrmik Helvası",
-            "Peynirli Erişte",
-            "Karışık Salata",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "siirt": {
@@ -18039,41 +16092,6 @@
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Çanakkale?city=%C3%87anakkale&mealType=true&hidePast=false&monthShift=0"
         }
       },
-      "diyarbakir": {
-        "city": "Diyarbakır",
-        "city_slug": "diyarbakir",
-        "date": "2026-11-19",
-        "breakfast": {
-          "items": [
-            "Sade Omlet",
-            "Sosis Kızartması+Domates+Salatalık",
-            "Pankek+Reçel",
-            "Beyaz Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Ezogelin Çorba",
-            "Sebze Çorbası",
-            "Lahmacun",
-            "Karışık Sebze Graten",
-            "Garnitürlü Yoğurtlu Makarna",
-            "Ayran",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
       "erzincan": {
         "city": "Erzincan",
         "city_slug": "erzincan",
@@ -18148,44 +16166,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Erzurum?city=Erzurum&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "eskisehir": {
-        "city": "Eskişehir",
-        "city_slug": "eskisehir",
-        "date": "2026-11-19",
-        "breakfast": {
-          "items": [
-            "Sade Omlet",
-            "Sosis Kızartması+Domates+Salatalık",
-            "Mini Bazlama+Reçel",
-            "Beyaz Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Ezogelin Çorba",
-            "Brokoli Çorba",
-            "Izgara Köfte +Soğan Halkası+Patates Kroket",
-            "Tavuk Fajita",
-            "Etsiz Patates Yemeği",
-            "Izgara Köfte",
-            "+Soğan Halkası+Patates Kroket",
-            "Sebzeli Bulgur Pilavı",
-            "Ayran",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "gaziantep": {
@@ -18526,47 +16506,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Niğde?city=Ni%C4%9Fde&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "sakarya": {
-        "city": "Sakarya",
-        "city_slug": "sakarya",
-        "date": "2026-11-19",
-        "breakfast": {
-          "items": [
-            "Sade Omlet",
-            "Sosis Kızartma+Domates-Salatalık",
-            "Pankek+Reçel",
-            "Beyaz Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek",
-            "Al Götür Menü"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba",
-            "Mercimek Çorbası",
-            "Adana Kebap +Pişmiş Biber+Domates+Lavaş",
-            "Şinitzel +Elma Dilim Patates",
-            "Pırasa Yemeği",
-            "Adana Kebap",
-            "+Pişmiş Biber+Domates+Lavaş",
-            "Şinitzel",
-            "+Elma Dilim Patates",
-            "Bulgur Pilavı",
-            "Ayran",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "siirt": {
@@ -18942,42 +16881,6 @@
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Çanakkale?city=%C3%87anakkale&mealType=true&hidePast=false&monthShift=0"
         }
       },
-      "diyarbakir": {
-        "city": "Diyarbakır",
-        "city_slug": "diyarbakir",
-        "date": "2026-11-20",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Karışık Kızartma",
-            "Zeytinli",
-            "Peynirli Açma",
-            "Kaşar Peyniri",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Mercimek Çorbası",
-            "Arabaşı Çorba",
-            "Etsiz Kuru Fasulye",
-            "Etsiz Güveç",
-            "Şehriyeli Pirinç Pilavı",
-            "Cevizli Baklava",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
       "erzincan": {
         "city": "Erzincan",
         "city_slug": "erzincan",
@@ -19050,42 +16953,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Erzurum?city=Erzurum&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "eskisehir": {
-        "city": "Eskişehir",
-        "city_slug": "eskisehir",
-        "date": "2026-11-20",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Karışık Kızartma",
-            "Zeytinli",
-            "Peynirli Açma",
-            "Kaşar Peyniri",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Erişteli Yeşil Mercimek Çorbası",
-            "Tavuk Suyu Çorba",
-            "Etsiz Kuru Fasulye",
-            "İmam Bayıldı",
-            "Şehriyeli Pirinç Pilavı",
-            "Cevizli Baklava",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "gaziantep": {
@@ -19412,43 +17279,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Niğde?city=Ni%C4%9Fde&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "sakarya": {
-        "city": "Sakarya",
-        "city_slug": "sakarya",
-        "date": "2026-11-20",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Karışık Kızartma",
-            "Zeytinli",
-            "Peynirli Açma",
-            "Kaşar Peyniri",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek",
-            "Al Götür Menü"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Düğün Çorba",
-            "Tavuklu Şehriye Çorba",
-            "Kurufasulye Yemeği",
-            "Tepsi Kumpir",
-            "Pirinç Pilavı",
-            "Cevizli Baklava",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "siirt": {
@@ -19820,45 +17650,6 @@
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Çanakkale?city=%C3%87anakkale&mealType=true&hidePast=false&monthShift=0"
         }
       },
-      "diyarbakir": {
-        "city": "Diyarbakır",
-        "city_slug": "diyarbakir",
-        "date": "2026-11-21",
-        "breakfast": {
-          "items": [
-            "Kaşarlı Omlet",
-            "Patates Salatası",
-            "Milföy Börek",
-            "Beyaz Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Ezogelin Çorba",
-            "Yoğurtlu Yüksük Çorba",
-            "Tavuk Çöpşiş +Fırın Sebze Garnitür",
-            "Karışık Sebze Kızartma +Yoğurt",
-            "Tavuk Çöpşiş",
-            "+Fırın Sebze Garnitür",
-            "Karışık Sebze Kızartma",
-            "+Yoğurt",
-            "Soslu Spagetti",
-            "Havuç Tarator",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
       "erzincan": {
         "city": "Erzincan",
         "city_slug": "erzincan",
@@ -19930,43 +17721,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Erzurum?city=Erzurum&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "eskisehir": {
-        "city": "Eskişehir",
-        "city_slug": "eskisehir",
-        "date": "2026-11-21",
-        "breakfast": {
-          "items": [
-            "Kaşarlı Omlet",
-            "Patates Salatası",
-            "Sosisli Milföy Böreği",
-            "Beyaz Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 839,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Yayla Çorbası",
-            "Şehriye Çorbası",
-            "Tavuk Şiş +Söğüş Domates Biber",
-            "Etsiz Pırasa Yemeği",
-            "Tavuk Şiş",
-            "+Söğüş Domates Biber",
-            "Soslu Makarna",
-            "Havuç Tarator",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "gaziantep": {
@@ -20301,45 +18055,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Niğde?city=Ni%C4%9Fde&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "sakarya": {
-        "city": "Sakarya",
-        "city_slug": "sakarya",
-        "date": "2026-11-21",
-        "breakfast": {
-          "items": [
-            "Kaşarlı Omlet",
-            "Patates Salatası",
-            "Çikolatalı",
-            "Peynirli",
-            "Patatesli Milföy Börek",
-            "Beyaz Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek",
-            "Al Götür Menü"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Anadolu Çorba",
-            "Ezogelin Çorba",
-            "Tavuk Çökertme",
-            "Patates Oturtma",
-            "Karışık Sebze Kızartma",
-            "Salçalı Makarna",
-            "Acılı Ezme",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "siirt": {
@@ -20717,43 +18432,6 @@
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Çanakkale?city=%C3%87anakkale&mealType=true&hidePast=false&monthShift=0"
         }
       },
-      "diyarbakir": {
-        "city": "Diyarbakır",
-        "city_slug": "diyarbakir",
-        "date": "2026-11-22",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Menemen(Yumurtasız)",
-            "Peynirli",
-            "Ispanaklı Börek",
-            "Yöresel Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Mercimek Çorbası",
-            "Ayran Aşı Çorba",
-            "Et Tandır",
-            "Tavuk Döner",
-            "Karnabahar Kızartması",
-            "Sade Bulgur Pilavı",
-            "Tere-Roka Salatası",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
       "erzincan": {
         "city": "Erzincan",
         "city_slug": "erzincan",
@@ -20830,44 +18508,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Erzurum?city=Erzurum&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "eskisehir": {
-        "city": "Eskişehir",
-        "city_slug": "eskisehir",
-        "date": "2026-11-22",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Patates Kroket",
-            "Peynirli",
-            "Ispanaklı Börek",
-            "Yöresel Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 720,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Mercimek Çorbası",
-            "Anadolu Çorba",
-            "Çökertme Kebabı",
-            "Etsiz Karışık Dolma veya Sarma +Yoğurt",
-            "Etsiz Karışık Dolma veya Sarma",
-            "+Yoğurt",
-            "Erişte",
-            "Karışık Yeşil Salata",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "gaziantep": {
@@ -21210,44 +18850,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Niğde?city=Ni%C4%9Fde&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "sakarya": {
-        "city": "Sakarya",
-        "city_slug": "sakarya",
-        "date": "2026-11-22",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Patates Kroket+Soğan Halkası",
-            "Peynirli",
-            "Ispanaklı Börek",
-            "Çeçil-dil-tel-örgü Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek",
-            "Al Götür Menü"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Yayla Çorbası",
-            "Közbiber Çorba",
-            "Bahçıvan Kebabı",
-            "Tavuk Fajita",
-            "Bezelye Yemeği",
-            "Bulgur Pilavı",
-            "Marul Salatası",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "siirt": {
@@ -21623,43 +19225,6 @@
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Çanakkale?city=%C3%87anakkale&mealType=true&hidePast=false&monthShift=0"
         }
       },
-      "diyarbakir": {
-        "city": "Diyarbakır",
-        "city_slug": "diyarbakir",
-        "date": "2026-11-23",
-        "breakfast": {
-          "items": [
-            "Peynirli Omlet",
-            "Patates Kızartması",
-            "Dere Otlu Poğaça",
-            "Beyaz Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1010,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Ezogelin Çorba",
-            "Erişteli Yeşil Mercimek Çorbası",
-            "Kekiklim Tavuk +Elma Dilim Patates",
-            "Patatesli Havuçlu Bezelye Yemeği",
-            "Kekiklim Tavuk",
-            "+Elma Dilim Patates",
-            "Şehriyeli Pirinç Pilavı",
-            "Browni",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
       "erzincan": {
         "city": "Erzincan",
         "city_slug": "erzincan",
@@ -21731,41 +19296,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Erzurum?city=Erzurum&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "eskisehir": {
-        "city": "Eskişehir",
-        "city_slug": "eskisehir",
-        "date": "2026-11-23",
-        "breakfast": {
-          "items": [
-            "Peynirli Omlet",
-            "Patates Kızartması",
-            "Dere Otlu Poğaça",
-            "Beyaz Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1010,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Ezogelin Çorba",
-            "Sebze Çorbası",
-            "Tavuk Tantuni",
-            "Etsiz Bezelye Yemeği",
-            "Ayran",
-            "Browni",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "gaziantep": {
@@ -22096,43 +19626,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Niğde?city=Ni%C4%9Fde&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "sakarya": {
-        "city": "Sakarya",
-        "city_slug": "sakarya",
-        "date": "2026-11-23",
-        "breakfast": {
-          "items": [
-            "Peynirli Omlet",
-            "Patates Kızartması",
-            "Dere Otlu Poğaça",
-            "Beyaz Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek",
-            "Al Götür Menü"
-          ],
-          "calories": 1010,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Mahluta Çorba",
-            "Tarhana Çorba",
-            "Tavuk Sote",
-            "Kuşbaşılı Patlıcan Kebabı",
-            "Ispanak Borani",
-            "Şehriyeli Pirinç Pilavı",
-            "Bisküvili Pasta",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "siirt": {
@@ -22505,42 +19998,6 @@
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Çanakkale?city=%C3%87anakkale&mealType=true&hidePast=false&monthShift=0"
         }
       },
-      "diyarbakir": {
-        "city": "Diyarbakır",
-        "city_slug": "diyarbakir",
-        "date": "2026-11-24",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Salçalı Sosis",
-            "Simit",
-            "Kaşar Peyniri",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 775,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Mercimek Çorbası",
-            "Ispanak Çorba",
-            "Lahmacun",
-            "Karışık Dolma",
-            "Garnitürlü Yoğurtlu Makarna",
-            "Ayran",
-            "Meyve Suyu",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
       "erzincan": {
         "city": "Erzincan",
         "city_slug": "erzincan",
@@ -22615,44 +20072,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Erzurum?city=Erzurum&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "eskisehir": {
-        "city": "Eskişehir",
-        "city_slug": "eskisehir",
-        "date": "2026-11-24",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Salçalı Sosis",
-            "Simit",
-            "Kaşar Peyniri",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 775,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Mercimek Çorbası",
-            "Tarhana Çorba",
-            "Ekmek Arası Köfte",
-            "Etsiz Türlü",
-            "Patates Kızartması +Soğan Halkası",
-            "Patates Kızartması",
-            "+Soğan Halkası",
-            "Ayran",
-            "Meyve Suyu",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "gaziantep": {
@@ -23010,44 +20429,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Niğde?city=Ni%C4%9Fde&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "sakarya": {
-        "city": "Sakarya",
-        "city_slug": "sakarya",
-        "date": "2026-11-24",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Salçalı Sosis",
-            "Simit",
-            "Kaşar Peyniri",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek",
-            "Al Götür Menü"
-          ],
-          "calories": 775,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba",
-            "Mercimek Çorbası",
-            "Hamburger",
-            "Tavuk Burger",
-            "Biber Dolma",
-            "Patates Kızartması",
-            "Ayran",
-            "Meyve Suyu",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "siirt": {
@@ -23425,42 +20806,6 @@
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Çanakkale?city=%C3%87anakkale&mealType=true&hidePast=false&monthShift=0"
         }
       },
-      "diyarbakir": {
-        "city": "Diyarbakır",
-        "city_slug": "diyarbakir",
-        "date": "2026-11-25",
-        "breakfast": {
-          "items": [
-            "Sucuklu Omlet",
-            "Menemen(Yumurtasız)",
-            "Mozaik Kek",
-            "Beyaz Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Ezogelin Çorba",
-            "Yayla Çorbası",
-            "Çoban Kavurma",
-            "Tavuklu Sultan Kebabı",
-            "Karnabahar Kızartması",
-            "Nohutlu Bulgur Pilavı",
-            "Kuru Cacık",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
       "erzincan": {
         "city": "Erzincan",
         "city_slug": "erzincan",
@@ -23537,44 +20882,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Erzurum?city=Erzurum&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "eskisehir": {
-        "city": "Eskişehir",
-        "city_slug": "eskisehir",
-        "date": "2026-11-25",
-        "breakfast": {
-          "items": [
-            "Sucuklu Omlet",
-            "Yoğurtlu Biber Kavurma",
-            "Mozaik Kek",
-            "Beyaz Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Şehriye Çorbası",
-            "Toyga Çorba",
-            "Çiftlik Kebabı",
-            "Beşamel Soslu tavuk",
-            "Karnabahar Kızartma +Yoğurt",
-            "Karnabahar Kızartma",
-            "+Yoğurt",
-            "Mısırlı Pirinç Pilavı",
-            "Puding",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "gaziantep": {
@@ -23908,43 +21215,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Niğde?city=Ni%C4%9Fde&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "sakarya": {
-        "city": "Sakarya",
-        "city_slug": "sakarya",
-        "date": "2026-11-25",
-        "breakfast": {
-          "items": [
-            "Sucuklu Omlet",
-            "Paçanga Böreği",
-            "Mozaik Kek",
-            "Beyaz Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek",
-            "Al Götür Menü"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Çeşmi Nigar Çorba",
-            "Közbiber Çorba",
-            "Orman Kebabı",
-            "Tavuk Baget",
-            "Karnabahar Graten",
-            "Bulgur Pilavı",
-            "Havuç Tarator",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "siirt": {
@@ -24318,42 +21588,6 @@
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Çanakkale?city=%C3%87anakkale&mealType=true&hidePast=false&monthShift=0"
         }
       },
-      "diyarbakir": {
-        "city": "Diyarbakır",
-        "city_slug": "diyarbakir",
-        "date": "2026-11-26",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Patates Kavurması",
-            "Zeytinli",
-            "Peynirli Açma",
-            "Yöresel Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 781,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Mercimek Çorbası",
-            "Ispanak Çorba",
-            "Tavuk Pirzola",
-            "Karışık Sebze Graten",
-            "Soslu Makarna",
-            "Karışık Salata",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
       "erzincan": {
         "city": "Erzincan",
         "city_slug": "erzincan",
@@ -24429,45 +21663,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Erzurum?city=Erzurum&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "eskisehir": {
-        "city": "Eskişehir",
-        "city_slug": "eskisehir",
-        "date": "2026-11-26",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Tepsi Kumpir",
-            "Zeytinli",
-            "Peynirli Açma",
-            "Yöresel Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Ezogelin Çorba",
-            "Yoğurt Çorba",
-            "Tavuk Külbastı +Soğan Halkası",
-            "Patates Kroket",
-            "Etsiz Taze Fasulye",
-            "Tavuk Külbastı",
-            "+Soğan Halkası",
-            "Soslu Makarna",
-            "Haydari",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "gaziantep": {
@@ -24806,48 +22001,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Niğde?city=Ni%C4%9Fde&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "sakarya": {
-        "city": "Sakarya",
-        "city_slug": "sakarya",
-        "date": "2026-11-26",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Patates Kavurması",
-            "Zeytinli",
-            "Peynirli Açma",
-            "Çeçil-dil-tel-örgü Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek",
-            "Al Götür Menü"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Ezogelin Çorba",
-            "Yayla Çorbası",
-            "Çıtır Tavuk +Elma Dilim Patetes",
-            "Islama Köfte +Pişmiş Domates+Biber",
-            "Bezelye Yemeği",
-            "Çıtır Tavuk",
-            "+Elma Dilim Patetes",
-            "Islama Köfte",
-            "+Pişmiş Domates+Biber",
-            "Yoğurtlu Makarna",
-            "Akdeniz Salata",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "siirt": {
@@ -25225,42 +22378,6 @@
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Çanakkale?city=%C3%87anakkale&mealType=true&hidePast=false&monthShift=0"
         }
       },
-      "diyarbakir": {
-        "city": "Diyarbakır",
-        "city_slug": "diyarbakir",
-        "date": "2026-11-27",
-        "breakfast": {
-          "items": [
-            "Sade Omlet",
-            "Patates Kroket",
-            "Pankek+Bal",
-            "Beyaz Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Ezogelin Çorba",
-            "Terbiyeli Tavuk Çorba",
-            "Etsiz Kuru Fasulye",
-            "Kaşarlı İmam Bayıldı",
-            "Şehriyeli Pirinç Pilavı",
-            "Çiğ Köfte+Yeşillik",
-            "Supangle",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
       "erzincan": {
         "city": "Erzincan",
         "city_slug": "erzincan",
@@ -25331,44 +22448,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Erzurum?city=Erzurum&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "eskisehir": {
-        "city": "Eskişehir",
-        "city_slug": "eskisehir",
-        "date": "2026-11-27",
-        "breakfast": {
-          "items": [
-            "Sade Omlet",
-            "Patates Kroket",
-            "Mini Bazlama+Bal",
-            "Beyaz Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Tarhana Çorba",
-            "Düğün Çorba",
-            "Etsiz Nohut Yemeği",
-            "Karışık Sebze Kızartma +Yoğurt",
-            "Karışık Sebze Kızartma",
-            "+Yoğurt",
-            "Şehriyeli Pirinç Pilavı",
-            "Revani",
-            "Havuç Aysberg Salata",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "gaziantep": {
@@ -25696,43 +22775,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Niğde?city=Ni%C4%9Fde&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "sakarya": {
-        "city": "Sakarya",
-        "city_slug": "sakarya",
-        "date": "2026-11-27",
-        "breakfast": {
-          "items": [
-            "Sade Omlet",
-            "Patates Kroket",
-            "Pankek+Bal",
-            "Beyaz Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek",
-            "Al Götür Menü"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Yüksük Çorbası",
-            "Tavuk Çorba",
-            "Nohut Yemeği",
-            "Patates Köftesi",
-            "Bahar Pilavı",
-            "Kuru Cacık",
-            "Supangle",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "siirt": {
@@ -26108,43 +23150,6 @@
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Çanakkale?city=%C3%87anakkale&mealType=true&hidePast=false&monthShift=0"
         }
       },
-      "diyarbakir": {
-        "city": "Diyarbakır",
-        "city_slug": "diyarbakir",
-        "date": "2026-11-28",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta+Domates+Salatalık",
-            "Menemen(Yumurtasız)",
-            "Peynirli",
-            "Ispanaklı Börek",
-            "Labne Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Mercimek Çorbası",
-            "Yüksük Çorbası",
-            "Çökertme Kebabı",
-            "Tavuk Döner",
-            "Etsiz Güveç",
-            "Salçalı Bulgur Pilavı",
-            "Yoğurt",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
       "erzincan": {
         "city": "Erzincan",
         "city_slug": "erzincan",
@@ -26219,45 +23224,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Erzurum?city=Erzurum&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "eskisehir": {
-        "city": "Eskişehir",
-        "city_slug": "eskisehir",
-        "date": "2026-11-28",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta+Domates+Salatalık",
-            "Patates Kavurması",
-            "Peynirli",
-            "Ispanaklı Börek",
-            "Labne Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Yayla Çorbası",
-            "Mahluta Çorba",
-            "Çoban Kavurma",
-            "Kemiksiz Tavuk Pirzola +Karışık Sebze Garnitür",
-            "Etsiz Bezelye Yemeği",
-            "Kemiksiz Tavuk Pirzola",
-            "+Karışık Sebze Garnitür",
-            "Salçalı Bulgur Pilavı",
-            "Yoğurt",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "gaziantep": {
@@ -26592,44 +23558,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Niğde?city=Ni%C4%9Fde&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "sakarya": {
-        "city": "Sakarya",
-        "city_slug": "sakarya",
-        "date": "2026-11-28",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta+Domates-Salatalık",
-            "Kızarmış Peynir Çubukları",
-            "Peynirli",
-            "Ispanaklı Börek",
-            "Labne Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek",
-            "Al Götür Menü"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Mercimek Çorbası",
-            "Tarhana Çorba",
-            "Antep Tava",
-            "Tavuk Sarma",
-            "Taze Fasulye Yemeği",
-            "Sebzeli Bulgur Pilavı",
-            "Yoğurt",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "siirt": {
@@ -27011,41 +23939,6 @@
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Çanakkale?city=%C3%87anakkale&mealType=true&hidePast=false&monthShift=0"
         }
       },
-      "diyarbakir": {
-        "city": "Diyarbakır",
-        "city_slug": "diyarbakir",
-        "date": "2026-11-29",
-        "breakfast": {
-          "items": [
-            "Menemen",
-            "Patates Kızartması",
-            "Milföy Börek",
-            "Beyaz Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Ezogelin Çorba",
-            "Yayla Çorbası",
-            "Tavuk Baget Haşlama",
-            "Karışık Dolma",
-            "Garnitürlü Yoğurtlu Makarna",
-            "Acılı Ezme",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
       "erzincan": {
         "city": "Erzincan",
         "city_slug": "erzincan",
@@ -27117,44 +24010,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Erzurum?city=Erzurum&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "eskisehir": {
-        "city": "Eskişehir",
-        "city_slug": "eskisehir",
-        "date": "2026-11-29",
-        "breakfast": {
-          "items": [
-            "Menemen",
-            "Patates Kızartması",
-            "Çikolatalı Milföy Börek",
-            "Beyaz Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 840,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Şehriye Çorbası",
-            "Mercimek Çorbası",
-            "Tavuk Fajita",
-            "Ispanak Yemeği +Yoğurt",
-            "Ispanak Yemeği",
-            "+Yoğurt",
-            "Fırın Makarna",
-            "Etsiz Çiğ Köfte",
-            "Kısır",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "gaziantep": {
@@ -27491,48 +24346,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Niğde?city=Ni%C4%9Fde&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "sakarya": {
-        "city": "Sakarya",
-        "city_slug": "sakarya",
-        "date": "2026-11-29",
-        "breakfast": {
-          "items": [
-            "Menemen",
-            "Patates Kızartması",
-            "Çikolatalı",
-            "Peynirli",
-            "Patatesli Milföy Börek",
-            "Beyaz Peynir",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek",
-            "Al Götür Menü"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Sebze Çorbası",
-            "Çeşmi Nigar Çorba",
-            "Piliç Roti +Elma Dilim Patates",
-            "Kaşarlı Köfte +Elma Dilim Patates",
-            "Karışık Kızartma",
-            "Piliç Roti",
-            "+Elma Dilim Patates",
-            "Kaşarlı Köfte",
-            "Salçalı Makarna",
-            "Haydari",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "siirt": {
@@ -27912,41 +24725,6 @@
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Çanakkale?city=%C3%87anakkale&mealType=true&hidePast=false&monthShift=0"
         }
       },
-      "diyarbakir": {
-        "city": "Diyarbakır",
-        "city_slug": "diyarbakir",
-        "date": "2026-11-30",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Patates Salatası",
-            "Sade Poğaça",
-            "Kaşar Peyniri",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Mercimek Çorbası",
-            "Tarhana Çorba",
-            "Lahmacun",
-            "Patatesli Havuçlu Bezelye Yemeği",
-            "Soslu Makarna",
-            "Tulumba Tatlısı",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Diyarbakır?city=Diyarbak%C4%B1r&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
       "erzincan": {
         "city": "Erzincan",
         "city_slug": "erzincan",
@@ -28023,43 +24801,6 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Erzurum?city=Erzurum&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
-      "eskisehir": {
-        "city": "Eskişehir",
-        "city_slug": "eskisehir",
-        "date": "2026-11-30",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Patates Salatası",
-            "Sade Poğaça",
-            "Kaşar Peyniri",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Şehriye Çorbası",
-            "Havuç Çorba",
-            "Tepside Adana Kebabı +Patlıcan Ezme",
-            "Domates Soslu Kabak Mücver",
-            "Tepside Adana Kebabı",
-            "+Patlıcan Ezme",
-            "Şehriyeli Pirinç Pilavı",
-            "Cacık",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Eskişehir?city=Eski%C5%9Fehir&mealType=true&hidePast=false&monthShift=0"
         }
       },
       "gaziantep": {
@@ -28385,47 +25126,6 @@
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Niğde?city=Ni%C4%9Fde&mealType=true&hidePast=false&monthShift=0"
         }
       },
-      "sakarya": {
-        "city": "Sakarya",
-        "city_slug": "sakarya",
-        "date": "2026-11-30",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Patates Salatası",
-            "Sade Poğaça",
-            "Kaşar Peyniri",
-            "Siyah",
-            "Yeşil Zeytin",
-            "500 ml Su",
-            "Çeyrek Ekmek",
-            "Al Götür Menü"
-          ],
-          "calories": 850,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=false&hidePast=false&monthShift=0"
-        },
-        "dinner": {
-          "items": [
-            "Mercimek Çorbası",
-            "Domates Çorba",
-            "Kadınbudu Köfte +Pişmiş Karışık Sebze",
-            "Tavuk Izgara +Elma Dilim Patates",
-            "Mevsim Türlü",
-            "Kadınbudu Köfte",
-            "+Pişmiş Karışık Sebze",
-            "Tavuk Izgara",
-            "+Elma Dilim Patates",
-            "Pirinç Pilavı",
-            "Şam Tatlısı",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 1500,
-          "source": "kykyemek",
-          "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Sakarya?city=Sakarya&mealType=true&hidePast=false&monthShift=0"
-        }
-      },
       "siirt": {
         "city": "Siirt",
         "city_slug": "siirt",
@@ -28612,5 +25312,5 @@
       }
     }
   },
-  "last_updated": "2026-11-15T13:18:13.061457+03:00"
+  "last_updated": "2026-11-15T23:06:19.484404+03:00"
 }
