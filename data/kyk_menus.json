@@ -12581,1711 +12581,6 @@
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Uşak?city=U%C5%9Fak&mealType=true&hidePast=false&monthShift=0"
         }
-      },
-      "bursa": {
-        "city": "Bursa",
-        "city_slug": "bursa",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Cevizli Lokum",
-            "Milföy Börek",
-            "Kaşar Peynir"
-          ],
-          "calories": null,
-          "source": "kykyurtmenu",
-          "source_url": "https://www.kykyurtmenu.com/bursa/kahvalti"
-        },
-        "dinner": {
-          "items": [
-            "Terbiyeli Sebze Çorba",
-            "Yüksük Çorba",
-            "Tavuk Fajita + Parmak Patates",
-            "Kuru Fasulye Yemeği",
-            "Meyane Pilavı",
-            "Süt Helvası"
-          ],
-          "calories": null,
-          "source": "kykyurtmenu",
-          "source_url": "https://www.kykyurtmenu.com/bursa/aksam"
-        }
-      },
-      "samsun": {
-        "city": "Samsun",
-        "city_slug": "samsun",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Cızlama",
-            "Milföy Börek",
-            "Kaşar Peynir"
-          ],
-          "calories": null,
-          "source": "kykyurtmenu",
-          "source_url": "https://www.kykyurtmenu.com/samsun/kahvalti"
-        },
-        "dinner": {
-          "items": [
-            "Sebze Çorbası",
-            "Ezogelin Çorbası",
-            "Tavuklu Sultan Kebabı",
-            "Et Çökertme",
-            "Barbunya",
-            "Şehriyeli Pirinç Pilavı",
-            "Browni"
-          ],
-          "calories": null,
-          "source": "kykyurtmenu",
-          "source_url": "https://www.kykyurtmenu.com/samsun/aksam"
-        }
-      },
-      "kayseri": {
-        "city": "Kayseri",
-        "city_slug": "kayseri",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Sucuk Kızartma",
-            "Peynirli Milföy Börek",
-            "Kaşar Peynir"
-          ],
-          "calories": null,
-          "source": "kykyurtmenu",
-          "source_url": "https://www.kykyurtmenu.com/kayseri/kahvalti"
-        },
-        "dinner": {
-          "items": [
-            "Mercimek Çorba",
-            "Domates Çorba",
-            "Tavuk Haşlama",
-            "Taze Fasulye",
-            "Sade Pirinç Pilavı",
-            "Kakaolu Puding"
-          ],
-          "calories": null,
-          "source": "kykyurtmenu",
-          "source_url": "https://www.kykyurtmenu.com/kayseri/aksam"
-        }
-      },
-      "adana": {
-        "city": "Adana",
-        "city_slug": "adana",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Turunç Reçeli",
-            "Peynirli Milföy Börek",
-            "Kaşar Peynir"
-          ],
-          "calories": null,
-          "source": "kykyurtmenu",
-          "source_url": "https://www.kykyurtmenu.com/adana/kahvalti"
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba",
-            "Havuç Çorba",
-            "Piliç Şinitzel + Tablacı Salatası",
-            "Soslu Karışık Kızartma",
-            "Şehriye Pilavı",
-            "Sütlaç"
-          ],
-          "calories": null,
-          "source": "kykyurtmenu",
-          "source_url": "https://www.kykyurtmenu.com/adana/aksam"
-        }
-      },
-      "kocaeli": {
-        "city": "Kocaeli",
-        "city_slug": "kocaeli",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Kıymalı Börek",
-            "Milföy Börek",
-            "Kaşar Peynir"
-          ],
-          "calories": null,
-          "source": "kykyurtmenu",
-          "source_url": "https://www.kykyurtmenu.com/kocaeli/kahvalti"
-        },
-        "dinner": {
-          "items": [
-            "Kremalı Domates Çorbası",
-            "Yayla Çorbası",
-            "Kremalı Mantarlı Tavuk",
-            "Fellah Köfte + Yoğurt",
-            "Fırın Makarna",
-            "Supangle",
-            "Manolya"
-          ],
-          "calories": null,
-          "source": "kykyurtmenu",
-          "source_url": "https://www.kykyurtmenu.com/kocaeli/aksam"
-        }
-      },
-      "denizli": {
-        "city": "Denizli",
-        "city_slug": "denizli",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Tepsi Kumpir",
-            "Çikolatalı Milföy Börek",
-            "Domates + Salatalık"
-          ],
-          "calories": null,
-          "source": "kykyurtmenu",
-          "source_url": "https://www.kykyurtmenu.com/denizli/kahvalti"
-        },
-        "dinner": {
-          "items": [
-            "Tarhana Çorbası",
-            "Kremalı Mantar Çorbası",
-            "Tavuk Döner + Patates Cips",
-            "Et Döner + Patates Cips",
-            "Nohut Yemeği",
-            "Şehriyeli Pirinç Pilavı",
-            "Triliçe"
-          ],
-          "calories": null,
-          "source": "kykyurtmenu",
-          "source_url": "https://www.kykyurtmenu.com/denizli/aksam"
-        }
-      },
-      "mugla": {
-        "city": "Muğla",
-        "city_slug": "mugla",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Sosis Kızartma",
-            "Milföy Börek",
-            "Kaşar Peynir"
-          ],
-          "calories": null,
-          "source": "kykyurtmenu",
-          "source_url": "https://www.kykyurtmenu.com/mugla/kahvalti"
-        },
-        "dinner": {
-          "items": [
-            "Yayla Çorba",
-            "Tarhana Çorba",
-            "Piliç Roti + Salata",
-            "Karışık Dolma + Yoğurt",
-            "Salçalı Makarna",
-            "Supangle"
-          ],
-          "calories": null,
-          "source": "kykyurtmenu",
-          "source_url": "https://www.kykyurtmenu.com/mugla/aksam"
-        }
-      },
-      "balikesir": {
-        "city": "Balıkesir",
-        "city_slug": "balikesir",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta",
-            "Kek",
-            "Çikolatalı Milföy Börek",
-            "Kaşar Peynir"
-          ],
-          "calories": null,
-          "source": "kykyurtmenu",
-          "source_url": "https://www.kykyurtmenu.com/balikesir/kahvalti"
-        },
-        "dinner": {
-          "items": [
-            "Ezogelin Çorba",
-            "Tutmaç Çorba",
-            "Tavuk Sote",
-            "Bezelye Yemeği",
-            "Sebzeli Bulgur Pilavı",
-            "Supangle"
-          ],
-          "calories": null,
-          "source": "kykyurtmenu",
-          "source_url": "https://www.kykyurtmenu.com/balikesir/aksam"
-        }
-      },
-      "adiyaman": {
-        "city": "Adıyaman",
-        "city_slug": "adiyaman",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta / Omlet",
-            "Beyaz Peynir / Kaşar Peynir",
-            "Siyah ve Yeşil Zeytin",
-            "Taze Ekmek & Simit",
-            "Sıcak Çay / Süt"
-          ],
-          "calories": 750,
-          "source": "standart_kyk",
-          "source_url": null
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba / Mercimek Çorbası",
-            "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
-            "Domatesli Pirinç Pilavı",
-            "Supangle",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 920,
-          "source": "syrblo_yedek",
-          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-        }
-      },
-      "afyonkarahisar": {
-        "city": "Afyonkarahisar",
-        "city_slug": "afyonkarahisar",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta / Omlet",
-            "Beyaz Peynir / Kaşar Peynir",
-            "Siyah ve Yeşil Zeytin",
-            "Taze Ekmek & Simit",
-            "Sıcak Çay / Süt"
-          ],
-          "calories": 750,
-          "source": "standart_kyk",
-          "source_url": null
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba / Mercimek Çorbası",
-            "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
-            "Domatesli Pirinç Pilavı",
-            "Supangle",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 920,
-          "source": "syrblo_yedek",
-          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-        }
-      },
-      "agri": {
-        "city": "Ağrı",
-        "city_slug": "agri",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta / Omlet",
-            "Beyaz Peynir / Kaşar Peynir",
-            "Siyah ve Yeşil Zeytin",
-            "Taze Ekmek & Simit",
-            "Sıcak Çay / Süt"
-          ],
-          "calories": 750,
-          "source": "standart_kyk",
-          "source_url": null
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba / Mercimek Çorbası",
-            "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
-            "Domatesli Pirinç Pilavı",
-            "Supangle",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 920,
-          "source": "syrblo_yedek",
-          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-        }
-      },
-      "aksaray": {
-        "city": "Aksaray",
-        "city_slug": "aksaray",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta / Omlet",
-            "Beyaz Peynir / Kaşar Peynir",
-            "Siyah ve Yeşil Zeytin",
-            "Taze Ekmek & Simit",
-            "Sıcak Çay / Süt"
-          ],
-          "calories": 750,
-          "source": "standart_kyk",
-          "source_url": null
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba / Mercimek Çorbası",
-            "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
-            "Domatesli Pirinç Pilavı",
-            "Supangle",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 920,
-          "source": "syrblo_yedek",
-          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-        }
-      },
-      "amasya": {
-        "city": "Amasya",
-        "city_slug": "amasya",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta / Omlet",
-            "Beyaz Peynir / Kaşar Peynir",
-            "Siyah ve Yeşil Zeytin",
-            "Taze Ekmek & Simit",
-            "Sıcak Çay / Süt"
-          ],
-          "calories": 750,
-          "source": "standart_kyk",
-          "source_url": null
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba / Mercimek Çorbası",
-            "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
-            "Domatesli Pirinç Pilavı",
-            "Supangle",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 920,
-          "source": "syrblo_yedek",
-          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-        }
-      },
-      "ardahan": {
-        "city": "Ardahan",
-        "city_slug": "ardahan",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta / Omlet",
-            "Beyaz Peynir / Kaşar Peynir",
-            "Siyah ve Yeşil Zeytin",
-            "Taze Ekmek & Simit",
-            "Sıcak Çay / Süt"
-          ],
-          "calories": 750,
-          "source": "standart_kyk",
-          "source_url": null
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba / Mercimek Çorbası",
-            "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
-            "Domatesli Pirinç Pilavı",
-            "Supangle",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 920,
-          "source": "syrblo_yedek",
-          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-        }
-      },
-      "artvin": {
-        "city": "Artvin",
-        "city_slug": "artvin",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta / Omlet",
-            "Beyaz Peynir / Kaşar Peynir",
-            "Siyah ve Yeşil Zeytin",
-            "Taze Ekmek & Simit",
-            "Sıcak Çay / Süt"
-          ],
-          "calories": 750,
-          "source": "standart_kyk",
-          "source_url": null
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba / Mercimek Çorbası",
-            "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
-            "Domatesli Pirinç Pilavı",
-            "Supangle",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 920,
-          "source": "syrblo_yedek",
-          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-        }
-      },
-      "aydin": {
-        "city": "Aydın",
-        "city_slug": "aydin",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta / Omlet",
-            "Beyaz Peynir / Kaşar Peynir",
-            "Siyah ve Yeşil Zeytin",
-            "Taze Ekmek & Simit",
-            "Sıcak Çay / Süt"
-          ],
-          "calories": 750,
-          "source": "standart_kyk",
-          "source_url": null
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba / Mercimek Çorbası",
-            "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
-            "Domatesli Pirinç Pilavı",
-            "Supangle",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 920,
-          "source": "syrblo_yedek",
-          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-        }
-      },
-      "bartin": {
-        "city": "Bartın",
-        "city_slug": "bartin",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta / Omlet",
-            "Beyaz Peynir / Kaşar Peynir",
-            "Siyah ve Yeşil Zeytin",
-            "Taze Ekmek & Simit",
-            "Sıcak Çay / Süt"
-          ],
-          "calories": 750,
-          "source": "standart_kyk",
-          "source_url": null
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba / Mercimek Çorbası",
-            "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
-            "Domatesli Pirinç Pilavı",
-            "Supangle",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 920,
-          "source": "syrblo_yedek",
-          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-        }
-      },
-      "batman": {
-        "city": "Batman",
-        "city_slug": "batman",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta / Omlet",
-            "Beyaz Peynir / Kaşar Peynir",
-            "Siyah ve Yeşil Zeytin",
-            "Taze Ekmek & Simit",
-            "Sıcak Çay / Süt"
-          ],
-          "calories": 750,
-          "source": "standart_kyk",
-          "source_url": null
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba / Mercimek Çorbası",
-            "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
-            "Domatesli Pirinç Pilavı",
-            "Supangle",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 920,
-          "source": "syrblo_yedek",
-          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-        }
-      },
-      "bayburt": {
-        "city": "Bayburt",
-        "city_slug": "bayburt",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta / Omlet",
-            "Beyaz Peynir / Kaşar Peynir",
-            "Siyah ve Yeşil Zeytin",
-            "Taze Ekmek & Simit",
-            "Sıcak Çay / Süt"
-          ],
-          "calories": 750,
-          "source": "standart_kyk",
-          "source_url": null
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba / Mercimek Çorbası",
-            "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
-            "Domatesli Pirinç Pilavı",
-            "Supangle",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 920,
-          "source": "syrblo_yedek",
-          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-        }
-      },
-      "bilecik": {
-        "city": "Bilecik",
-        "city_slug": "bilecik",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta / Omlet",
-            "Beyaz Peynir / Kaşar Peynir",
-            "Siyah ve Yeşil Zeytin",
-            "Taze Ekmek & Simit",
-            "Sıcak Çay / Süt"
-          ],
-          "calories": 750,
-          "source": "standart_kyk",
-          "source_url": null
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba / Mercimek Çorbası",
-            "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
-            "Domatesli Pirinç Pilavı",
-            "Supangle",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 920,
-          "source": "syrblo_yedek",
-          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-        }
-      },
-      "bingol": {
-        "city": "Bingöl",
-        "city_slug": "bingol",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta / Omlet",
-            "Beyaz Peynir / Kaşar Peynir",
-            "Siyah ve Yeşil Zeytin",
-            "Taze Ekmek & Simit",
-            "Sıcak Çay / Süt"
-          ],
-          "calories": 750,
-          "source": "standart_kyk",
-          "source_url": null
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba / Mercimek Çorbası",
-            "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
-            "Domatesli Pirinç Pilavı",
-            "Supangle",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 920,
-          "source": "syrblo_yedek",
-          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-        }
-      },
-      "bitlis": {
-        "city": "Bitlis",
-        "city_slug": "bitlis",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta / Omlet",
-            "Beyaz Peynir / Kaşar Peynir",
-            "Siyah ve Yeşil Zeytin",
-            "Taze Ekmek & Simit",
-            "Sıcak Çay / Süt"
-          ],
-          "calories": 750,
-          "source": "standart_kyk",
-          "source_url": null
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba / Mercimek Çorbası",
-            "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
-            "Domatesli Pirinç Pilavı",
-            "Supangle",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 920,
-          "source": "syrblo_yedek",
-          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-        }
-      },
-      "cankiri": {
-        "city": "Çankırı",
-        "city_slug": "cankiri",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta / Omlet",
-            "Beyaz Peynir / Kaşar Peynir",
-            "Siyah ve Yeşil Zeytin",
-            "Taze Ekmek & Simit",
-            "Sıcak Çay / Süt"
-          ],
-          "calories": 750,
-          "source": "standart_kyk",
-          "source_url": null
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba / Mercimek Çorbası",
-            "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
-            "Domatesli Pirinç Pilavı",
-            "Supangle",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 920,
-          "source": "syrblo_yedek",
-          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-        }
-      },
-      "corum": {
-        "city": "Çorum",
-        "city_slug": "corum",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta / Omlet",
-            "Beyaz Peynir / Kaşar Peynir",
-            "Siyah ve Yeşil Zeytin",
-            "Taze Ekmek & Simit",
-            "Sıcak Çay / Süt"
-          ],
-          "calories": 750,
-          "source": "standart_kyk",
-          "source_url": null
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba / Mercimek Çorbası",
-            "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
-            "Domatesli Pirinç Pilavı",
-            "Supangle",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 920,
-          "source": "syrblo_yedek",
-          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-        }
-      },
-      "duzce": {
-        "city": "Düzce",
-        "city_slug": "duzce",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta / Omlet",
-            "Beyaz Peynir / Kaşar Peynir",
-            "Siyah ve Yeşil Zeytin",
-            "Taze Ekmek & Simit",
-            "Sıcak Çay / Süt"
-          ],
-          "calories": 750,
-          "source": "standart_kyk",
-          "source_url": null
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba / Mercimek Çorbası",
-            "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
-            "Domatesli Pirinç Pilavı",
-            "Supangle",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 920,
-          "source": "syrblo_yedek",
-          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-        }
-      },
-      "edirne": {
-        "city": "Edirne",
-        "city_slug": "edirne",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta / Omlet",
-            "Beyaz Peynir / Kaşar Peynir",
-            "Siyah ve Yeşil Zeytin",
-            "Taze Ekmek & Simit",
-            "Sıcak Çay / Süt"
-          ],
-          "calories": 750,
-          "source": "standart_kyk",
-          "source_url": null
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba / Mercimek Çorbası",
-            "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
-            "Domatesli Pirinç Pilavı",
-            "Supangle",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 920,
-          "source": "syrblo_yedek",
-          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-        }
-      },
-      "elazig": {
-        "city": "Elazığ",
-        "city_slug": "elazig",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta / Omlet",
-            "Beyaz Peynir / Kaşar Peynir",
-            "Siyah ve Yeşil Zeytin",
-            "Taze Ekmek & Simit",
-            "Sıcak Çay / Süt"
-          ],
-          "calories": 750,
-          "source": "standart_kyk",
-          "source_url": null
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba / Mercimek Çorbası",
-            "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
-            "Domatesli Pirinç Pilavı",
-            "Supangle",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 920,
-          "source": "syrblo_yedek",
-          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-        }
-      },
-      "giresun": {
-        "city": "Giresun",
-        "city_slug": "giresun",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta / Omlet",
-            "Beyaz Peynir / Kaşar Peynir",
-            "Siyah ve Yeşil Zeytin",
-            "Taze Ekmek & Simit",
-            "Sıcak Çay / Süt"
-          ],
-          "calories": 750,
-          "source": "standart_kyk",
-          "source_url": null
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba / Mercimek Çorbası",
-            "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
-            "Domatesli Pirinç Pilavı",
-            "Supangle",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 920,
-          "source": "syrblo_yedek",
-          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-        }
-      },
-      "gumushane": {
-        "city": "Gümüşhane",
-        "city_slug": "gumushane",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta / Omlet",
-            "Beyaz Peynir / Kaşar Peynir",
-            "Siyah ve Yeşil Zeytin",
-            "Taze Ekmek & Simit",
-            "Sıcak Çay / Süt"
-          ],
-          "calories": 750,
-          "source": "standart_kyk",
-          "source_url": null
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba / Mercimek Çorbası",
-            "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
-            "Domatesli Pirinç Pilavı",
-            "Supangle",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 920,
-          "source": "syrblo_yedek",
-          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-        }
-      },
-      "hakkari": {
-        "city": "Hakkâri",
-        "city_slug": "hakkari",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta / Omlet",
-            "Beyaz Peynir / Kaşar Peynir",
-            "Siyah ve Yeşil Zeytin",
-            "Taze Ekmek & Simit",
-            "Sıcak Çay / Süt"
-          ],
-          "calories": 750,
-          "source": "standart_kyk",
-          "source_url": null
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba / Mercimek Çorbası",
-            "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
-            "Domatesli Pirinç Pilavı",
-            "Supangle",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 920,
-          "source": "syrblo_yedek",
-          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-        }
-      },
-      "hatay": {
-        "city": "Hatay",
-        "city_slug": "hatay",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta / Omlet",
-            "Beyaz Peynir / Kaşar Peynir",
-            "Siyah ve Yeşil Zeytin",
-            "Taze Ekmek & Simit",
-            "Sıcak Çay / Süt"
-          ],
-          "calories": 750,
-          "source": "standart_kyk",
-          "source_url": null
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba / Mercimek Çorbası",
-            "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
-            "Domatesli Pirinç Pilavı",
-            "Supangle",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 920,
-          "source": "syrblo_yedek",
-          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-        }
-      },
-      "igdir": {
-        "city": "Iğdır",
-        "city_slug": "igdir",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta / Omlet",
-            "Beyaz Peynir / Kaşar Peynir",
-            "Siyah ve Yeşil Zeytin",
-            "Taze Ekmek & Simit",
-            "Sıcak Çay / Süt"
-          ],
-          "calories": 750,
-          "source": "standart_kyk",
-          "source_url": null
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba / Mercimek Çorbası",
-            "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
-            "Domatesli Pirinç Pilavı",
-            "Supangle",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 920,
-          "source": "syrblo_yedek",
-          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-        }
-      },
-      "karaman": {
-        "city": "Karaman",
-        "city_slug": "karaman",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta / Omlet",
-            "Beyaz Peynir / Kaşar Peynir",
-            "Siyah ve Yeşil Zeytin",
-            "Taze Ekmek & Simit",
-            "Sıcak Çay / Süt"
-          ],
-          "calories": 750,
-          "source": "standart_kyk",
-          "source_url": null
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba / Mercimek Çorbası",
-            "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
-            "Domatesli Pirinç Pilavı",
-            "Supangle",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 920,
-          "source": "syrblo_yedek",
-          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-        }
-      },
-      "kars": {
-        "city": "Kars",
-        "city_slug": "kars",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta / Omlet",
-            "Beyaz Peynir / Kaşar Peynir",
-            "Siyah ve Yeşil Zeytin",
-            "Taze Ekmek & Simit",
-            "Sıcak Çay / Süt"
-          ],
-          "calories": 750,
-          "source": "standart_kyk",
-          "source_url": null
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba / Mercimek Çorbası",
-            "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
-            "Domatesli Pirinç Pilavı",
-            "Supangle",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 920,
-          "source": "syrblo_yedek",
-          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-        }
-      },
-      "kastamonu": {
-        "city": "Kastamonu",
-        "city_slug": "kastamonu",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta / Omlet",
-            "Beyaz Peynir / Kaşar Peynir",
-            "Siyah ve Yeşil Zeytin",
-            "Taze Ekmek & Simit",
-            "Sıcak Çay / Süt"
-          ],
-          "calories": 750,
-          "source": "standart_kyk",
-          "source_url": null
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba / Mercimek Çorbası",
-            "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
-            "Domatesli Pirinç Pilavı",
-            "Supangle",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 920,
-          "source": "syrblo_yedek",
-          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-        }
-      },
-      "kirikkale": {
-        "city": "Kırıkkale",
-        "city_slug": "kirikkale",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta / Omlet",
-            "Beyaz Peynir / Kaşar Peynir",
-            "Siyah ve Yeşil Zeytin",
-            "Taze Ekmek & Simit",
-            "Sıcak Çay / Süt"
-          ],
-          "calories": 750,
-          "source": "standart_kyk",
-          "source_url": null
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba / Mercimek Çorbası",
-            "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
-            "Domatesli Pirinç Pilavı",
-            "Supangle",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 920,
-          "source": "syrblo_yedek",
-          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-        }
-      },
-      "kirsehir": {
-        "city": "Kırşehir",
-        "city_slug": "kirsehir",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta / Omlet",
-            "Beyaz Peynir / Kaşar Peynir",
-            "Siyah ve Yeşil Zeytin",
-            "Taze Ekmek & Simit",
-            "Sıcak Çay / Süt"
-          ],
-          "calories": 750,
-          "source": "standart_kyk",
-          "source_url": null
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba / Mercimek Çorbası",
-            "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
-            "Domatesli Pirinç Pilavı",
-            "Supangle",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 920,
-          "source": "syrblo_yedek",
-          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-        }
-      },
-      "kilis": {
-        "city": "Kilis",
-        "city_slug": "kilis",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta / Omlet",
-            "Beyaz Peynir / Kaşar Peynir",
-            "Siyah ve Yeşil Zeytin",
-            "Taze Ekmek & Simit",
-            "Sıcak Çay / Süt"
-          ],
-          "calories": 750,
-          "source": "standart_kyk",
-          "source_url": null
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba / Mercimek Çorbası",
-            "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
-            "Domatesli Pirinç Pilavı",
-            "Supangle",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 920,
-          "source": "syrblo_yedek",
-          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-        }
-      },
-      "kutahya": {
-        "city": "Kütahya",
-        "city_slug": "kutahya",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta / Omlet",
-            "Beyaz Peynir / Kaşar Peynir",
-            "Siyah ve Yeşil Zeytin",
-            "Taze Ekmek & Simit",
-            "Sıcak Çay / Süt"
-          ],
-          "calories": 750,
-          "source": "standart_kyk",
-          "source_url": null
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba / Mercimek Çorbası",
-            "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
-            "Domatesli Pirinç Pilavı",
-            "Supangle",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 920,
-          "source": "syrblo_yedek",
-          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-        }
-      },
-      "malatya": {
-        "city": "Malatya",
-        "city_slug": "malatya",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta / Omlet",
-            "Beyaz Peynir / Kaşar Peynir",
-            "Siyah ve Yeşil Zeytin",
-            "Taze Ekmek & Simit",
-            "Sıcak Çay / Süt"
-          ],
-          "calories": 750,
-          "source": "standart_kyk",
-          "source_url": null
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba / Mercimek Çorbası",
-            "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
-            "Domatesli Pirinç Pilavı",
-            "Supangle",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 920,
-          "source": "syrblo_yedek",
-          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-        }
-      },
-      "manisa": {
-        "city": "Manisa",
-        "city_slug": "manisa",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta / Omlet",
-            "Beyaz Peynir / Kaşar Peynir",
-            "Siyah ve Yeşil Zeytin",
-            "Taze Ekmek & Simit",
-            "Sıcak Çay / Süt"
-          ],
-          "calories": 750,
-          "source": "standart_kyk",
-          "source_url": null
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba / Mercimek Çorbası",
-            "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
-            "Domatesli Pirinç Pilavı",
-            "Supangle",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 920,
-          "source": "syrblo_yedek",
-          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-        }
-      },
-      "mardin": {
-        "city": "Mardin",
-        "city_slug": "mardin",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta / Omlet",
-            "Beyaz Peynir / Kaşar Peynir",
-            "Siyah ve Yeşil Zeytin",
-            "Taze Ekmek & Simit",
-            "Sıcak Çay / Süt"
-          ],
-          "calories": 750,
-          "source": "standart_kyk",
-          "source_url": null
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba / Mercimek Çorbası",
-            "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
-            "Domatesli Pirinç Pilavı",
-            "Supangle",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 920,
-          "source": "syrblo_yedek",
-          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-        }
-      },
-      "mersin": {
-        "city": "Mersin",
-        "city_slug": "mersin",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta / Omlet",
-            "Beyaz Peynir / Kaşar Peynir",
-            "Siyah ve Yeşil Zeytin",
-            "Taze Ekmek & Simit",
-            "Sıcak Çay / Süt"
-          ],
-          "calories": 750,
-          "source": "standart_kyk",
-          "source_url": null
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba / Mercimek Çorbası",
-            "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
-            "Domatesli Pirinç Pilavı",
-            "Supangle",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 920,
-          "source": "syrblo_yedek",
-          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-        }
-      },
-      "mus": {
-        "city": "Muş",
-        "city_slug": "mus",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta / Omlet",
-            "Beyaz Peynir / Kaşar Peynir",
-            "Siyah ve Yeşil Zeytin",
-            "Taze Ekmek & Simit",
-            "Sıcak Çay / Süt"
-          ],
-          "calories": 750,
-          "source": "standart_kyk",
-          "source_url": null
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba / Mercimek Çorbası",
-            "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
-            "Domatesli Pirinç Pilavı",
-            "Supangle",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 920,
-          "source": "syrblo_yedek",
-          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-        }
-      },
-      "nevsehir": {
-        "city": "Nevşehir",
-        "city_slug": "nevsehir",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta / Omlet",
-            "Beyaz Peynir / Kaşar Peynir",
-            "Siyah ve Yeşil Zeytin",
-            "Taze Ekmek & Simit",
-            "Sıcak Çay / Süt"
-          ],
-          "calories": 750,
-          "source": "standart_kyk",
-          "source_url": null
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba / Mercimek Çorbası",
-            "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
-            "Domatesli Pirinç Pilavı",
-            "Supangle",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 920,
-          "source": "syrblo_yedek",
-          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-        }
-      },
-      "ordu": {
-        "city": "Ordu",
-        "city_slug": "ordu",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta / Omlet",
-            "Beyaz Peynir / Kaşar Peynir",
-            "Siyah ve Yeşil Zeytin",
-            "Taze Ekmek & Simit",
-            "Sıcak Çay / Süt"
-          ],
-          "calories": 750,
-          "source": "standart_kyk",
-          "source_url": null
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba / Mercimek Çorbası",
-            "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
-            "Domatesli Pirinç Pilavı",
-            "Supangle",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 920,
-          "source": "syrblo_yedek",
-          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-        }
-      },
-      "osmaniye": {
-        "city": "Osmaniye",
-        "city_slug": "osmaniye",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta / Omlet",
-            "Beyaz Peynir / Kaşar Peynir",
-            "Siyah ve Yeşil Zeytin",
-            "Taze Ekmek & Simit",
-            "Sıcak Çay / Süt"
-          ],
-          "calories": 750,
-          "source": "standart_kyk",
-          "source_url": null
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba / Mercimek Çorbası",
-            "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
-            "Domatesli Pirinç Pilavı",
-            "Supangle",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 920,
-          "source": "syrblo_yedek",
-          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-        }
-      },
-      "rize": {
-        "city": "Rize",
-        "city_slug": "rize",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta / Omlet",
-            "Beyaz Peynir / Kaşar Peynir",
-            "Siyah ve Yeşil Zeytin",
-            "Taze Ekmek & Simit",
-            "Sıcak Çay / Süt"
-          ],
-          "calories": 750,
-          "source": "standart_kyk",
-          "source_url": null
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba / Mercimek Çorbası",
-            "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
-            "Domatesli Pirinç Pilavı",
-            "Supangle",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 920,
-          "source": "syrblo_yedek",
-          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-        }
-      },
-      "sanliurfa": {
-        "city": "Şanlıurfa",
-        "city_slug": "sanliurfa",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta / Omlet",
-            "Beyaz Peynir / Kaşar Peynir",
-            "Siyah ve Yeşil Zeytin",
-            "Taze Ekmek & Simit",
-            "Sıcak Çay / Süt"
-          ],
-          "calories": 750,
-          "source": "standart_kyk",
-          "source_url": null
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba / Mercimek Çorbası",
-            "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
-            "Domatesli Pirinç Pilavı",
-            "Supangle",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 920,
-          "source": "syrblo_yedek",
-          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-        }
-      },
-      "sinop": {
-        "city": "Sinop",
-        "city_slug": "sinop",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta / Omlet",
-            "Beyaz Peynir / Kaşar Peynir",
-            "Siyah ve Yeşil Zeytin",
-            "Taze Ekmek & Simit",
-            "Sıcak Çay / Süt"
-          ],
-          "calories": 750,
-          "source": "standart_kyk",
-          "source_url": null
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba / Mercimek Çorbası",
-            "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
-            "Domatesli Pirinç Pilavı",
-            "Supangle",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 920,
-          "source": "syrblo_yedek",
-          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-        }
-      },
-      "sirnak": {
-        "city": "Şırnak",
-        "city_slug": "sirnak",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta / Omlet",
-            "Beyaz Peynir / Kaşar Peynir",
-            "Siyah ve Yeşil Zeytin",
-            "Taze Ekmek & Simit",
-            "Sıcak Çay / Süt"
-          ],
-          "calories": 750,
-          "source": "standart_kyk",
-          "source_url": null
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba / Mercimek Çorbası",
-            "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
-            "Domatesli Pirinç Pilavı",
-            "Supangle",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 920,
-          "source": "syrblo_yedek",
-          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-        }
-      },
-      "tekirdag": {
-        "city": "Tekirdağ",
-        "city_slug": "tekirdag",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta / Omlet",
-            "Beyaz Peynir / Kaşar Peynir",
-            "Siyah ve Yeşil Zeytin",
-            "Taze Ekmek & Simit",
-            "Sıcak Çay / Süt"
-          ],
-          "calories": 750,
-          "source": "standart_kyk",
-          "source_url": null
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba / Mercimek Çorbası",
-            "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
-            "Domatesli Pirinç Pilavı",
-            "Supangle",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 920,
-          "source": "syrblo_yedek",
-          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-        }
-      },
-      "tunceli": {
-        "city": "Tunceli",
-        "city_slug": "tunceli",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta / Omlet",
-            "Beyaz Peynir / Kaşar Peynir",
-            "Siyah ve Yeşil Zeytin",
-            "Taze Ekmek & Simit",
-            "Sıcak Çay / Süt"
-          ],
-          "calories": 750,
-          "source": "standart_kyk",
-          "source_url": null
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba / Mercimek Çorbası",
-            "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
-            "Domatesli Pirinç Pilavı",
-            "Supangle",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 920,
-          "source": "syrblo_yedek",
-          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-        }
-      },
-      "van": {
-        "city": "Van",
-        "city_slug": "van",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta / Omlet",
-            "Beyaz Peynir / Kaşar Peynir",
-            "Siyah ve Yeşil Zeytin",
-            "Taze Ekmek & Simit",
-            "Sıcak Çay / Süt"
-          ],
-          "calories": 750,
-          "source": "standart_kyk",
-          "source_url": null
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba / Mercimek Çorbası",
-            "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
-            "Domatesli Pirinç Pilavı",
-            "Supangle",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 920,
-          "source": "syrblo_yedek",
-          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-        }
-      },
-      "yalova": {
-        "city": "Yalova",
-        "city_slug": "yalova",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta / Omlet",
-            "Beyaz Peynir / Kaşar Peynir",
-            "Siyah ve Yeşil Zeytin",
-            "Taze Ekmek & Simit",
-            "Sıcak Çay / Süt"
-          ],
-          "calories": 750,
-          "source": "standart_kyk",
-          "source_url": null
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba / Mercimek Çorbası",
-            "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
-            "Domatesli Pirinç Pilavı",
-            "Supangle",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 920,
-          "source": "syrblo_yedek",
-          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-        }
-      },
-      "yozgat": {
-        "city": "Yozgat",
-        "city_slug": "yozgat",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta / Omlet",
-            "Beyaz Peynir / Kaşar Peynir",
-            "Siyah ve Yeşil Zeytin",
-            "Taze Ekmek & Simit",
-            "Sıcak Çay / Süt"
-          ],
-          "calories": 750,
-          "source": "standart_kyk",
-          "source_url": null
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba / Mercimek Çorbası",
-            "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
-            "Domatesli Pirinç Pilavı",
-            "Supangle",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 920,
-          "source": "syrblo_yedek",
-          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-        }
-      },
-      "zonguldak": {
-        "city": "Zonguldak",
-        "city_slug": "zonguldak",
-        "date": "2026-11-14",
-        "breakfast": {
-          "items": [
-            "Haşlanmış Yumurta / Omlet",
-            "Beyaz Peynir / Kaşar Peynir",
-            "Siyah ve Yeşil Zeytin",
-            "Taze Ekmek & Simit",
-            "Sıcak Çay / Süt"
-          ],
-          "calories": 750,
-          "source": "standart_kyk",
-          "source_url": null
-        },
-        "dinner": {
-          "items": [
-            "Domates Çorba / Mercimek Çorbası",
-            "Tavuk Şiş+Lavaş+Köz Biber/Domates / Karışık Kızartma+Yoğurt",
-            "Domatesli Pirinç Pilavı",
-            "Supangle",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-          ],
-          "calories": 920,
-          "source": "syrblo_yedek",
-          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-        }
       }
     },
     "2026-11-15": {
@@ -15183,6 +13478,1720 @@
           "calories": 1500,
           "source": "kykyemek",
           "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Uşak?city=U%C5%9Fak&mealType=true&hidePast=false&monthShift=0"
+        }
+      },
+      "bursa": {
+        "city": "Bursa",
+        "city_slug": "bursa",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Sucuklu Omlet",
+            "Patates Kroket",
+            "Dere Otlu Poğaça",
+            "Beyaz Peynir"
+          ],
+          "calories": null,
+          "source": "kykyurtmenu",
+          "source_url": "https://www.kykyurtmenu.com/bursa/kahvalti"
+        },
+        "dinner": {
+          "items": [
+            "Ezogelin Çorba",
+            "Mısır Çorba",
+            "Kuşbaşılı Ali Nazik",
+            "Tavuklu Ali Nazik",
+            "Portakallı Kereviz",
+            "Pirinç Pilavı",
+            "Çiğ Köfte"
+          ],
+          "calories": null,
+          "source": "kykyurtmenu",
+          "source_url": "https://www.kykyurtmenu.com/bursa/aksam"
+        }
+      },
+      "samsun": {
+        "city": "Samsun",
+        "city_slug": "samsun",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Sucuklu Omlet",
+            "Patates Kroket",
+            "Dereotlu Poğaça",
+            "Beyaz Peynir"
+          ],
+          "calories": null,
+          "source": "kykyurtmenu",
+          "source_url": "https://www.kykyurtmenu.com/samsun/kahvalti"
+        },
+        "dinner": {
+          "items": [
+            "Tutmaç Çorbası",
+            "Şehriye Çorbası",
+            "Et Haşlama",
+            "Piliç Roti",
+            "Fırında Kaşarlı Sebzeli Mantar",
+            "Bulgur Pilavı",
+            "Havuç Tarator"
+          ],
+          "calories": null,
+          "source": "kykyurtmenu",
+          "source_url": "https://www.kykyurtmenu.com/samsun/aksam"
+        }
+      },
+      "kayseri": {
+        "city": "Kayseri",
+        "city_slug": "kayseri",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Sucuklu Omlet",
+            "Patates Kroket",
+            "Dere Otlu Poğaça",
+            "Beyaz Peynir"
+          ],
+          "calories": null,
+          "source": "kykyurtmenu",
+          "source_url": "https://www.kykyurtmenu.com/kayseri/kahvalti"
+        },
+        "dinner": {
+          "items": [
+            "Erişteli Yeşil Mercimek Çorba",
+            "Havuç Çorba",
+            "Etli Çökertme Kebabı",
+            "Tavuklu Çökertme Kebabı",
+            "Mevsim Türlü",
+            "Domatesli Bulgur Pilavı",
+            "Mandalina"
+          ],
+          "calories": null,
+          "source": "kykyurtmenu",
+          "source_url": "https://www.kykyurtmenu.com/kayseri/aksam"
+        }
+      },
+      "adana": {
+        "city": "Adana",
+        "city_slug": "adana",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Sucuklu Omlet",
+            "Patates Kroket",
+            "Dereotlu Poğaça",
+            "Beyaz Peynir"
+          ],
+          "calories": null,
+          "source": "kykyurtmenu",
+          "source_url": "https://www.kykyurtmenu.com/adana/kahvalti"
+        },
+        "dinner": {
+          "items": [
+            "Ezogelin Çorba",
+            "Brokoli Çorba",
+            "Ekmek Arası Et Tantuni + Küp Patates",
+            "Ispanak Yemeği + Yoğurt",
+            "Bulgur Pilavı",
+            "Babagannuş"
+          ],
+          "calories": null,
+          "source": "kykyurtmenu",
+          "source_url": "https://www.kykyurtmenu.com/adana/aksam"
+        }
+      },
+      "kocaeli": {
+        "city": "Kocaeli",
+        "city_slug": "kocaeli",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Sucuklu Omlet",
+            "Patates Kroket",
+            "Dereotlu Poğaça",
+            "Beyaz Peynir"
+          ],
+          "calories": null,
+          "source": "kykyurtmenu",
+          "source_url": "https://www.kykyurtmenu.com/kocaeli/kahvalti"
+        },
+        "dinner": {
+          "items": [
+            "Mercimek Çorbası",
+            "Anadolu Çorbası",
+            "Etli Buğu Kebabı",
+            "Tavuk Şiş",
+            "Taze Fasulye",
+            "Pirinç Pilavı",
+            "Kuru Cacık",
+            "Pembe Sultan"
+          ],
+          "calories": null,
+          "source": "kykyurtmenu",
+          "source_url": "https://www.kykyurtmenu.com/kocaeli/aksam"
+        }
+      },
+      "denizli": {
+        "city": "Denizli",
+        "city_slug": "denizli",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Sucuklu Yumurta",
+            "Domates Soslu Biber Kızartma",
+            "Sosisli Patates Kızartması",
+            "Peynirli Tepsi Böreği",
+            "Pişi",
+            "Simit",
+            "Beyaz Peynir",
+            "Kaşar Peynir",
+            "Labne Peynir"
+          ],
+          "calories": null,
+          "source": "kykyurtmenu",
+          "source_url": "https://www.kykyurtmenu.com/denizli/kahvalti"
+        },
+        "dinner": {
+          "items": [
+            "Mercimek Çorbası",
+            "Domates Çorbası",
+            "Lahmacun",
+            "Kıymalı Pide",
+            "Kızarmış Mücver",
+            "Sebzeli Bulgur Pilavı",
+            "Ayran"
+          ],
+          "calories": null,
+          "source": "kykyurtmenu",
+          "source_url": "https://www.kykyurtmenu.com/denizli/aksam"
+        }
+      },
+      "mugla": {
+        "city": "Muğla",
+        "city_slug": "mugla",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Sucuklu Omlet",
+            "Patates Kroket",
+            "Dere Otlu Poğaça",
+            "Beyaz Peynir"
+          ],
+          "calories": null,
+          "source": "kykyurtmenu",
+          "source_url": "https://www.kykyurtmenu.com/mugla/kahvalti"
+        },
+        "dinner": {
+          "items": [
+            "Mercimek Çorba",
+            "Yüksük Çorba",
+            "Et Sote + Püre",
+            "Tavuk Kavurma + Püre",
+            "Soslu Karışık Kızartma",
+            "Mısırlı Pirinç Pilavı",
+            "Haydari"
+          ],
+          "calories": null,
+          "source": "kykyurtmenu",
+          "source_url": "https://www.kykyurtmenu.com/mugla/aksam"
+        }
+      },
+      "balikesir": {
+        "city": "Balıkesir",
+        "city_slug": "balikesir",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Sucuklu Omlet",
+            "Patates Kroket",
+            "Poğaça Çeşitleri",
+            "Beyaz Peynir"
+          ],
+          "calories": null,
+          "source": "kykyurtmenu",
+          "source_url": "https://www.kykyurtmenu.com/balikesir/kahvalti"
+        },
+        "dinner": {
+          "items": [
+            "Domates Çorba",
+            "Çeşmi Nigar Çorba",
+            "Kuru Fasulye veya Nohut Yemeği",
+            "İmam Bayıldı",
+            "Pirinç Pilavı",
+            "Ayran"
+          ],
+          "calories": null,
+          "source": "kykyurtmenu",
+          "source_url": "https://www.kykyurtmenu.com/balikesir/aksam"
+        }
+      },
+      "adiyaman": {
+        "city": "Adıyaman",
+        "city_slug": "adiyaman",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Haşlanmış Yumurta / Omlet",
+            "Beyaz Peynir / Kaşar Peynir",
+            "Siyah ve Yeşil Zeytin",
+            "Taze Ekmek & Simit",
+            "Sıcak Çay / Süt"
+          ],
+          "calories": 750,
+          "source": "standart_kyk",
+          "source_url": null
+        },
+        "dinner": {
+          "items": [
+            "Tarhana Çorba / Sebze Çorbası",
+            "Dana Rosto (Püreli) / Tavuk Kalamar / Karnabahar Graten",
+            "Şehriyeli Bulgur Pilavı",
+            "Atom(Tatlı Veya Acı)",
+            "500 ml Su",
+            "Çeyrek Ekmek"
+          ],
+          "calories": 920,
+          "source": "syrblo_yedek",
+          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+        }
+      },
+      "afyonkarahisar": {
+        "city": "Afyonkarahisar",
+        "city_slug": "afyonkarahisar",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Haşlanmış Yumurta / Omlet",
+            "Beyaz Peynir / Kaşar Peynir",
+            "Siyah ve Yeşil Zeytin",
+            "Taze Ekmek & Simit",
+            "Sıcak Çay / Süt"
+          ],
+          "calories": 750,
+          "source": "standart_kyk",
+          "source_url": null
+        },
+        "dinner": {
+          "items": [
+            "Tarhana Çorba / Sebze Çorbası",
+            "Dana Rosto (Püreli) / Tavuk Kalamar / Karnabahar Graten",
+            "Şehriyeli Bulgur Pilavı",
+            "Atom(Tatlı Veya Acı)",
+            "500 ml Su",
+            "Çeyrek Ekmek"
+          ],
+          "calories": 920,
+          "source": "syrblo_yedek",
+          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+        }
+      },
+      "agri": {
+        "city": "Ağrı",
+        "city_slug": "agri",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Haşlanmış Yumurta / Omlet",
+            "Beyaz Peynir / Kaşar Peynir",
+            "Siyah ve Yeşil Zeytin",
+            "Taze Ekmek & Simit",
+            "Sıcak Çay / Süt"
+          ],
+          "calories": 750,
+          "source": "standart_kyk",
+          "source_url": null
+        },
+        "dinner": {
+          "items": [
+            "Tarhana Çorba / Sebze Çorbası",
+            "Dana Rosto (Püreli) / Tavuk Kalamar / Karnabahar Graten",
+            "Şehriyeli Bulgur Pilavı",
+            "Atom(Tatlı Veya Acı)",
+            "500 ml Su",
+            "Çeyrek Ekmek"
+          ],
+          "calories": 920,
+          "source": "syrblo_yedek",
+          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+        }
+      },
+      "aksaray": {
+        "city": "Aksaray",
+        "city_slug": "aksaray",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Haşlanmış Yumurta / Omlet",
+            "Beyaz Peynir / Kaşar Peynir",
+            "Siyah ve Yeşil Zeytin",
+            "Taze Ekmek & Simit",
+            "Sıcak Çay / Süt"
+          ],
+          "calories": 750,
+          "source": "standart_kyk",
+          "source_url": null
+        },
+        "dinner": {
+          "items": [
+            "Tarhana Çorba / Sebze Çorbası",
+            "Dana Rosto (Püreli) / Tavuk Kalamar / Karnabahar Graten",
+            "Şehriyeli Bulgur Pilavı",
+            "Atom(Tatlı Veya Acı)",
+            "500 ml Su",
+            "Çeyrek Ekmek"
+          ],
+          "calories": 920,
+          "source": "syrblo_yedek",
+          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+        }
+      },
+      "amasya": {
+        "city": "Amasya",
+        "city_slug": "amasya",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Haşlanmış Yumurta / Omlet",
+            "Beyaz Peynir / Kaşar Peynir",
+            "Siyah ve Yeşil Zeytin",
+            "Taze Ekmek & Simit",
+            "Sıcak Çay / Süt"
+          ],
+          "calories": 750,
+          "source": "standart_kyk",
+          "source_url": null
+        },
+        "dinner": {
+          "items": [
+            "Tarhana Çorba / Sebze Çorbası",
+            "Dana Rosto (Püreli) / Tavuk Kalamar / Karnabahar Graten",
+            "Şehriyeli Bulgur Pilavı",
+            "Atom(Tatlı Veya Acı)",
+            "500 ml Su",
+            "Çeyrek Ekmek"
+          ],
+          "calories": 920,
+          "source": "syrblo_yedek",
+          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+        }
+      },
+      "ardahan": {
+        "city": "Ardahan",
+        "city_slug": "ardahan",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Haşlanmış Yumurta / Omlet",
+            "Beyaz Peynir / Kaşar Peynir",
+            "Siyah ve Yeşil Zeytin",
+            "Taze Ekmek & Simit",
+            "Sıcak Çay / Süt"
+          ],
+          "calories": 750,
+          "source": "standart_kyk",
+          "source_url": null
+        },
+        "dinner": {
+          "items": [
+            "Tarhana Çorba / Sebze Çorbası",
+            "Dana Rosto (Püreli) / Tavuk Kalamar / Karnabahar Graten",
+            "Şehriyeli Bulgur Pilavı",
+            "Atom(Tatlı Veya Acı)",
+            "500 ml Su",
+            "Çeyrek Ekmek"
+          ],
+          "calories": 920,
+          "source": "syrblo_yedek",
+          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+        }
+      },
+      "artvin": {
+        "city": "Artvin",
+        "city_slug": "artvin",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Haşlanmış Yumurta / Omlet",
+            "Beyaz Peynir / Kaşar Peynir",
+            "Siyah ve Yeşil Zeytin",
+            "Taze Ekmek & Simit",
+            "Sıcak Çay / Süt"
+          ],
+          "calories": 750,
+          "source": "standart_kyk",
+          "source_url": null
+        },
+        "dinner": {
+          "items": [
+            "Tarhana Çorba / Sebze Çorbası",
+            "Dana Rosto (Püreli) / Tavuk Kalamar / Karnabahar Graten",
+            "Şehriyeli Bulgur Pilavı",
+            "Atom(Tatlı Veya Acı)",
+            "500 ml Su",
+            "Çeyrek Ekmek"
+          ],
+          "calories": 920,
+          "source": "syrblo_yedek",
+          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+        }
+      },
+      "aydin": {
+        "city": "Aydın",
+        "city_slug": "aydin",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Haşlanmış Yumurta / Omlet",
+            "Beyaz Peynir / Kaşar Peynir",
+            "Siyah ve Yeşil Zeytin",
+            "Taze Ekmek & Simit",
+            "Sıcak Çay / Süt"
+          ],
+          "calories": 750,
+          "source": "standart_kyk",
+          "source_url": null
+        },
+        "dinner": {
+          "items": [
+            "Tarhana Çorba / Sebze Çorbası",
+            "Dana Rosto (Püreli) / Tavuk Kalamar / Karnabahar Graten",
+            "Şehriyeli Bulgur Pilavı",
+            "Atom(Tatlı Veya Acı)",
+            "500 ml Su",
+            "Çeyrek Ekmek"
+          ],
+          "calories": 920,
+          "source": "syrblo_yedek",
+          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+        }
+      },
+      "bartin": {
+        "city": "Bartın",
+        "city_slug": "bartin",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Haşlanmış Yumurta / Omlet",
+            "Beyaz Peynir / Kaşar Peynir",
+            "Siyah ve Yeşil Zeytin",
+            "Taze Ekmek & Simit",
+            "Sıcak Çay / Süt"
+          ],
+          "calories": 750,
+          "source": "standart_kyk",
+          "source_url": null
+        },
+        "dinner": {
+          "items": [
+            "Tarhana Çorba / Sebze Çorbası",
+            "Dana Rosto (Püreli) / Tavuk Kalamar / Karnabahar Graten",
+            "Şehriyeli Bulgur Pilavı",
+            "Atom(Tatlı Veya Acı)",
+            "500 ml Su",
+            "Çeyrek Ekmek"
+          ],
+          "calories": 920,
+          "source": "syrblo_yedek",
+          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+        }
+      },
+      "batman": {
+        "city": "Batman",
+        "city_slug": "batman",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Haşlanmış Yumurta / Omlet",
+            "Beyaz Peynir / Kaşar Peynir",
+            "Siyah ve Yeşil Zeytin",
+            "Taze Ekmek & Simit",
+            "Sıcak Çay / Süt"
+          ],
+          "calories": 750,
+          "source": "standart_kyk",
+          "source_url": null
+        },
+        "dinner": {
+          "items": [
+            "Tarhana Çorba / Sebze Çorbası",
+            "Dana Rosto (Püreli) / Tavuk Kalamar / Karnabahar Graten",
+            "Şehriyeli Bulgur Pilavı",
+            "Atom(Tatlı Veya Acı)",
+            "500 ml Su",
+            "Çeyrek Ekmek"
+          ],
+          "calories": 920,
+          "source": "syrblo_yedek",
+          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+        }
+      },
+      "bayburt": {
+        "city": "Bayburt",
+        "city_slug": "bayburt",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Haşlanmış Yumurta / Omlet",
+            "Beyaz Peynir / Kaşar Peynir",
+            "Siyah ve Yeşil Zeytin",
+            "Taze Ekmek & Simit",
+            "Sıcak Çay / Süt"
+          ],
+          "calories": 750,
+          "source": "standart_kyk",
+          "source_url": null
+        },
+        "dinner": {
+          "items": [
+            "Tarhana Çorba / Sebze Çorbası",
+            "Dana Rosto (Püreli) / Tavuk Kalamar / Karnabahar Graten",
+            "Şehriyeli Bulgur Pilavı",
+            "Atom(Tatlı Veya Acı)",
+            "500 ml Su",
+            "Çeyrek Ekmek"
+          ],
+          "calories": 920,
+          "source": "syrblo_yedek",
+          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+        }
+      },
+      "bilecik": {
+        "city": "Bilecik",
+        "city_slug": "bilecik",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Haşlanmış Yumurta / Omlet",
+            "Beyaz Peynir / Kaşar Peynir",
+            "Siyah ve Yeşil Zeytin",
+            "Taze Ekmek & Simit",
+            "Sıcak Çay / Süt"
+          ],
+          "calories": 750,
+          "source": "standart_kyk",
+          "source_url": null
+        },
+        "dinner": {
+          "items": [
+            "Tarhana Çorba / Sebze Çorbası",
+            "Dana Rosto (Püreli) / Tavuk Kalamar / Karnabahar Graten",
+            "Şehriyeli Bulgur Pilavı",
+            "Atom(Tatlı Veya Acı)",
+            "500 ml Su",
+            "Çeyrek Ekmek"
+          ],
+          "calories": 920,
+          "source": "syrblo_yedek",
+          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+        }
+      },
+      "bingol": {
+        "city": "Bingöl",
+        "city_slug": "bingol",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Haşlanmış Yumurta / Omlet",
+            "Beyaz Peynir / Kaşar Peynir",
+            "Siyah ve Yeşil Zeytin",
+            "Taze Ekmek & Simit",
+            "Sıcak Çay / Süt"
+          ],
+          "calories": 750,
+          "source": "standart_kyk",
+          "source_url": null
+        },
+        "dinner": {
+          "items": [
+            "Tarhana Çorba / Sebze Çorbası",
+            "Dana Rosto (Püreli) / Tavuk Kalamar / Karnabahar Graten",
+            "Şehriyeli Bulgur Pilavı",
+            "Atom(Tatlı Veya Acı)",
+            "500 ml Su",
+            "Çeyrek Ekmek"
+          ],
+          "calories": 920,
+          "source": "syrblo_yedek",
+          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+        }
+      },
+      "bitlis": {
+        "city": "Bitlis",
+        "city_slug": "bitlis",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Haşlanmış Yumurta / Omlet",
+            "Beyaz Peynir / Kaşar Peynir",
+            "Siyah ve Yeşil Zeytin",
+            "Taze Ekmek & Simit",
+            "Sıcak Çay / Süt"
+          ],
+          "calories": 750,
+          "source": "standart_kyk",
+          "source_url": null
+        },
+        "dinner": {
+          "items": [
+            "Tarhana Çorba / Sebze Çorbası",
+            "Dana Rosto (Püreli) / Tavuk Kalamar / Karnabahar Graten",
+            "Şehriyeli Bulgur Pilavı",
+            "Atom(Tatlı Veya Acı)",
+            "500 ml Su",
+            "Çeyrek Ekmek"
+          ],
+          "calories": 920,
+          "source": "syrblo_yedek",
+          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+        }
+      },
+      "cankiri": {
+        "city": "Çankırı",
+        "city_slug": "cankiri",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Haşlanmış Yumurta / Omlet",
+            "Beyaz Peynir / Kaşar Peynir",
+            "Siyah ve Yeşil Zeytin",
+            "Taze Ekmek & Simit",
+            "Sıcak Çay / Süt"
+          ],
+          "calories": 750,
+          "source": "standart_kyk",
+          "source_url": null
+        },
+        "dinner": {
+          "items": [
+            "Tarhana Çorba / Sebze Çorbası",
+            "Dana Rosto (Püreli) / Tavuk Kalamar / Karnabahar Graten",
+            "Şehriyeli Bulgur Pilavı",
+            "Atom(Tatlı Veya Acı)",
+            "500 ml Su",
+            "Çeyrek Ekmek"
+          ],
+          "calories": 920,
+          "source": "syrblo_yedek",
+          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+        }
+      },
+      "corum": {
+        "city": "Çorum",
+        "city_slug": "corum",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Haşlanmış Yumurta / Omlet",
+            "Beyaz Peynir / Kaşar Peynir",
+            "Siyah ve Yeşil Zeytin",
+            "Taze Ekmek & Simit",
+            "Sıcak Çay / Süt"
+          ],
+          "calories": 750,
+          "source": "standart_kyk",
+          "source_url": null
+        },
+        "dinner": {
+          "items": [
+            "Tarhana Çorba / Sebze Çorbası",
+            "Dana Rosto (Püreli) / Tavuk Kalamar / Karnabahar Graten",
+            "Şehriyeli Bulgur Pilavı",
+            "Atom(Tatlı Veya Acı)",
+            "500 ml Su",
+            "Çeyrek Ekmek"
+          ],
+          "calories": 920,
+          "source": "syrblo_yedek",
+          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+        }
+      },
+      "duzce": {
+        "city": "Düzce",
+        "city_slug": "duzce",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Haşlanmış Yumurta / Omlet",
+            "Beyaz Peynir / Kaşar Peynir",
+            "Siyah ve Yeşil Zeytin",
+            "Taze Ekmek & Simit",
+            "Sıcak Çay / Süt"
+          ],
+          "calories": 750,
+          "source": "standart_kyk",
+          "source_url": null
+        },
+        "dinner": {
+          "items": [
+            "Tarhana Çorba / Sebze Çorbası",
+            "Dana Rosto (Püreli) / Tavuk Kalamar / Karnabahar Graten",
+            "Şehriyeli Bulgur Pilavı",
+            "Atom(Tatlı Veya Acı)",
+            "500 ml Su",
+            "Çeyrek Ekmek"
+          ],
+          "calories": 920,
+          "source": "syrblo_yedek",
+          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+        }
+      },
+      "edirne": {
+        "city": "Edirne",
+        "city_slug": "edirne",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Haşlanmış Yumurta / Omlet",
+            "Beyaz Peynir / Kaşar Peynir",
+            "Siyah ve Yeşil Zeytin",
+            "Taze Ekmek & Simit",
+            "Sıcak Çay / Süt"
+          ],
+          "calories": 750,
+          "source": "standart_kyk",
+          "source_url": null
+        },
+        "dinner": {
+          "items": [
+            "Tarhana Çorba / Sebze Çorbası",
+            "Dana Rosto (Püreli) / Tavuk Kalamar / Karnabahar Graten",
+            "Şehriyeli Bulgur Pilavı",
+            "Atom(Tatlı Veya Acı)",
+            "500 ml Su",
+            "Çeyrek Ekmek"
+          ],
+          "calories": 920,
+          "source": "syrblo_yedek",
+          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+        }
+      },
+      "elazig": {
+        "city": "Elazığ",
+        "city_slug": "elazig",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Haşlanmış Yumurta / Omlet",
+            "Beyaz Peynir / Kaşar Peynir",
+            "Siyah ve Yeşil Zeytin",
+            "Taze Ekmek & Simit",
+            "Sıcak Çay / Süt"
+          ],
+          "calories": 750,
+          "source": "standart_kyk",
+          "source_url": null
+        },
+        "dinner": {
+          "items": [
+            "Tarhana Çorba / Sebze Çorbası",
+            "Dana Rosto (Püreli) / Tavuk Kalamar / Karnabahar Graten",
+            "Şehriyeli Bulgur Pilavı",
+            "Atom(Tatlı Veya Acı)",
+            "500 ml Su",
+            "Çeyrek Ekmek"
+          ],
+          "calories": 920,
+          "source": "syrblo_yedek",
+          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+        }
+      },
+      "giresun": {
+        "city": "Giresun",
+        "city_slug": "giresun",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Haşlanmış Yumurta / Omlet",
+            "Beyaz Peynir / Kaşar Peynir",
+            "Siyah ve Yeşil Zeytin",
+            "Taze Ekmek & Simit",
+            "Sıcak Çay / Süt"
+          ],
+          "calories": 750,
+          "source": "standart_kyk",
+          "source_url": null
+        },
+        "dinner": {
+          "items": [
+            "Tarhana Çorba / Sebze Çorbası",
+            "Dana Rosto (Püreli) / Tavuk Kalamar / Karnabahar Graten",
+            "Şehriyeli Bulgur Pilavı",
+            "Atom(Tatlı Veya Acı)",
+            "500 ml Su",
+            "Çeyrek Ekmek"
+          ],
+          "calories": 920,
+          "source": "syrblo_yedek",
+          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+        }
+      },
+      "gumushane": {
+        "city": "Gümüşhane",
+        "city_slug": "gumushane",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Haşlanmış Yumurta / Omlet",
+            "Beyaz Peynir / Kaşar Peynir",
+            "Siyah ve Yeşil Zeytin",
+            "Taze Ekmek & Simit",
+            "Sıcak Çay / Süt"
+          ],
+          "calories": 750,
+          "source": "standart_kyk",
+          "source_url": null
+        },
+        "dinner": {
+          "items": [
+            "Tarhana Çorba / Sebze Çorbası",
+            "Dana Rosto (Püreli) / Tavuk Kalamar / Karnabahar Graten",
+            "Şehriyeli Bulgur Pilavı",
+            "Atom(Tatlı Veya Acı)",
+            "500 ml Su",
+            "Çeyrek Ekmek"
+          ],
+          "calories": 920,
+          "source": "syrblo_yedek",
+          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+        }
+      },
+      "hakkari": {
+        "city": "Hakkâri",
+        "city_slug": "hakkari",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Haşlanmış Yumurta / Omlet",
+            "Beyaz Peynir / Kaşar Peynir",
+            "Siyah ve Yeşil Zeytin",
+            "Taze Ekmek & Simit",
+            "Sıcak Çay / Süt"
+          ],
+          "calories": 750,
+          "source": "standart_kyk",
+          "source_url": null
+        },
+        "dinner": {
+          "items": [
+            "Tarhana Çorba / Sebze Çorbası",
+            "Dana Rosto (Püreli) / Tavuk Kalamar / Karnabahar Graten",
+            "Şehriyeli Bulgur Pilavı",
+            "Atom(Tatlı Veya Acı)",
+            "500 ml Su",
+            "Çeyrek Ekmek"
+          ],
+          "calories": 920,
+          "source": "syrblo_yedek",
+          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+        }
+      },
+      "hatay": {
+        "city": "Hatay",
+        "city_slug": "hatay",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Haşlanmış Yumurta / Omlet",
+            "Beyaz Peynir / Kaşar Peynir",
+            "Siyah ve Yeşil Zeytin",
+            "Taze Ekmek & Simit",
+            "Sıcak Çay / Süt"
+          ],
+          "calories": 750,
+          "source": "standart_kyk",
+          "source_url": null
+        },
+        "dinner": {
+          "items": [
+            "Tarhana Çorba / Sebze Çorbası",
+            "Dana Rosto (Püreli) / Tavuk Kalamar / Karnabahar Graten",
+            "Şehriyeli Bulgur Pilavı",
+            "Atom(Tatlı Veya Acı)",
+            "500 ml Su",
+            "Çeyrek Ekmek"
+          ],
+          "calories": 920,
+          "source": "syrblo_yedek",
+          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+        }
+      },
+      "igdir": {
+        "city": "Iğdır",
+        "city_slug": "igdir",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Haşlanmış Yumurta / Omlet",
+            "Beyaz Peynir / Kaşar Peynir",
+            "Siyah ve Yeşil Zeytin",
+            "Taze Ekmek & Simit",
+            "Sıcak Çay / Süt"
+          ],
+          "calories": 750,
+          "source": "standart_kyk",
+          "source_url": null
+        },
+        "dinner": {
+          "items": [
+            "Tarhana Çorba / Sebze Çorbası",
+            "Dana Rosto (Püreli) / Tavuk Kalamar / Karnabahar Graten",
+            "Şehriyeli Bulgur Pilavı",
+            "Atom(Tatlı Veya Acı)",
+            "500 ml Su",
+            "Çeyrek Ekmek"
+          ],
+          "calories": 920,
+          "source": "syrblo_yedek",
+          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+        }
+      },
+      "karaman": {
+        "city": "Karaman",
+        "city_slug": "karaman",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Haşlanmış Yumurta / Omlet",
+            "Beyaz Peynir / Kaşar Peynir",
+            "Siyah ve Yeşil Zeytin",
+            "Taze Ekmek & Simit",
+            "Sıcak Çay / Süt"
+          ],
+          "calories": 750,
+          "source": "standart_kyk",
+          "source_url": null
+        },
+        "dinner": {
+          "items": [
+            "Tarhana Çorba / Sebze Çorbası",
+            "Dana Rosto (Püreli) / Tavuk Kalamar / Karnabahar Graten",
+            "Şehriyeli Bulgur Pilavı",
+            "Atom(Tatlı Veya Acı)",
+            "500 ml Su",
+            "Çeyrek Ekmek"
+          ],
+          "calories": 920,
+          "source": "syrblo_yedek",
+          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+        }
+      },
+      "kars": {
+        "city": "Kars",
+        "city_slug": "kars",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Haşlanmış Yumurta / Omlet",
+            "Beyaz Peynir / Kaşar Peynir",
+            "Siyah ve Yeşil Zeytin",
+            "Taze Ekmek & Simit",
+            "Sıcak Çay / Süt"
+          ],
+          "calories": 750,
+          "source": "standart_kyk",
+          "source_url": null
+        },
+        "dinner": {
+          "items": [
+            "Tarhana Çorba / Sebze Çorbası",
+            "Dana Rosto (Püreli) / Tavuk Kalamar / Karnabahar Graten",
+            "Şehriyeli Bulgur Pilavı",
+            "Atom(Tatlı Veya Acı)",
+            "500 ml Su",
+            "Çeyrek Ekmek"
+          ],
+          "calories": 920,
+          "source": "syrblo_yedek",
+          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+        }
+      },
+      "kastamonu": {
+        "city": "Kastamonu",
+        "city_slug": "kastamonu",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Haşlanmış Yumurta / Omlet",
+            "Beyaz Peynir / Kaşar Peynir",
+            "Siyah ve Yeşil Zeytin",
+            "Taze Ekmek & Simit",
+            "Sıcak Çay / Süt"
+          ],
+          "calories": 750,
+          "source": "standart_kyk",
+          "source_url": null
+        },
+        "dinner": {
+          "items": [
+            "Tarhana Çorba / Sebze Çorbası",
+            "Dana Rosto (Püreli) / Tavuk Kalamar / Karnabahar Graten",
+            "Şehriyeli Bulgur Pilavı",
+            "Atom(Tatlı Veya Acı)",
+            "500 ml Su",
+            "Çeyrek Ekmek"
+          ],
+          "calories": 920,
+          "source": "syrblo_yedek",
+          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+        }
+      },
+      "kirikkale": {
+        "city": "Kırıkkale",
+        "city_slug": "kirikkale",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Haşlanmış Yumurta / Omlet",
+            "Beyaz Peynir / Kaşar Peynir",
+            "Siyah ve Yeşil Zeytin",
+            "Taze Ekmek & Simit",
+            "Sıcak Çay / Süt"
+          ],
+          "calories": 750,
+          "source": "standart_kyk",
+          "source_url": null
+        },
+        "dinner": {
+          "items": [
+            "Tarhana Çorba / Sebze Çorbası",
+            "Dana Rosto (Püreli) / Tavuk Kalamar / Karnabahar Graten",
+            "Şehriyeli Bulgur Pilavı",
+            "Atom(Tatlı Veya Acı)",
+            "500 ml Su",
+            "Çeyrek Ekmek"
+          ],
+          "calories": 920,
+          "source": "syrblo_yedek",
+          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+        }
+      },
+      "kirsehir": {
+        "city": "Kırşehir",
+        "city_slug": "kirsehir",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Haşlanmış Yumurta / Omlet",
+            "Beyaz Peynir / Kaşar Peynir",
+            "Siyah ve Yeşil Zeytin",
+            "Taze Ekmek & Simit",
+            "Sıcak Çay / Süt"
+          ],
+          "calories": 750,
+          "source": "standart_kyk",
+          "source_url": null
+        },
+        "dinner": {
+          "items": [
+            "Tarhana Çorba / Sebze Çorbası",
+            "Dana Rosto (Püreli) / Tavuk Kalamar / Karnabahar Graten",
+            "Şehriyeli Bulgur Pilavı",
+            "Atom(Tatlı Veya Acı)",
+            "500 ml Su",
+            "Çeyrek Ekmek"
+          ],
+          "calories": 920,
+          "source": "syrblo_yedek",
+          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+        }
+      },
+      "kilis": {
+        "city": "Kilis",
+        "city_slug": "kilis",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Haşlanmış Yumurta / Omlet",
+            "Beyaz Peynir / Kaşar Peynir",
+            "Siyah ve Yeşil Zeytin",
+            "Taze Ekmek & Simit",
+            "Sıcak Çay / Süt"
+          ],
+          "calories": 750,
+          "source": "standart_kyk",
+          "source_url": null
+        },
+        "dinner": {
+          "items": [
+            "Tarhana Çorba / Sebze Çorbası",
+            "Dana Rosto (Püreli) / Tavuk Kalamar / Karnabahar Graten",
+            "Şehriyeli Bulgur Pilavı",
+            "Atom(Tatlı Veya Acı)",
+            "500 ml Su",
+            "Çeyrek Ekmek"
+          ],
+          "calories": 920,
+          "source": "syrblo_yedek",
+          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+        }
+      },
+      "kutahya": {
+        "city": "Kütahya",
+        "city_slug": "kutahya",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Haşlanmış Yumurta / Omlet",
+            "Beyaz Peynir / Kaşar Peynir",
+            "Siyah ve Yeşil Zeytin",
+            "Taze Ekmek & Simit",
+            "Sıcak Çay / Süt"
+          ],
+          "calories": 750,
+          "source": "standart_kyk",
+          "source_url": null
+        },
+        "dinner": {
+          "items": [
+            "Tarhana Çorba / Sebze Çorbası",
+            "Dana Rosto (Püreli) / Tavuk Kalamar / Karnabahar Graten",
+            "Şehriyeli Bulgur Pilavı",
+            "Atom(Tatlı Veya Acı)",
+            "500 ml Su",
+            "Çeyrek Ekmek"
+          ],
+          "calories": 920,
+          "source": "syrblo_yedek",
+          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+        }
+      },
+      "malatya": {
+        "city": "Malatya",
+        "city_slug": "malatya",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Haşlanmış Yumurta / Omlet",
+            "Beyaz Peynir / Kaşar Peynir",
+            "Siyah ve Yeşil Zeytin",
+            "Taze Ekmek & Simit",
+            "Sıcak Çay / Süt"
+          ],
+          "calories": 750,
+          "source": "standart_kyk",
+          "source_url": null
+        },
+        "dinner": {
+          "items": [
+            "Tarhana Çorba / Sebze Çorbası",
+            "Dana Rosto (Püreli) / Tavuk Kalamar / Karnabahar Graten",
+            "Şehriyeli Bulgur Pilavı",
+            "Atom(Tatlı Veya Acı)",
+            "500 ml Su",
+            "Çeyrek Ekmek"
+          ],
+          "calories": 920,
+          "source": "syrblo_yedek",
+          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+        }
+      },
+      "manisa": {
+        "city": "Manisa",
+        "city_slug": "manisa",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Haşlanmış Yumurta / Omlet",
+            "Beyaz Peynir / Kaşar Peynir",
+            "Siyah ve Yeşil Zeytin",
+            "Taze Ekmek & Simit",
+            "Sıcak Çay / Süt"
+          ],
+          "calories": 750,
+          "source": "standart_kyk",
+          "source_url": null
+        },
+        "dinner": {
+          "items": [
+            "Tarhana Çorba / Sebze Çorbası",
+            "Dana Rosto (Püreli) / Tavuk Kalamar / Karnabahar Graten",
+            "Şehriyeli Bulgur Pilavı",
+            "Atom(Tatlı Veya Acı)",
+            "500 ml Su",
+            "Çeyrek Ekmek"
+          ],
+          "calories": 920,
+          "source": "syrblo_yedek",
+          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+        }
+      },
+      "mardin": {
+        "city": "Mardin",
+        "city_slug": "mardin",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Haşlanmış Yumurta / Omlet",
+            "Beyaz Peynir / Kaşar Peynir",
+            "Siyah ve Yeşil Zeytin",
+            "Taze Ekmek & Simit",
+            "Sıcak Çay / Süt"
+          ],
+          "calories": 750,
+          "source": "standart_kyk",
+          "source_url": null
+        },
+        "dinner": {
+          "items": [
+            "Tarhana Çorba / Sebze Çorbası",
+            "Dana Rosto (Püreli) / Tavuk Kalamar / Karnabahar Graten",
+            "Şehriyeli Bulgur Pilavı",
+            "Atom(Tatlı Veya Acı)",
+            "500 ml Su",
+            "Çeyrek Ekmek"
+          ],
+          "calories": 920,
+          "source": "syrblo_yedek",
+          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+        }
+      },
+      "mersin": {
+        "city": "Mersin",
+        "city_slug": "mersin",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Haşlanmış Yumurta / Omlet",
+            "Beyaz Peynir / Kaşar Peynir",
+            "Siyah ve Yeşil Zeytin",
+            "Taze Ekmek & Simit",
+            "Sıcak Çay / Süt"
+          ],
+          "calories": 750,
+          "source": "standart_kyk",
+          "source_url": null
+        },
+        "dinner": {
+          "items": [
+            "Tarhana Çorba / Sebze Çorbası",
+            "Dana Rosto (Püreli) / Tavuk Kalamar / Karnabahar Graten",
+            "Şehriyeli Bulgur Pilavı",
+            "Atom(Tatlı Veya Acı)",
+            "500 ml Su",
+            "Çeyrek Ekmek"
+          ],
+          "calories": 920,
+          "source": "syrblo_yedek",
+          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+        }
+      },
+      "mus": {
+        "city": "Muş",
+        "city_slug": "mus",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Haşlanmış Yumurta / Omlet",
+            "Beyaz Peynir / Kaşar Peynir",
+            "Siyah ve Yeşil Zeytin",
+            "Taze Ekmek & Simit",
+            "Sıcak Çay / Süt"
+          ],
+          "calories": 750,
+          "source": "standart_kyk",
+          "source_url": null
+        },
+        "dinner": {
+          "items": [
+            "Tarhana Çorba / Sebze Çorbası",
+            "Dana Rosto (Püreli) / Tavuk Kalamar / Karnabahar Graten",
+            "Şehriyeli Bulgur Pilavı",
+            "Atom(Tatlı Veya Acı)",
+            "500 ml Su",
+            "Çeyrek Ekmek"
+          ],
+          "calories": 920,
+          "source": "syrblo_yedek",
+          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+        }
+      },
+      "nevsehir": {
+        "city": "Nevşehir",
+        "city_slug": "nevsehir",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Haşlanmış Yumurta / Omlet",
+            "Beyaz Peynir / Kaşar Peynir",
+            "Siyah ve Yeşil Zeytin",
+            "Taze Ekmek & Simit",
+            "Sıcak Çay / Süt"
+          ],
+          "calories": 750,
+          "source": "standart_kyk",
+          "source_url": null
+        },
+        "dinner": {
+          "items": [
+            "Tarhana Çorba / Sebze Çorbası",
+            "Dana Rosto (Püreli) / Tavuk Kalamar / Karnabahar Graten",
+            "Şehriyeli Bulgur Pilavı",
+            "Atom(Tatlı Veya Acı)",
+            "500 ml Su",
+            "Çeyrek Ekmek"
+          ],
+          "calories": 920,
+          "source": "syrblo_yedek",
+          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+        }
+      },
+      "ordu": {
+        "city": "Ordu",
+        "city_slug": "ordu",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Haşlanmış Yumurta / Omlet",
+            "Beyaz Peynir / Kaşar Peynir",
+            "Siyah ve Yeşil Zeytin",
+            "Taze Ekmek & Simit",
+            "Sıcak Çay / Süt"
+          ],
+          "calories": 750,
+          "source": "standart_kyk",
+          "source_url": null
+        },
+        "dinner": {
+          "items": [
+            "Tarhana Çorba / Sebze Çorbası",
+            "Dana Rosto (Püreli) / Tavuk Kalamar / Karnabahar Graten",
+            "Şehriyeli Bulgur Pilavı",
+            "Atom(Tatlı Veya Acı)",
+            "500 ml Su",
+            "Çeyrek Ekmek"
+          ],
+          "calories": 920,
+          "source": "syrblo_yedek",
+          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+        }
+      },
+      "osmaniye": {
+        "city": "Osmaniye",
+        "city_slug": "osmaniye",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Haşlanmış Yumurta / Omlet",
+            "Beyaz Peynir / Kaşar Peynir",
+            "Siyah ve Yeşil Zeytin",
+            "Taze Ekmek & Simit",
+            "Sıcak Çay / Süt"
+          ],
+          "calories": 750,
+          "source": "standart_kyk",
+          "source_url": null
+        },
+        "dinner": {
+          "items": [
+            "Tarhana Çorba / Sebze Çorbası",
+            "Dana Rosto (Püreli) / Tavuk Kalamar / Karnabahar Graten",
+            "Şehriyeli Bulgur Pilavı",
+            "Atom(Tatlı Veya Acı)",
+            "500 ml Su",
+            "Çeyrek Ekmek"
+          ],
+          "calories": 920,
+          "source": "syrblo_yedek",
+          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+        }
+      },
+      "rize": {
+        "city": "Rize",
+        "city_slug": "rize",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Haşlanmış Yumurta / Omlet",
+            "Beyaz Peynir / Kaşar Peynir",
+            "Siyah ve Yeşil Zeytin",
+            "Taze Ekmek & Simit",
+            "Sıcak Çay / Süt"
+          ],
+          "calories": 750,
+          "source": "standart_kyk",
+          "source_url": null
+        },
+        "dinner": {
+          "items": [
+            "Tarhana Çorba / Sebze Çorbası",
+            "Dana Rosto (Püreli) / Tavuk Kalamar / Karnabahar Graten",
+            "Şehriyeli Bulgur Pilavı",
+            "Atom(Tatlı Veya Acı)",
+            "500 ml Su",
+            "Çeyrek Ekmek"
+          ],
+          "calories": 920,
+          "source": "syrblo_yedek",
+          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+        }
+      },
+      "sanliurfa": {
+        "city": "Şanlıurfa",
+        "city_slug": "sanliurfa",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Haşlanmış Yumurta / Omlet",
+            "Beyaz Peynir / Kaşar Peynir",
+            "Siyah ve Yeşil Zeytin",
+            "Taze Ekmek & Simit",
+            "Sıcak Çay / Süt"
+          ],
+          "calories": 750,
+          "source": "standart_kyk",
+          "source_url": null
+        },
+        "dinner": {
+          "items": [
+            "Tarhana Çorba / Sebze Çorbası",
+            "Dana Rosto (Püreli) / Tavuk Kalamar / Karnabahar Graten",
+            "Şehriyeli Bulgur Pilavı",
+            "Atom(Tatlı Veya Acı)",
+            "500 ml Su",
+            "Çeyrek Ekmek"
+          ],
+          "calories": 920,
+          "source": "syrblo_yedek",
+          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+        }
+      },
+      "sinop": {
+        "city": "Sinop",
+        "city_slug": "sinop",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Haşlanmış Yumurta / Omlet",
+            "Beyaz Peynir / Kaşar Peynir",
+            "Siyah ve Yeşil Zeytin",
+            "Taze Ekmek & Simit",
+            "Sıcak Çay / Süt"
+          ],
+          "calories": 750,
+          "source": "standart_kyk",
+          "source_url": null
+        },
+        "dinner": {
+          "items": [
+            "Tarhana Çorba / Sebze Çorbası",
+            "Dana Rosto (Püreli) / Tavuk Kalamar / Karnabahar Graten",
+            "Şehriyeli Bulgur Pilavı",
+            "Atom(Tatlı Veya Acı)",
+            "500 ml Su",
+            "Çeyrek Ekmek"
+          ],
+          "calories": 920,
+          "source": "syrblo_yedek",
+          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+        }
+      },
+      "sirnak": {
+        "city": "Şırnak",
+        "city_slug": "sirnak",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Haşlanmış Yumurta / Omlet",
+            "Beyaz Peynir / Kaşar Peynir",
+            "Siyah ve Yeşil Zeytin",
+            "Taze Ekmek & Simit",
+            "Sıcak Çay / Süt"
+          ],
+          "calories": 750,
+          "source": "standart_kyk",
+          "source_url": null
+        },
+        "dinner": {
+          "items": [
+            "Tarhana Çorba / Sebze Çorbası",
+            "Dana Rosto (Püreli) / Tavuk Kalamar / Karnabahar Graten",
+            "Şehriyeli Bulgur Pilavı",
+            "Atom(Tatlı Veya Acı)",
+            "500 ml Su",
+            "Çeyrek Ekmek"
+          ],
+          "calories": 920,
+          "source": "syrblo_yedek",
+          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+        }
+      },
+      "tekirdag": {
+        "city": "Tekirdağ",
+        "city_slug": "tekirdag",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Haşlanmış Yumurta / Omlet",
+            "Beyaz Peynir / Kaşar Peynir",
+            "Siyah ve Yeşil Zeytin",
+            "Taze Ekmek & Simit",
+            "Sıcak Çay / Süt"
+          ],
+          "calories": 750,
+          "source": "standart_kyk",
+          "source_url": null
+        },
+        "dinner": {
+          "items": [
+            "Tarhana Çorba / Sebze Çorbası",
+            "Dana Rosto (Püreli) / Tavuk Kalamar / Karnabahar Graten",
+            "Şehriyeli Bulgur Pilavı",
+            "Atom(Tatlı Veya Acı)",
+            "500 ml Su",
+            "Çeyrek Ekmek"
+          ],
+          "calories": 920,
+          "source": "syrblo_yedek",
+          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+        }
+      },
+      "tunceli": {
+        "city": "Tunceli",
+        "city_slug": "tunceli",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Haşlanmış Yumurta / Omlet",
+            "Beyaz Peynir / Kaşar Peynir",
+            "Siyah ve Yeşil Zeytin",
+            "Taze Ekmek & Simit",
+            "Sıcak Çay / Süt"
+          ],
+          "calories": 750,
+          "source": "standart_kyk",
+          "source_url": null
+        },
+        "dinner": {
+          "items": [
+            "Tarhana Çorba / Sebze Çorbası",
+            "Dana Rosto (Püreli) / Tavuk Kalamar / Karnabahar Graten",
+            "Şehriyeli Bulgur Pilavı",
+            "Atom(Tatlı Veya Acı)",
+            "500 ml Su",
+            "Çeyrek Ekmek"
+          ],
+          "calories": 920,
+          "source": "syrblo_yedek",
+          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+        }
+      },
+      "van": {
+        "city": "Van",
+        "city_slug": "van",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Haşlanmış Yumurta / Omlet",
+            "Beyaz Peynir / Kaşar Peynir",
+            "Siyah ve Yeşil Zeytin",
+            "Taze Ekmek & Simit",
+            "Sıcak Çay / Süt"
+          ],
+          "calories": 750,
+          "source": "standart_kyk",
+          "source_url": null
+        },
+        "dinner": {
+          "items": [
+            "Tarhana Çorba / Sebze Çorbası",
+            "Dana Rosto (Püreli) / Tavuk Kalamar / Karnabahar Graten",
+            "Şehriyeli Bulgur Pilavı",
+            "Atom(Tatlı Veya Acı)",
+            "500 ml Su",
+            "Çeyrek Ekmek"
+          ],
+          "calories": 920,
+          "source": "syrblo_yedek",
+          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+        }
+      },
+      "yalova": {
+        "city": "Yalova",
+        "city_slug": "yalova",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Haşlanmış Yumurta / Omlet",
+            "Beyaz Peynir / Kaşar Peynir",
+            "Siyah ve Yeşil Zeytin",
+            "Taze Ekmek & Simit",
+            "Sıcak Çay / Süt"
+          ],
+          "calories": 750,
+          "source": "standart_kyk",
+          "source_url": null
+        },
+        "dinner": {
+          "items": [
+            "Tarhana Çorba / Sebze Çorbası",
+            "Dana Rosto (Püreli) / Tavuk Kalamar / Karnabahar Graten",
+            "Şehriyeli Bulgur Pilavı",
+            "Atom(Tatlı Veya Acı)",
+            "500 ml Su",
+            "Çeyrek Ekmek"
+          ],
+          "calories": 920,
+          "source": "syrblo_yedek",
+          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+        }
+      },
+      "yozgat": {
+        "city": "Yozgat",
+        "city_slug": "yozgat",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Haşlanmış Yumurta / Omlet",
+            "Beyaz Peynir / Kaşar Peynir",
+            "Siyah ve Yeşil Zeytin",
+            "Taze Ekmek & Simit",
+            "Sıcak Çay / Süt"
+          ],
+          "calories": 750,
+          "source": "standart_kyk",
+          "source_url": null
+        },
+        "dinner": {
+          "items": [
+            "Tarhana Çorba / Sebze Çorbası",
+            "Dana Rosto (Püreli) / Tavuk Kalamar / Karnabahar Graten",
+            "Şehriyeli Bulgur Pilavı",
+            "Atom(Tatlı Veya Acı)",
+            "500 ml Su",
+            "Çeyrek Ekmek"
+          ],
+          "calories": 920,
+          "source": "syrblo_yedek",
+          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
+        }
+      },
+      "zonguldak": {
+        "city": "Zonguldak",
+        "city_slug": "zonguldak",
+        "date": "2026-11-15",
+        "breakfast": {
+          "items": [
+            "Haşlanmış Yumurta / Omlet",
+            "Beyaz Peynir / Kaşar Peynir",
+            "Siyah ve Yeşil Zeytin",
+            "Taze Ekmek & Simit",
+            "Sıcak Çay / Süt"
+          ],
+          "calories": 750,
+          "source": "standart_kyk",
+          "source_url": null
+        },
+        "dinner": {
+          "items": [
+            "Tarhana Çorba / Sebze Çorbası",
+            "Dana Rosto (Püreli) / Tavuk Kalamar / Karnabahar Graten",
+            "Şehriyeli Bulgur Pilavı",
+            "Atom(Tatlı Veya Acı)",
+            "500 ml Su",
+            "Çeyrek Ekmek"
+          ],
+          "calories": 920,
+          "source": "syrblo_yedek",
+          "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
         }
       }
     },
@@ -28603,5 +28612,5 @@
       }
     }
   },
-  "last_updated": "2026-11-14T22:39:43.481499+03:00"
+  "last_updated": "2026-11-15T13:18:13.061457+03:00"
 }
