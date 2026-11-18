@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T01:45:17.099578+03:00",
+  "last_updated": "2026-11-18T13:59:10.125425+03:00",
   "date": "2026-11-18",
   "total_cities_with_menu": 81,
   "sources": [
@@ -913,10 +913,10 @@
       "date": "2026-11-18",
       "breakfast": {
         "items": [
-          "Peynirli Omlet",
-          "Kahvaltılık Sos",
-          "Simit",
-          "Beyaz Peynir"
+          "Haşlanmış Yumurta",
+          "Patates Kavurması",
+          "Karışık Pizza",
+          "Krem Peynir"
         ],
         "calories": null,
         "source": "kykyurtmenu",
@@ -924,13 +924,13 @@
       },
       "dinner": {
         "items": [
-          "Tutmaç Çorba",
-          "Mercimek Çorba",
-          "İzmir Köfte",
-          "Piliç Kavurma + Küp Patates",
-          "Yeşil Fasulye Yemeği",
-          "Pirinç Pilavı",
-          "Kabak Tatlısı"
+          "Mahluta Çorba",
+          "Tarhana Çorba",
+          "Hamsi Tava",
+          "Piliç Izgara",
+          "Pırasa Yemeği",
+          "Spagetti Napoliten",
+          "İrmik Helvası"
         ],
         "calories": null,
         "source": "kykyurtmenu",
@@ -943,10 +943,10 @@
       "date": "2026-11-18",
       "breakfast": {
         "items": [
-          "Peynirli Omlet",
-          "Pişi",
-          "Simit",
-          "Beyaz Peynir"
+          "Haşlanmış Yumurta",
+          "Patates Kavurması",
+          "Karışık Pizza",
+          "Krem Peynir"
         ],
         "calories": null,
         "source": "kykyurtmenu",
@@ -954,12 +954,13 @@
       },
       "dinner": {
         "items": [
-          "Mercimek Çorbası",
-          "Tarhana Çorbası",
-          "Patates Püreli Kaşarlı Misket Köfte",
-          "Taze Fasulye",
-          "Şehriyeli Pirinç Pilavı",
-          "Kabak Tatlısı"
+          "Domates Çorbası",
+          "Yayla Çorbası",
+          "Çıtır Tavuk",
+          "Et Sote",
+          "Patates Graten",
+          "Makarna",
+          "Havuç Iceberg Turp Salatası"
         ],
         "calories": null,
         "source": "kykyurtmenu",
@@ -972,10 +973,10 @@
       "date": "2026-11-18",
       "breakfast": {
         "items": [
-          "Peynirli Omlet",
-          "Domates Biber Kavurması",
-          "Simit",
-          "Beyaz Peynir"
+          "Haşlanmış Yumurta",
+          "Patates Kavurması",
+          "Karışık Pizza",
+          "Krem Peynir"
         ],
         "calories": null,
         "source": "kykyurtmenu",
@@ -983,46 +984,18 @@
       },
       "dinner": {
         "items": [
-          "Çeşminigar Çorba",
-          "Mısır Çorba",
-          "Rosto Köfte + Püre",
-          "Ratatuy Yemeği",
-          "Şehriyeli Pirinç Pilavı",
-          "Cevizli Tahinli Bal Kabağı Tatlısı"
+          "Domates Çorba",
+          "Havuç Çorba",
+          "Balık Fileto + Fırın Patates",
+          "Kaşarlı Köfte",
+          "Mücver",
+          "İrmik Helvası",
+          "Soslu Makarna",
+          "Roka Salata"
         ],
         "calories": null,
         "source": "kykyurtmenu",
         "source_url": "https://www.kykyurtmenu.com/kayseri/aksam"
-      }
-    },
-    "adana": {
-      "city": "Adana",
-      "city_slug": "adana",
-      "date": "2026-11-18",
-      "breakfast": {
-        "items": [
-          "Peynirli Omlet",
-          "Zeytin Salatası",
-          "Simit",
-          "Beyaz Peynir",
-          "Mandalina"
-        ],
-        "calories": null,
-        "source": "kykyurtmenu",
-        "source_url": "https://www.kykyurtmenu.com/adana/kahvalti"
-      },
-      "dinner": {
-        "items": [
-          "Mahluta Çorba",
-          "Tarhana Çorba",
-          "Sebzeli Köfte",
-          "Karnabahar Kızartma + Yoğurt",
-          "Şehriyeli Pirinç Pilavı",
-          "Armut Tatlısı"
-        ],
-        "calories": null,
-        "source": "kykyurtmenu",
-        "source_url": "https://www.kykyurtmenu.com/adana/aksam"
       }
     },
     "kocaeli": {
@@ -1031,10 +1004,10 @@
       "date": "2026-11-18",
       "breakfast": {
         "items": [
-          "Peynirli Omlet",
-          "Domates + Salatalık",
-          "Simit",
-          "Beyaz Peynir"
+          "Haşlanmış Yumurta",
+          "Patates Kavurması",
+          "Karışık Pizza",
+          "Krem Peynir"
         ],
         "calories": null,
         "source": "kykyurtmenu",
@@ -1042,14 +1015,14 @@
       },
       "dinner": {
         "items": [
-          "Mercimek Çorbası",
-          "Havuç Çorbası",
-          "Karnıyarık",
-          "Tavuk Ciğer + Küp Patates",
-          "Garnitürlü Patates Çanağı",
-          "Pirinç Pilavı",
-          "K. Ayva",
-          "Tahinli Cevizli Kabak Tatlısı"
+          "Ezogelin Çorbası",
+          "Tel Şehriye Çorbası",
+          "Fırın Palamut",
+          "Tavuk Kanat",
+          "Mevsim Türlü",
+          "İrmik Helvası",
+          "Bulgur Pilavı",
+          "Mevsim Yeşillikleri + Turp"
         ],
         "calories": null,
         "source": "kykyurtmenu",
@@ -1062,11 +1035,10 @@
       "date": "2026-11-18",
       "breakfast": {
         "items": [
-          "Peynirli Omlet",
-          "Tahinli Cevizli Çörek",
-          "Simit",
-          "Beyaz Peynir",
-          "Mevsim Sebzeleri Söğüş"
+          "Haşlanmış Yumurta",
+          "Patates Kavurması",
+          "Karışık Pizza",
+          "Krem Peynir"
         ],
         "calories": null,
         "source": "kykyurtmenu",
@@ -1074,13 +1046,13 @@
       },
       "dinner": {
         "items": [
-          "Mercimek Çorbası",
-          "Anadolu Çorbası",
-          "Patlıcan Musakka",
-          "Tavuklu Kağıt Kebabı",
-          "İmambayıldı",
-          "Şehriyeli Pirinç Pilavı",
-          "Cacık"
+          "Ezogelin Çorbası",
+          "Düğün Çorbası",
+          "Piliç Şinitzel + Patates Cips",
+          "Püreli Macar Gulaş",
+          "Karnabahar",
+          "Spagetti Napoliten",
+          "Mevsim Salata"
         ],
         "calories": null,
         "source": "kykyurtmenu",
@@ -1093,10 +1065,10 @@
       "date": "2026-11-18",
       "breakfast": {
         "items": [
-          "Patatesli Omlet",
-          "Söğüş",
-          "Simit",
-          "Beyaz Peynir"
+          "Haşlanmış Yumurta",
+          "Patates Kavurması",
+          "Karışık Pizza",
+          "Krem Peynir"
         ],
         "calories": null,
         "source": "kykyurtmenu",
@@ -1104,12 +1076,12 @@
       },
       "dinner": {
         "items": [
-          "Şehriye Çorba",
-          "Yarma Çorba",
-          "Karnıyarık",
-          "Mantar Sote",
-          "Tel Şehriyeli Pirinç Pilavı",
-          "Tahinli Cevizli Kabak Tatlısı"
+          "Mercimek Çorba",
+          "Domates Çorba",
+          "Piliç Şinitzel + Elma Dilim Patates",
+          "Lahana Sarma + Yoğurt",
+          "Salçalı Spagetti",
+          "Akdeniz Salata"
         ],
         "calories": null,
         "source": "kykyurtmenu",
@@ -1122,10 +1094,10 @@
       "date": "2026-11-18",
       "breakfast": {
         "items": [
-          "Peynirli Omlet",
-          "Tepsi Börek",
-          "Simit",
-          "Beyaz Peynir"
+          "Haşlanmış Yumurta",
+          "Patates Kavurma veya Salatası",
+          "Karışık Pizza",
+          "Krem Peynir"
         ],
         "calories": null,
         "source": "kykyurtmenu",
@@ -1133,17 +1105,46 @@
       },
       "dinner": {
         "items": [
-          "Mercimek Çorba",
-          "Tarhana Çorba",
-          "İzmir Köfte",
-          "Piliç Kavurma",
-          "Yoğurtlu Karnabahar Kızartma",
-          "Pirinç Pilavı",
-          "Magnolya"
+          "Yüksük Çorba",
+          "Mısır Çorba",
+          "Tavuklu Sultan Kebabı",
+          "Karışık Kızartma + Yoğurt",
+          "Makarna",
+          "Ayran"
         ],
         "calories": null,
         "source": "kykyurtmenu",
         "source_url": "https://www.kykyurtmenu.com/balikesir/aksam"
+      }
+    },
+    "adana": {
+      "city": "Adana",
+      "city_slug": "adana",
+      "date": "2026-11-18",
+      "breakfast": {
+        "items": [
+          "Haşlanmış Yumurta / Omlet",
+          "Beyaz Peynir / Kaşar Peynir",
+          "Siyah ve Yeşil Zeytin",
+          "Taze Ekmek & Simit",
+          "Sıcak Çay / Süt"
+        ],
+        "calories": 750,
+        "source": "standart_kyk",
+        "source_url": null
+      },
+      "dinner": {
+        "items": [
+          "Şehriye Çorbası / Mercimek Çorbası",
+          "Tavuklu Buğu Kebabı / Lahana Sarma",
+          "Salçalı Makarna",
+          "Yoğurt",
+          "500 ml Su",
+          "Çeyrek Ekmek"
+        ],
+        "calories": 920,
+        "source": "syrblo_yedek",
+        "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
       }
     },
     "adiyaman": {
