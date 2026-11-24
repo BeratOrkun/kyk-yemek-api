@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T04:59:32.478970+03:00",
+  "last_updated": "2026-11-24T16:12:51.955795+03:00",
   "date": "2026-11-24",
   "total_cities_with_menu": 81,
   "sources": [
@@ -887,6 +887,42 @@
         "calories": 1500,
         "source": "kykyemek",
         "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Trabzon?city=Trabzon&mealType=true&hidePast=false&monthShift=0"
+      }
+    },
+    "usak": {
+      "city": "Uşak",
+      "city_slug": "usak",
+      "date": "2026-11-24",
+      "breakfast": {
+        "items": [
+          "Haşlanmış Yumurta",
+          "Salçalı Sosis",
+          "Simit",
+          "Kaşar Peyniri",
+          "Siyah",
+          "Yeşil Zeytin",
+          "500 ml Su",
+          "Çeyrek Ekmek"
+        ],
+        "calories": 775,
+        "source": "kykyemek",
+        "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Uşak?city=U%C5%9Fak&mealType=false&hidePast=false&monthShift=0"
+      },
+      "dinner": {
+        "items": [
+          "Tavuk Suyu Çorba",
+          "Köz Biber Çorba",
+          "Soslu Misket Köfte",
+          "Tavuk Çökertme",
+          "Şakşuka",
+          "Salçalı Makarna",
+          "Kemalpaşa Tatlısı",
+          "500 ml Su",
+          "Çeyrek Ekmek"
+        ],
+        "calories": 1500,
+        "source": "kykyemek",
+        "source_url": "https://kykyemek.com/Menu/GetDailyMenu/Uşak?city=U%C5%9Fak&mealType=true&hidePast=false&monthShift=0"
       }
     },
     "bursa": {
@@ -2454,36 +2490,6 @@
     "tunceli": {
       "city": "Tunceli",
       "city_slug": "tunceli",
-      "date": "2026-11-24",
-      "breakfast": {
-        "items": [
-          "Haşlanmış Yumurta / Omlet",
-          "Beyaz Peynir / Kaşar Peynir",
-          "Siyah ve Yeşil Zeytin",
-          "Taze Ekmek & Simit",
-          "Sıcak Çay / Süt"
-        ],
-        "calories": 750,
-        "source": "standart_kyk",
-        "source_url": null
-      },
-      "dinner": {
-        "items": [
-          "Ezogelin Çorba / Sebze Çorbası",
-          "Hamburger(Et) / Fırında Kaşarlı Karnabahar Köftesi",
-          "Patates Kızartması+Ketçap+Mayonez",
-          "Ayran/Meyve Suyu",
-          "500 ml Su",
-          "Çeyrek Ekmek"
-        ],
-        "calories": 920,
-        "source": "syrblo_yedek",
-        "source_url": "https://github.com/Syrblo/telegram-kyk-menu-botu"
-      }
-    },
-    "usak": {
-      "city": "Uşak",
-      "city_slug": "usak",
       "date": "2026-11-24",
       "breakfast": {
         "items": [
