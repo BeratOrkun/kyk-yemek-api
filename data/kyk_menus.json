@@ -22425,10 +22425,10 @@
         "date": "2026-11-25",
         "breakfast": {
           "items": [
-            "Haşlanmış Yumurta",
-            "Salçalı Sosis",
-            "Simit",
-            "Kaşar Peynir"
+            "Sucuklu Omlet",
+            "Su Böreği",
+            "Mozaik Kek",
+            "Beyaz Peynir"
           ],
           "calories": null,
           "source": "kykyurtmenu",
@@ -22436,14 +22436,13 @@
         },
         "dinner": {
           "items": [
-            "Terbiyeli Sebze Çorba",
-            "Mahluta Çorba",
-            "Kaşarlı Köfte",
-            "Fırında Sebzeli Tavuk",
-            "Karışık Kızartma",
-            "Salçalı Makarna",
-            "Ayran",
-            "Meyve Suyu"
+            "Mısır Çorba",
+            "Tarhana Çorba",
+            "Hünkar Beğendi",
+            "Tavuklu Beğendi",
+            "Yeşil Fasulye Yemeği",
+            "Şehriyeli Bulgur Pilavı",
+            "Pembe Sultan"
           ],
           "calories": null,
           "source": "kykyurtmenu",
@@ -22456,10 +22455,10 @@
         "date": "2026-11-25",
         "breakfast": {
           "items": [
-            "Haşlanmış Yumurta",
-            "Salçalı Sosis",
-            "Simit",
-            "Kaşar Peynir"
+            "Sucuklu Omlet",
+            "Peynirli Gül Böreği",
+            "Mozaik Kek",
+            "Beyaz Peynir"
           ],
           "calories": null,
           "source": "kykyurtmenu",
@@ -22467,13 +22466,13 @@
         },
         "dinner": {
           "items": [
-            "Domates Çorbası",
-            "Mantar Çorbası",
-            "Dana Hamburger + Patates Cipsi",
-            "Karışık Dolma",
-            "Spagetti",
-            "Ayran",
-            "Meyve Suyu"
+            "Çeşm-i Nigar Çorbası",
+            "Sütlü Brokoli Çorbası",
+            "Kuşbaşılı Patlıcan Kebabı",
+            "Piliç Roti",
+            "Taze Fasulye",
+            "Salçalı Bulgur Pilavı",
+            "Rus Salatası"
           ],
           "calories": null,
           "source": "kykyurtmenu",
@@ -22486,10 +22485,10 @@
         "date": "2026-11-25",
         "breakfast": {
           "items": [
-            "Haşlanmış Yumurta",
-            "Salçalı Sosis",
-            "Simit",
-            "Kaşar Peynir"
+            "Sucuklu Omlet",
+            "Domates Biber Kavurması",
+            "Mozaik Kek",
+            "Beyaz Peynir"
           ],
           "calories": null,
           "source": "kykyurtmenu",
@@ -22497,15 +22496,12 @@
         },
         "dinner": {
           "items": [
-            "Ezogelin Çorba",
-            "Mısır Çorba",
-            "Hamburger",
-            "Pırasa Yemeği",
-            "Patates Cips + Ketçap",
-            "Mayonez",
-            "Salçalı Makarna",
-            "Ayran",
-            "Meyve Suyu"
+            "Domates Çorba",
+            "Kremalı Mantar Çorba",
+            "Etli Çökertme Kebabı",
+            "Sebze Graten",
+            "Yeşil Mercimekli Bulgur Pilavı",
+            "Halka Tatlısı"
           ],
           "calories": null,
           "source": "kykyurtmenu",
@@ -22518,10 +22514,10 @@
         "date": "2026-11-25",
         "breakfast": {
           "items": [
-            "Haşlanmış Yumurta",
-            "Salçalı Sosis",
-            "Simit",
-            "Kaşar Peynir"
+            "Sucuklu Omlet",
+            "Kaşarlı Pişi",
+            "Mozaik Kek",
+            "Beyaz Peynir"
           ],
           "calories": null,
           "source": "kykyurtmenu",
@@ -22529,13 +22525,12 @@
         },
         "dinner": {
           "items": [
-            "Yayla Çorba",
-            "Tarhana Çorba",
-            "Etli Hamburger Köfte",
-            "Domates Soslu Ratatuy",
-            "Patates Kızartması",
-            "Ayran",
-            "Meyve Suyu"
+            "Mercimek Çorba",
+            "Sebze Çorba",
+            "Adana Kebabı",
+            "Taze Fasulye",
+            "Sebzeli Bulgur Pilavı",
+            "Ayran"
           ],
           "calories": null,
           "source": "kykyurtmenu",
@@ -22548,10 +22543,10 @@
         "date": "2026-11-25",
         "breakfast": {
           "items": [
-            "Haşlanmış Yumurta",
-            "Salçalı Sosis",
-            "Simit",
-            "Kaşar Peynir"
+            "Sucuklu Omlet",
+            "Mini Bazlama",
+            "Mozaik Kek",
+            "Beyaz Peynir"
           ],
           "calories": null,
           "source": "kykyurtmenu",
@@ -22559,13 +22554,14 @@
         },
         "dinner": {
           "items": [
-            "Mercimek Çorbası",
-            "Havuç Çorbası",
-            "Hamburger",
-            "Pizza",
-            "Patates Kızartması",
-            "Ayran",
-            "Meyve Suyu"
+            "Ezogelin Çorbası",
+            "K. Sebze Çorbası",
+            "Tas Kebabı",
+            "Körili Soslu Tavuk",
+            "Havuçlu Bezelye",
+            "Pirinç Pilavı",
+            "Haydari",
+            "Köz Patlıcan Biber Salatası"
           ],
           "calories": null,
           "source": "kykyurtmenu",
@@ -22578,10 +22574,10 @@
         "date": "2026-11-25",
         "breakfast": {
           "items": [
-            "Haşlanmış Yumurta",
-            "Salçalı Sosis",
-            "Simit",
-            "Kaşar Peynir"
+            "Sucuklu Omlet",
+            "Bazlama",
+            "Mozaik Kek",
+            "Beyaz Peynir"
           ],
           "calories": null,
           "source": "kykyurtmenu",
@@ -22589,13 +22585,14 @@
         },
         "dinner": {
           "items": [
-            "Ezogelin Çorbası",
-            "Sebze Çorbası",
-            "Hamburger",
-            "Çıtır Tavuklu Hamburger",
-            "Kızarmış Mücver",
-            "Spagetti Napoliten",
-            "Ayran"
+            "Mercimek Çorbası",
+            "Tarhana Çorbası",
+            "Kırmızı Etli Çökertme Kebabı",
+            "Fırın Kanat But + Patates Cips",
+            "Karnabahar",
+            "Sebzeli Bulgur Pilavı",
+            "Çikolatalı",
+            "Meyveli Yaş Pasta"
           ],
           "calories": null,
           "source": "kykyurtmenu",
@@ -22608,10 +22605,10 @@
         "date": "2026-11-25",
         "breakfast": {
           "items": [
-            "Haşlanmış Yumurta",
-            "Salçalı Sosis",
-            "Simit",
-            "Kaşar Peynir"
+            "Sucuklu Omlet",
+            "Pizza",
+            "Mozaik Kek",
+            "Beyaz Peynir"
           ],
           "calories": null,
           "source": "kykyurtmenu",
@@ -22619,12 +22616,13 @@
         },
         "dinner": {
           "items": [
-            "Mercimek Çorba",
-            "Yüksük Çorba",
-            "Izgara Köfte + Elma Dilim Patates",
-            "Soslu Kızartma",
-            "Körili Soslu Makarna",
-            "Ayran"
+            "Ezogelin Çorba",
+            "Kremalı Mantar Çorba",
+            "Tas Kebabı",
+            "Tavuk Sote",
+            "Karnabahar Pane",
+            "Nohutlu Bulgur Pilavı",
+            "Borani"
           ],
           "calories": null,
           "source": "kykyurtmenu",
@@ -22637,10 +22635,10 @@
         "date": "2026-11-25",
         "breakfast": {
           "items": [
-            "Haşlanmış Yumurta",
-            "Salçalı Sosis",
-            "Simit",
-            "Kaşar Peynir"
+            "Sucuklu Omlet",
+            "Karışık Pizza",
+            "Mozaik Kek",
+            "Beyaz Peynir"
           ],
           "calories": null,
           "source": "kykyurtmenu",
@@ -22648,13 +22646,14 @@
         },
         "dinner": {
           "items": [
-            "Yüksük Çorba",
-            "Çeşmi Nigar Çorba",
-            "Et Hamburger",
-            "Çıtır Tavuk Burger",
-            "Mücver + Yoğurt",
-            "Patates Kızartması",
-            "Ayran veya Meyve Suyu"
+            "Terbiyeli Şehriye Çorba",
+            "Ezogelin Çorba",
+            "Etli Çökertme Kebabı",
+            "Tavuklu Çökertme Kebabı",
+            "Nohut Yemeği",
+            "Şehriyeli Pirinç Pilavı",
+            "Mevsim Salata",
+            "Triliçe"
           ],
           "calories": null,
           "source": "kykyurtmenu",
@@ -28610,5 +28609,5 @@
       }
     }
   },
-  "last_updated": "2026-11-25T02:43:34.845656+03:00"
+  "last_updated": "2026-11-25T15:00:18.830043+03:00"
 }
